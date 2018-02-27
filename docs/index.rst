@@ -6,7 +6,7 @@
 translationStudio Information
 ============================
 
-This site is the official documentation for translationStudio information.
+This site is the official documentation for translationStudio.
 
 
 Contents:
