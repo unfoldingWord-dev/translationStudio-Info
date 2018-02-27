@@ -13,15 +13,15 @@ Installation
 ------------
 1.	Tap the Google Play Store icon on the Android device. Google Play Store opens.
  
-2.	In the search bar at the top of the screen, type translationStudio with no spaces and tap the magnifying glass on the keyboard.
+2.	In the search bar at the top of the screen, type **translationStudio** with no spaces and tap the magnifying glass on the keyboard.
  
 3.	When the Play Store has found the program, tap the tS icon.
  
-4.	Tap Install. The program downloads and then installs.
+4.	Tap **Install**. The program downloads and then installs.
  
-5.	Once the program is installed, tap Open.
+5.	Once the program is installed, tap **Open**.
 
-6.	Tap ALLOW to enable translationStudio to access photos, media, and files on your device.
+6.	Tap **ALLOW** to enable translationStudio to access photos, media, and files on your device.
  
 There may be an automatic update before the translationStudio app opens.
 
@@ -39,31 +39,33 @@ There are two types of accounts that you can use:
 
 If you do not want to create a new Door43 account at this time or are not able to connect to the Internet, you can create an offline account:
 
-1.	On the opening screen, tap Create offline Account. The login screen opens.
+1.	On the opening screen, tap **Create offline Account**. The login screen opens.
 
-2.	Tap the Your Name or Pseudonym field.  
+2.	Tap the **Your Name or Pseudonym** field.  
 
-3.	Type your user name or pseudonym into the field, and then tap Continue. NOTE: You may use a pseudonym instead of your real name. A pseudonym is a name that cannot be traced back to you.
+3.	Type your user name or pseudonym into the field, and then tap **Continue**. 
+**NOTE**: You may use a pseudonym instead of your real name. A pseudonym is a name that cannot be traced back to you.
 
-4.	Tap Continue to acknowledge the privacy notice.
+4.	Tap **Continue** to acknowledge the privacy notice.
 
-If you are connected to the internet want to use an existing Door43 account, you can tap Login with Door43 account. Enter your Door43 credentials to log in.
+If you are connected to the internet want to use an existing Door43 account, you can tap **Login with Door43 account**. Enter your Door43 credentials to log in.
 
-If you do not have a Door43 account, but you wish to be able to use an Internet connection to upload your work to Door43, you can create a Door43 account.
+If you do not have a Door43 account, but you wish to be able to use an Internet connection to upload your work to Door43, you can create a Door43 account:
 
-1.	Tap Create new Door43 Account to create a new Door43 user account. The Door43 Account Creation window opens. (This requires an Internet connection.)
+1.	Tap **Create new Door43 Account** to create a new Door43 user account. The Door43 Account Creation window opens. (This requires an Internet connection.)
 
-2.	Tap the Your Name or Pseudonym field and type your user name or pseudonym into the field. This is the user name that you will use to log in to the app. Note: Because names are publicly available, you may prefer to use a pseudonym. Make up any pseudonym of your choice.
+2.	Tap the **Your Name or Pseudonym** field and type your user name or pseudonym into the field. This is the user name that you will use to log in to the app. 
+**Note**: Because names are publicly available, you may prefer to use a pseudonym. Make up any pseudonym of your choice.
 
-3.	Tap the 'Email Address' line to enter your email address.
+3.	Tap the **Email Address** line to enter your email address.
 
-4.	Enter your name or pseudonym in the Login name field. This is your display name, which can be different from the user name that you use to log in.
+4.	Enter your name or pseudonym in the **Login name** field. This is your display name, which can be different from the user name that you use to log in.
 
-5.	Enter a password in both fields. Tap Show Passwords at the bottom of the screen to display the passwords.
+5.	Enter a password in both fields. Tap **Show Passwords** at the bottom of the screen to display the passwords.
 
-6.	Confirm the information, and then tap Continue to begin registration.
+6.	Confirm the information, and then tap **Continue** to begin registration.
 
-7.	Tap Continue to acknowledge the privacy notice.
+7.	Tap **Continue** to acknowledge the privacy notice.
 
 Dictionary
 ----------
