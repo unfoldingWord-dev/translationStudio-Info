@@ -15,7 +15,7 @@ Contents:
    :maxdepth: 2
 
    tablet
-      tStart
+   tStart
       tNavigate
       tTranslate
       tUpload
