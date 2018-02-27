@@ -7,7 +7,7 @@ A translation project consists of:
 
 2. A project category - *what* you will be translating, such as Open Bible Stories or a book of the Bible
 
-3. A source language and text - the language and text *from which* you will be translating, such as the English ULB (Unlocked Literal Bible)
+3. A source text language - the language and text *from which* you will be translating, such as the English ULB (Unlocked Literal Bible)
 
 So, to start a translation project, you must specify each of these elements.
 
