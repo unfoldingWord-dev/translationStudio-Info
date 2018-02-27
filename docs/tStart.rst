@@ -64,9 +64,9 @@ Note that even after requesting a new language, certain approvals are required b
 
 How do I select the project category?
 -------------------------------------
-To designate what to work on for this project, complete the following steps:
+After you have selected your target language, the next screen(s) enable you to specify the project category -- *what* you will be translating. To designate what to work on for this project, complete the following steps:
 
-1.	Choose a project from the Bible: OT, Bible: NT, or Open Bible Stories to start translating.
+1.	Choose a project from the **Bible: OT**, **Bible: NT**, or **Open Bible Stories** to start translating.
 
 2.	If you choose either the Old or New Testament, you next choose a book for the project.
  
@@ -75,7 +75,7 @@ To designate what to work on for this project, complete the following steps:
 How do I select or change the source text language? 
 ---------------------------------------------------
 
-You can select and/or change your source text language whenever you use translationStudio. When first creating a new project, you must select a source text language. This is the text you will be translating from.
+You can select and/or change your source text language whenever you use translationStudio. When first creating a new project, you *must* select a source text language. This is the text you will be translating *from*.
 
 In the translation project complete the following steps to select or change the source text language:
 
@@ -85,6 +85,6 @@ In the translation project complete the following steps to select or change the 
 
 * To save the selection(s), tap **Confirm** at the bottom right of the Choose source translations box, OR tap **Cancel** to close without saving the selected language.
  
-You can choose multiple source texts; those selected are moved to the top portion of the Choose source translations box under the Selected heading. Choosing multiple source texts enables you to compare them as you are performing the translation work. For example, when translating the you should always choose the Unlocked Literal Bible (ULB) as a source, but you may want to also choose the Unlocked Dynamic Bible (UDB) if it is available in your language because it may be easier to understand. Looking at the UDB may help you to translate or check a passage.
+You can choose multiple source texts; those selected are moved to the top portion of the *Choose source translations* box under the *Selected* heading. Choosing multiple source texts enables you to compare them as you are performing the translation work. For example, when translating the Bible you should always choose the Unlocked Literal Bible (ULB) in the source language, but you may want to also choose the Unlocked Dynamic Bible (UDB) if it is available in your language because it may be easier to understand. Looking at the UDB may help you to translate or check a passage.
  
 Note: You are not able to work in a project until you choose a source text language.
