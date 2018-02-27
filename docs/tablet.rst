@@ -73,6 +73,7 @@ OR
   *	Tap **Logout** at the top right of the screen next to the user name.
 
 How do I use translationStudio for the first time?
+--------------------------------------------------
 
 Complete these steps to use translationStudio for the first time: 
 
