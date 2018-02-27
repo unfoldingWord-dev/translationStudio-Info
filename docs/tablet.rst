@@ -70,11 +70,34 @@ Logging Out
 
 Logging Out
 Note: At any time you can perform the following steps to access the initial screen to change login or translator settings:
+
 *	From the Your Translation Projects screen:
   *	Tap the 3-dot icon to invoke the options menu. This icon is at the lower left if your tablet is held horizontally, or at the lower right if the tablet is held vertically.
-  *	Tap Log out.
+  *	Tap **Log out**.
 OR
-  *	Tap Logout at the top right of the screen next to the user name.
+  *	Tap **Logout** at the top right of the screen next to the user name.
+
+How do I use translationStudio for the first time?
+
+Complete these steps to use translationStudio for the first time: 
+
+1.	If translationStudio is open, skip to step 3. If it is not open, tap the translationStudio icon   on the tablet (this icon may not be on the main screen; you may need to scroll to a different screen to find it.)
+ 
+2.	Create or login to your account. See translationStudio-Android - Login Options for more information.
+
+3.	Read and agree with each of the statements in the Terms of Use by performing the following steps:
+
+   *	Tap each statement.
+
+   *	Scroll through the text to read the entire statement.
+
+   *	Tap Close for each statement.
+
+   *	When you have read all statements, tap I Agree. (At any time you can view the License Agreement, Statement of Faith, Translation Guidelines and the Software Licenses information from the Settings Menu.)
+
+4.	The program opens to the Your Translation Projects screen (which is the home screen). The first time you use the program you have no existing projects, so the home screen displays a welcome message. Tap the plus icon   in the upper right or the Start a New Translation button at the bottom to start a new project.
+
+image:: Africa2.png
 
 
 
