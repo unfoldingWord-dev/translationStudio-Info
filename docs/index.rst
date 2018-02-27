@@ -15,6 +15,17 @@ Contents:
    :maxdepth: 2
 
    tablet
+      tInstall
+      tStart
+      tNavigate
+      tUpload
+      tHelps
+      
    desktop
+      dInstall
+      dStart
+      dNavigate
+      dUpload
+      dHelps
 
 
