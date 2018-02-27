@@ -1,5 +1,5 @@
-Resource Types
-==============
+translationStudio for Android
+=============================
 
 Content can be displayed in different forms and used in different ways within an application. Therefore several resource types exist to support different needs.
 
