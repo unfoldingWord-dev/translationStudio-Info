@@ -4,8 +4,8 @@ translationStudio for Android
 .. image:: ../images/tS.png
 
 
-Starting a New Translation Project
-----------------------------------
+Installation
+------------
 1.	Tap the Google Play Store icon on the Android device. Google Play Store opens.
  
 2.	In the search bar at the top of the screen, type **translationStudio** with no spaces and tap the magnifying glass on the keyboard.
@@ -90,7 +90,7 @@ Complete these steps to use translationStudio for the first time:
 
    *	When you have read all statements, tap I Agree. (At any time you can view the License Agreement, Statement of Faith, Translation Guidelines and the Software Licenses information from the Settings Menu.)
 
-4.	The program opens to the Your Translation Projects screen (which is the home screen). The first time you use the program you have no existing projects, so the home screen displays a welcome message. Tap the plus icon   in the upper right or the Start a New Translation button at the bottom to start a new project.
+4.	The program opens to the Your Translation Projects screen (which is the home screen). 
 
 
 
