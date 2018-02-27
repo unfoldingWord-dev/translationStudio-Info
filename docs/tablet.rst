@@ -1,6 +1,8 @@
 translationStudio for Android
 =============================
 
+.. image:: ../images/tS.png
+
 The translationStudio for Android app is a mobile app for translators to do offline translating. 
 It can be downloaded for Android devices: see https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en. 
 It contains the content that needs to be translated as well as translationHelps. You can share information directly from device to
@@ -97,7 +99,7 @@ Complete these steps to use translationStudio for the first time:
 
 4.	The program opens to the Your Translation Projects screen (which is the home screen). The first time you use the program you have no existing projects, so the home screen displays a welcome message. Tap the plus icon   in the upper right or the Start a New Translation button at the bottom to start a new project.
 
-.. image:: ../images/Africa.png
+
 
 
 
