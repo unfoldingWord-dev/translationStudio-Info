@@ -33,9 +33,9 @@ Login Options
 When translationStudio first opens, you are presented with a request to create or log in to an account. 
 There are two types of accounts that you can use:
 
-* Offline Account – user has full use of the program except for uploading to Door43. You may want to start with an offline account and then switch to a Door43 account later when you want to upload your work (the work is attached to the device, not to the account). If you want to use an offline account, skip to the Local Login or Offline Account section. 
+* **Offline Account** – user has full use of the program except for uploading to Door43. You may want to start with an offline account and then switch to a Door43 account later when you want to upload your work (the work is attached to the device, not to the account).  
 
-* Door43 Account – user has full use of the program and can upload to Door43 (requires Internet connection.)
+* **Door43 Account** – user has full use of the program and can upload to Door43 (requires Internet connection.)
 
 If you do not want to create a new Door43 account at this time or are not able to connect to the Internet, you can create an offline account:
 
@@ -47,6 +47,23 @@ If you do not want to create a new Door43 account at this time or are not able t
 
 4.	Tap Continue to acknowledge the privacy notice.
 
+If you are connected to the internet want to use an existing Door43 account, you can tap Login with Door43 account. Enter your Door43 credentials to log in.
+
+If you do not have a Door43 account, but you wish to be able to use an Internet connection to upload your work to Door43, you can create a Door43 account.
+
+1.	Tap Create new Door43 Account to create a new Door43 user account. The Door43 Account Creation window opens. (This requires an Internet connection.)
+
+2.	Tap the Your Name or Pseudonym field and type your user name or pseudonym into the field. This is the user name that you will use to log in to the app. Note: Because names are publicly available, you may prefer to use a pseudonym. Make up any pseudonym of your choice.
+
+3.	Tap the 'Email Address' line to enter your email address.
+
+4.	Enter your name or pseudonym in the Login name field. This is your display name, which can be different from the user name that you use to log in.
+
+5.	Enter a password in both fields. Tap Show Passwords at the bottom of the screen to display the passwords.
+
+6.	Confirm the information, and then tap Continue to begin registration.
+
+7.	Tap Continue to acknowledge the privacy notice.
 
 Dictionary
 ----------
