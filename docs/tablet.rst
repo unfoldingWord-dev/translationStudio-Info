@@ -1,14 +1,16 @@
 translationStudio for Android
 =============================
 
-Content can be displayed in different forms and used in different ways within an application. Therefore several resource types exist to support different needs.
+The translationStudio-Android is a mobile app where translators can do offline translating. 
+It can be downloaded for Android devices: see https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en. 
+It contains the content that needs to be translated as well as translationHelps. You can share information directly from device to
+device, and you can upload finished content to Door43 where it can be digitally published.
 
-All resource types, unless otherwise specified, may employ any translation mode. Translation modes indicate to an application under what conditions a resource container is translatable.
 
 
 
-Book
-----
+Installation
+------------
 
 Represents any text that is structured like a book. e.g. there are chapters and chunks.
 
