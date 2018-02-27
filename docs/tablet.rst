@@ -11,31 +11,21 @@ device, and you can upload finished content to Door43 where it can be digitally 
 
 Installation
 ------------
+1.	Tap the Google Play Store icon on the Android device. Google Play Store opens.
+ 
+2.	In the search bar at the top of the screen, type translationStudio with no spaces and tap the magnifying glass on the keyboard.
+ 
+3.	When the Play Store has found the program, tap the tS icon.
+ 
+4.	Tap Install. The program downloads and then installs.
+ 
+5.	Once the program is installed, tap Open.
 
-Represents any text that is structured like a book. e.g. there are chapters and chunks.
+6.	Tap ALLOW to enable translationStudio to access photos, media, and files on your device.
+ 
+There may be an automatic update before the translationStudio app opens.
 
-Related resources can be indicated in the config.yml file:
 
-.. code-block:: yaml
-
-    ---
-    content:
-      01:      // chapter
-        01:    // chunk
-          words: 
-            - "//bible/tw/creation"
-            - "//bible/tw/god"
-            - "//bible/tw/heaven"
-            - "//bible/tw/holyspirit"
-          questions: 
-            - "//gen/tq/01:01"
-          notes: 
-            - "//gen/tn/01:01"
-          images: 
-            - "image://gen/ulb/01:01"
-
-Implementation Notes:
-Related resources as shown above may be displayed in the application along the side of the book content in order to provide contextual information.
 
 Help
 ----
