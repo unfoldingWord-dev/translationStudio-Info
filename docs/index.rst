@@ -17,6 +17,7 @@ Contents:
    tablet
       tStart
       tNavigate
+      tTranslate
       tUpload
       tHelps
       
