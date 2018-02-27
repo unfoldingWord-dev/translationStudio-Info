@@ -14,7 +14,6 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   structure
-   manifest
-   resource_types
-   linking
+   tablet
+   desktop
+
