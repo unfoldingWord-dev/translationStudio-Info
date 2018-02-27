@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Unlocked Grammar Information
+translationStudio Information
 ============================
 
-This site is the official documentation for Door43's Unlocked Grammar formatting information.
+This site is the official documentation for translationStudio information.
 
 
 Contents:
