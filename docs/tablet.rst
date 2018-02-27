@@ -53,8 +53,7 @@ If you do not have a Door43 account, but you wish to be able to use an Internet 
 
 1.	Tap **Create new Door43 Account** to create a new Door43 user account. The Door43 Account Creation window opens. (This requires an Internet connection.)
 
-2.	Tap the **Your Name or Pseudonym** field and type your user name or pseudonym into the field. This is the user name that you will use to log in to the app. 
-**Note**: Because names are publicly available, you may prefer to use a pseudonym. Make up any pseudonym of your choice.
+2.	Tap the **Your Name or Pseudonym** field and type your user name or pseudonym into the field. This is the user name that you will use to log in to the app. (Because names are publicly available, you may prefer to use a pseudonym. Make up any pseudonym of your choice.)
 
 3.	Tap the **Email Address** line to enter your email address.
 
@@ -66,83 +65,17 @@ If you do not have a Door43 account, but you wish to be able to use an Internet 
 
 7.	Tap **Continue** to acknowledge the privacy notice.
 
-Dictionary
-----------
+Logging Out
+-----------
 
-A standalone dictionary of terms. Currently all dictionary resources must use the markdown format.
-
-The dictionary terms are used as the chapter slug and the translation of the term is placed inside a single 01.txt file:
-
-.. code-block:: none
-
-    content/
-        |-config.yml
-        |-aaron/
-        |    |-01.txt
-        |
-        |-abel/
-        ...
-        |-unclean/
-
-NOTE: lengthy dictionary terms may be split into more than one chunk.
-
-The 01.txt file contains the translation of the term where the header is the title of the term and the rest is the description:
-
-.. code-block:: none
-
-    #Aaron
-
-    God chose Aaron to be the first high priest for the people of Israel.
-
-The config.yml is used to indicate related terms, aliases, and examples.
-
-.. code-block:: yaml
-
-    ---
-      aaron: 
-        see_also: 
-          - "covenant"
-          - "testimony"
-        aliases:
-          - aaronalias # note: not a real alias for this word
-        examples:
-          - "09-15"
-          - "10-05"
-
-Examples are tricky because a dict may be referenced by many different projects/resources. Therefore we cannot specify a resource link but instead must simply provide the chapter and chunk that contains the example.
+Logging Out
+Note: At any time you can perform the following steps to access the initial screen to change login or translator settings:
+*	From the Your Translation Projects screen:
+  *	Tap the 3-dot icon to invoke the options menu. This icon is at the lower left if your tablet is held horizontally, or at the lower right if the tablet is held vertically.
+  *	Tap Log out.
+OR
+  *	Tap Logout at the top right of the screen next to the user name.
 
 
-Manual
-------
 
-A user manual. For now manual resources must use the markdown format.
 
-Manuals are a collection of modules (articles):
-
-.. code-block:: none
-
-    content/
-        ...
-        |-translate-unknowns
-        |    |-title.txt
-        |    |-sub-title.txt
-        |    |-01.txt
-        ...
-        |-writing-decisions/
-
-The 01.txt file contains the translation of the module. The title.txt file contains the name of the module. And sub-title.txt contains the question that is answered by this module.
-
-NOTE: if desired the module can be split into multiple chunks.
-The config.yml indicates recommended and dependent modules:
-
-.. code-block:: yaml
-
-    ---
-      translate-unknowns: 
-        recommended: 
-          - "translate-names"
-          - "translate-transliterate"
-        dependencies: 
-          - "figs-sentences"
-
-Dependencies are id's of modules that should be read before this one. Recommendations are modules that would likely benefit the reader next.
