@@ -43,8 +43,7 @@ If you do not want to create a new Door43 account at this time or are not able t
 
 2.	Tap the **Your Name or Pseudonym** field.  
 
-3.	Type your user name or pseudonym into the field, and then tap **Continue**. 
-**NOTE**: You may use a pseudonym instead of your real name. A pseudonym is a name that cannot be traced back to you.
+3.	Type your user name or pseudonym into the field, and then tap **Continue**. (You may use a pseudonym instead of your real name. A pseudonym is a name that cannot be traced back to you.)
 
 4.	Tap **Continue** to acknowledge the privacy notice.
 
