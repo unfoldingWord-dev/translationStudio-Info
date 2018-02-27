@@ -1,7 +1,7 @@
 translationStudio for Android
 =============================
 
-The translationStudio-Android is a mobile app where translators can do offline translating. 
+The translationStudio for Android app is a mobile app for translators to do offline translating. 
 It can be downloaded for Android devices: see https://play.google.com/store/apps/details?id=com.translationstudio.androidapp&hl=en. 
 It contains the content that needs to be translated as well as translationHelps. You can share information directly from device to
 device, and you can upload finished content to Door43 where it can be digitally published.
@@ -27,24 +27,14 @@ There may be an automatic update before the translationStudio app opens.
 
 
 
-Help
-----
+Login Options
+-------------
 
-A helpful resource to supplement chunks in a book. e.g. notes or questions. Currently all help resources must use the markdown format.
+When translationStudio first opens, you are presented with a request to create or log in to an account. 
+There are two types of accounts that you can use:
+1. Offline Account – user has full use of the program except for uploading to Door43. You may want to start with an offline account and then switch to a Door43 account later when you want to upload your work (the work is attached to the device, not to the account). If you want to use an offline account, skip to the Local Login or Offline Account section. 
+2. Door43 Account – user has full use of the program and can upload to Door43 (requires Internet connection.)
 
-Each chunk contains one or more helps which correlate to the corresponding chunk in a book resource:
-
-.. code-block:: none
-
-    #In the beginning God created
-
-    This introductory statement gives a summary of the rest of the chapter. AT: "This is about how God made...in the beginning." Some languages translate it as "A very long time ago God created." Translate it in a way that that shows that this actually happened and is not just a folk story.
-
-    #In the beginning
-
-    This refers to the start of the world and everything in it.
-
-When parsed by an app the helps in this chunk are split at the headers. If there is preceding text (without a header) it will be displayed as a single help and a short snippet of the text will be used for the header if applicable.
 
 
 Dictionary
