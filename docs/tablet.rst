@@ -32,9 +32,20 @@ Login Options
 
 When translationStudio first opens, you are presented with a request to create or log in to an account. 
 There are two types of accounts that you can use:
-1. Offline Account – user has full use of the program except for uploading to Door43. You may want to start with an offline account and then switch to a Door43 account later when you want to upload your work (the work is attached to the device, not to the account). If you want to use an offline account, skip to the Local Login or Offline Account section. 
-2. Door43 Account – user has full use of the program and can upload to Door43 (requires Internet connection.)
 
+* Offline Account – user has full use of the program except for uploading to Door43. You may want to start with an offline account and then switch to a Door43 account later when you want to upload your work (the work is attached to the device, not to the account). If you want to use an offline account, skip to the Local Login or Offline Account section. 
+
+* Door43 Account – user has full use of the program and can upload to Door43 (requires Internet connection.)
+
+If you do not want to create a new Door43 account at this time or are not able to connect to the Internet, you can create an offline account:
+
+1.	On the opening screen, tap Create offline Account. The login screen opens.
+
+2.	Tap the Your Name or Pseudonym field.  
+
+3.	Type your user name or pseudonym into the field, and then tap Continue. NOTE: You may use a pseudonym instead of your real name. A pseudonym is a name that cannot be traced back to you.
+
+4.	Tap Continue to acknowledge the privacy notice.
 
 
 Dictionary
