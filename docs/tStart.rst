@@ -1,5 +1,5 @@
-Starting a Translation Project
-==============================
+tS for Android: Starting a Translation Project
+==============================================
 
 A translation project consists of:
 
