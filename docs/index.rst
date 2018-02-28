@@ -16,16 +16,16 @@ Contents:
 
    tablet
    tStart
-      tNavigate
-      tTranslate
-      tUpload
-      tHelps
+   tNavigate
+   tTranslate
+   tUpload
+   tHelps
       
    desktop
-      dInstall
-      dStart
-      dNavigate
-      dUpload
-      dHelps
+   dInstall
+   dStart
+   dNavigate
+   dUpload
+   dHelps
 
 
