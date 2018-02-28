@@ -17,7 +17,7 @@ there is also a green **Start a New Translation** button on the home screen that
 
 
 How do I select the target language?
-------------------------------------
+--------------------------------------
 
 When you start a new project, you need to choose the target language (the mother tongue language *into which* you will be translating).
 
@@ -36,7 +36,7 @@ When you start a new project, you need to choose the target language (the mother
 3.	Tap your language to select it. 
     
 Can I change the target language of an existing project?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 If you make a mistake and designate the wrong target language, after you have finished defining the project, you can change the target language.
 On the Home page, tap the "i" icon next to the project whose target language you wish to change.
@@ -44,7 +44,7 @@ On the information window, tap **Change** next to the target language.
  
 The Choose target language window appears, enabling you to select a different target language. As soon as you select a language, a message displays to tell you the change is complete. 
 
-What if you cannot find the desired target language? 
+What if I cannot find the desired target language? 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 If you do not see your language in the list of target languages, first try alternate spellings, dialect names, and any variant names for your language. If you still can't find it, you can request that your language be added.
 
@@ -63,7 +63,7 @@ To use Feedback in the 3-dot options menu to request a new language:
 Note that even after requesting a new language, certain approvals are required before it will be added to translationStudio. Until your language is added to the app, use *English Demo1* or *English Demo2*. You will need to use the Feedback option from the options menu to send a comment stating that you used another language in place of your own. Once your translation has been received, the tS workers will put it in the correct language. Your translation will then show in your language.
 
 How do I select the project category?
--------------------------------------
+---------------------------------------
 After you have selected your target language, the next screen(s) enable you to specify the project category -- *what* you will be translating. To designate what to work on for this project, complete the following steps:
 
 1.	Choose a project from the **Bible: OT**, **Bible: NT**, or **Open Bible Stories** to start translating.
@@ -73,7 +73,7 @@ After you have selected your target language, the next screen(s) enable you to s
 3.	The new translation project opens showing the Chapter or Story view. If you choose an Open Bible Stories project, it opens to the first paragraph of The Creation
 
 How do I select or change the source text language? 
----------------------------------------------------
+-----------------------------------------------------
 
 You can select and/or change your source text language whenever you use translationStudio. When first creating a new project, you *must* select a source text language. This is the text you will be translating *from*.
 
