@@ -14,28 +14,14 @@ The Project screen is where you perform all of the translation work on a single 
 The navigation and menu icons are on the left of the screen if you hold the tablet or phone in a horizontal position, and at the bottom of the screen if you hold the device in a vertical (tall) position.  It is best to hold the tablet or phone in a horizontal position.
 
 In the horizontal position:
-The top three icons are the working views.
 
+* The top three icons are the working views.
 
+* The slider in the middle moves through the text.
 
+* The options menu is the three dots icon at the bottom.
 
-
-
-
-
-
-	The slider in the middle moves through the text.
-
-
-
-
-
-
-
-
-
-
-	The options menu is the three dots icon at the bottom.
+.. image:: ../images/tSNavigation.gif
 
 Working Views Icons
 The Chapter or Story icon   is the top working views icon on the left (held horizontally) or bottom left (held vertically) and looks like 3½ horizontal lines. 
