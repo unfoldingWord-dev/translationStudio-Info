@@ -32,7 +32,7 @@ Working Views Icons
 
    * Swipe to either side, or tap the page behind the text, for a blank page to enter the target language translation of the text. 
  
-*The **Chunk icon** is the middle working views icon on the left (held horizontally) or bottom (held vertically) and looks like two pages, one behind the other. This shows the text divided into chunks, or small sections of the story or chapter. 
+* The **Chunk icon** is the middle working views icon on the left (held horizontally) or bottom (held vertically) and looks like two pages, one behind the other. This shows the text divided into chunks, or small sections of the story or chapter. 
 
    * Swipe down or up to move from chunk to chunk. 
    
@@ -88,6 +88,8 @@ Tap the three dots icon at the bottom left (or right) of the screen to open the 
   
 Resources
 ---------
+
+When you are in the *Check view*, you have Bible resources available to you to assist in checking and refining the draft. Swipe from the right to the left side, or tap in the right margin, to show the resources for that chunk.
 
 The Resources pane is divided into three tabs. All of the translationNotes, translationWords, and translationQuestions are included in translationStudio. 
 
