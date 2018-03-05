@@ -21,7 +21,7 @@ How do I select the target language?
 
 When you start a new project, you need to choose the target language (the mother tongue language *into which* you will be translating).
 
-1.	Choose your target language (the one you will be translating to):
+1.	Find your target language (the one you will be translating to):
 
     *	Swipe up (place a finger on the white area and slide up) to find the target language  
 
@@ -29,11 +29,9 @@ When you start a new project, you need to choose the target language (the mother
   
     *	Tap the magnifying glass icon   located at the top right of the screen. 
  
-    The search field opens and the keyboard appears. 
-
-2.  Type the first few letters of your language to narrow the language list. 
+    The search field opens and the keyboard appears. Type the first few letters of your language to narrow the language list. 
  
-3.	Tap your language to select it. 
+2.	Tap your language to select it. 
     
 Can I change the target language of an existing project?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
