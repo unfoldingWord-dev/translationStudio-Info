@@ -29,7 +29,7 @@ When you start a new project, you need to choose the target language (the mother
   
     *	Tap the magnifying glass icon   located at the top right of the screen. 
  
-    The search field opens and the keyboard appears. Type the first few letters of your language to narrow the language list. 
+    * The search field opens and the keyboard appears. Type the first few letters of your language to narrow the language list. 
  
 2.	Tap your language to select it. 
     
