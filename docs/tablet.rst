@@ -1,7 +1,7 @@
 translationStudio for Android
 =============================
 
-.. image:: ../images/tS.png
+.. image:: ../images/tSforAndroid.png
 
 
 Installation
