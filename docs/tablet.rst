@@ -1,5 +1,5 @@
-translationStudio for Android
-=============================
+translationStudio for Android™
+==============================
 
 .. image:: ../images/tSforAndroid.gif
 
