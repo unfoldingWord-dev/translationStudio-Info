@@ -30,16 +30,18 @@ Working Views Icons
 
    * Swipe up to read the entire chapter or story in the source text language. 
 
-   * Swipe to either side, or tap the page behind the text, for a notebook page to enter or view the target language translation of the text. 
+   * Swipe to either side, or tap the page behind the text, for a page to view the target language translation of the text. 
  
 * The **Chunk icon** is the middle working views icon on the left (held horizontally) or bottom (held vertically) and looks like two pages, one behind the other. This shows the text divided into chunks, or small sections of the story or chapter. 
 
    * Swipe down or up to move from chunk to chunk. 
    
-   * Swipe to the side, or tap the page behind the chunk, for a notebook page to type in or view the target language translation of the text.
+   * Swipe to the side, or tap the page behind the chunk, for a note card to type in, view, or edit the target language translation of the text.
  
 * The **Check icon** is the last working views icon on the left (held horizontally) or bottom (held vertically) and looks like three vertical lines. In this view the source text is on the left and the translation work is on the right so that you can compare them side-by-side. 
 
+   * Click the pencil icon to edit the text
+   
    * Swipe up or down to move from chunk to chunk. 
    
    * Swipe from the right to the left side, or tap in the right margin, to show the resources for that chunk.
