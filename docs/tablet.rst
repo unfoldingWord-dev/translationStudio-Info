@@ -4,6 +4,9 @@ translationStudio for Android™
 .. image:: ../images/tSforAndroid.gif
 *The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.*
 
+The app translationStudio for Android is a mobile app where translators can do offline translating. It contains the content that needs to be translated as well as translationHelps. You can share information directly from device to device, and you can upload finished content to Door43 where it can be digitally published.
+
+
 Installation
 ------------
 1.	Tap the Google Play Store icon on the Android device. Google Play Store opens.
