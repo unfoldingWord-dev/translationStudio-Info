@@ -40,7 +40,7 @@ The project screen can display three different views of the texts that you can a
    
    * Swipe to the side, or tap the page behind the chunk, for a note card to type in, view, or edit the target language translation of the text.
  
-* The **Check icon** is the last working views icon on the left (held horizontally) or bottom (held vertically) and looks like three vertical lines. In this view, while the texts are divided by chunks as in the chunk view, the source text is on the left and the translation work is on the right so that you can compare them side-by-side. 
+* The **Check icon** is the last working views icon on the left (held horizontally) or bottom (held vertically) and looks like three vertical lines. In this view, while the texts are divided by chunks as in the chunk view, the source text is on the left and the translation work is on the right so that you can compare them side-by-side. You also have Bible resources (translationNotes, translationWords, and translationQuestions) available in this view.
 
    * Click the pencil icon to edit the text
    
