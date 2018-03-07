@@ -34,7 +34,7 @@ The project screen can display three different views of the texts that you can a
 
    * Swipe to either side, or tap the page behind the text, for a page to view the target language translation of the text. 
  
-* The **Chunk icon** is the middle working views icon on the left (held horizontally) or bottom (held vertically) and looks like two pages, one behind the other. This shows the text divided into chunks, or small sections of the story or chapter. Note that this view is available only if you have selected *Blind Edit Mode* in Settings.
+* The **Chunk icon** is the middle working views icon on the left (held horizontally) or bottom (held vertically) and looks like two pages, one behind the other. This shows the text divided into chunks, or small sections of the story or chapter. 
 
    * Swipe down or up to move from chunk to chunk. 
    
