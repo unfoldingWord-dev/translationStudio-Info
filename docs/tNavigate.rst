@@ -28,19 +28,19 @@ Working Views Icons
 
 The project screen can display three different views of the texts that you can access by tapping the working view icons:
 
-* The **Chapter or Story icon** is the top working views icon on the left (held horizontally) or bottom left (held vertically) and looks like 3½ horizontal lines. 
+* The **Chapter or Story icon** is the top working views icon on the left (held horizontally) or bottom left (held vertically) and looks like 3½ horizontal lines. This shows the texts divided by chapters.
 
    * Swipe up to read the entire chapter or story in the source text language. 
 
    * Swipe to either side, or tap the page behind the text, for a page to view the target language translation of the text. 
  
-* The **Chunk icon** is the middle working views icon on the left (held horizontally) or bottom (held vertically) and looks like two pages, one behind the other. This shows the text divided into chunks, or small sections of the story or chapter. 
+* The **Chunk icon** is the middle working views icon on the left (held horizontally) or bottom (held vertically) and looks like two pages, one behind the other. This shows the text divided into chunks, or small sections of the story or chapter. Note that this view is available only if you have selected *Blind Edit Mode* in Settings.
 
    * Swipe down or up to move from chunk to chunk. 
    
    * Swipe to the side, or tap the page behind the chunk, for a note card to type in, view, or edit the target language translation of the text.
  
-* The **Check icon** is the last working views icon on the left (held horizontally) or bottom (held vertically) and looks like three vertical lines. In this view the source text is on the left and the translation work is on the right so that you can compare them side-by-side. 
+* The **Check icon** is the last working views icon on the left (held horizontally) or bottom (held vertically) and looks like three vertical lines. In this view, while the texts are divided by chunks as in the chunk view, the source text is on the left and the translation work is on the right so that you can compare them side-by-side. 
 
    * Click the pencil icon to edit the text
    
