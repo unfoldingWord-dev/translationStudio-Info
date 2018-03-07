@@ -26,6 +26,8 @@ In the horizontal position:
 Working Views Icons
 -------------------
 
+The project screen can display three different views of the texts that you can access by tapping the working view icons:
+
 * The **Chapter or Story icon** is the top working views icon on the left (held horizontally) or bottom left (held vertically) and looks like 3½ horizontal lines. 
 
    * Swipe up to read the entire chapter or story in the source text language. 
