@@ -1,5 +1,9 @@
-tS for Android: Starting a Translation Project
+tS for Android™: Starting a Translation Project
 ==============================================
+
+
+.. image:: ../images/tSforAndroid.gif
+*The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.*
 
 A translation project consists of:
 
@@ -9,7 +13,7 @@ A translation project consists of:
 
 3. A source text language - the language and text *from which* you will be translating, such as the English ULB (Unlocked Literal Bible)
 
-So, to start a translation project, you must specify each of these elements.
+To start a translation project, you must specify each of these elements.
 
 Begin by clicking the blue plus sign on the home screen to start defining a new project. When you first start using translationStudio,
 there is also a green **Start a New Translation** button on the home screen that you can use to start a new project.
@@ -85,4 +89,4 @@ In the translation project complete the following steps to select or change the 
  
 You can choose multiple source texts; those selected are moved to the top portion of the *Choose source translations* box under the *Selected* heading. Choosing multiple source texts enables you to compare them as you are performing the translation work. For example, when translating the Bible you should always choose the Unlocked Literal Bible (ULB) in the source language, but you may want to also choose the Unlocked Dynamic Bible (UDB) if it is available in your language because it may be easier to understand. Looking at the UDB may help you to translate or check a passage.
  
-Note: You are not able to work in a project until you choose a source text language.
+**Note**: You are not able to work in a project until you choose a source text language.
