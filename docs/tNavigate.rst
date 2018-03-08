@@ -1,4 +1,4 @@
-tS for Android: Navigation in a Project
+tS for Android: Navigation in a Project *
 ==============================================
 
 .. image:: ../images/tSforAndroid.gif
@@ -7,10 +7,6 @@ tS for Android: Navigation in a Project
     :height: 130px
     :alt: translationStudio for Android
     
-*The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.*
-
-
-
 Layout
 ------
 
@@ -113,4 +109,4 @@ Tap the three dots icon at the bottom left (or right) of the screen to open the 
   
   * **Settings**: Same as on home screen 
   
-
+* *The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.*
