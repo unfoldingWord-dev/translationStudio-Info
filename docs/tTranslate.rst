@@ -2,6 +2,10 @@ tS for Android: How do I translate in translationStudio?
 ========================================================
 
 .. image:: ../images/tSforAndroid.gif
+    :width: 200px
+    :align: center
+    :height: 100px
+    :alt: translationStudio for Android
 *The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.*
 
 A basic translation process for any unfoldingWord project is explained here.
