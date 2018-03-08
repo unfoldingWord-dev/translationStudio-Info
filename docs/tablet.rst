@@ -72,7 +72,7 @@ Logging Out
 Logging Out
 Note: At any time you can perform the following steps to access the initial screen to change login or translator settings:
 
-*	From the Your Translation Projects screen:
+*	From the *Your Translation Projects* (home) screen:
   *	Tap the 3-dot icon to invoke the options menu. This icon is at the lower left if your tablet is held horizontally, or at the lower right if the tablet is held vertically.
   *	Tap **Log out**.
 OR
