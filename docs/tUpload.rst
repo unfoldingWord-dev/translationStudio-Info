@@ -1,5 +1,13 @@
-Uploading Your Work *
-=====================
+tS for Android™: Uploading Your Work *
+======================================
+
+
+.. image:: ../images/tSforAndroid.gif
+    :width: 100px
+    :align: center
+    :height: 130px
+    :alt: translationStudio for Android
+
 
 When you work in translationStudio, your text is saved every five minutes to your device. Your work is not saved to Door43 until you upload it.
 
@@ -66,4 +74,6 @@ There are six Upload/Export options.
   * Tap Bluetooth to send your work to a nearby device that is paired to yours through Bluetooth. If the app continues searching for more than a minute, exit the screen and verify that the devices are paired through Bluetooth.
 
   * Tap Gmail to send your work to an email account. This requires an Internet connection. The app opens and enables you to send the project file as an attachment. 
-
+  
+  
+* *The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.*
