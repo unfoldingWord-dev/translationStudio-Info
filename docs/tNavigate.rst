@@ -62,6 +62,10 @@ When you are in the *Check view*, you have Bible resources available to you to a
 The Resources pane is divided into three tabs. All of the translationNotes, translationWords, and translationQuestions are included in translationStudio. 
 
 * Tap either Notes, Words, or Questions to navigate among the tabs. 
+    
+    * For **Notes** or **Words**, the words or phrases are listed as they appear in the story or in the ULB. Tap the word or phrase for help in understanding how to translate into the target language. 
+    
+    * **Questions**: The questions are about information as it appears in the story on in the ULB. Read the question and answer it according to the translated text. Tap the question for the expected answer. If the given answer and the expected answer are the same then the translation might be clear and accurate.
 
 * If there are no existing resources for a particular chunk, the resources pane is blank. 
 
