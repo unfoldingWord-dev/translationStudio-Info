@@ -1,4 +1,4 @@
-tS for Android™: How do I translate in translationStudio? *
+tS for Android™: Performing Translation *
 ==========================================================
 
 .. image:: ../images/tSforAndroid.gif
