@@ -97,4 +97,4 @@ If you need to make changes in the translated text, perform the following steps:
  
 At any time you can slide the toggle   back to the left, or just tap it, to edit the chunk again. Use the above steps to edit.
 
-* *The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.*
+``*`` The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.*
