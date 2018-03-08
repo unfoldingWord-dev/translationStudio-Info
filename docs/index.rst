@@ -14,6 +14,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+translationStudio for Android
+-----------------------------
    tablet
    tStart
    tNavigate
@@ -21,6 +23,8 @@ Contents:
    tUpload
    tHelps
       
+translationStudio for Desktop
+-----------------------------
    desktop
    dInstall
    dStart
