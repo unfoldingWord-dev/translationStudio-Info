@@ -1,4 +1,4 @@
-Uploading Your Work*
+Uploading Your Work *
 =====================
 
 When you work in translationStudio, your text is saved every five minutes to your device. Your work is not saved to Door43 until you upload it.
@@ -33,7 +33,7 @@ There are six Upload/Export options.
 
   * Tap Dismiss to dismiss the message once you make note of the file location.
  
-3.	Tap Export to PDF to create a PDF file of your work. 
+3.	Tap **Export to PDF** to create a PDF file of your work. 
 
   * You have the option to include incomplete chunks or not. 
   
@@ -47,9 +47,9 @@ There are six Upload/Export options.
   
   * Tap Dismiss to go back to the Upload/Export options.
 
-4.	Tap Export Project File to create a copy of the entire project file. The steps are the same as exporting to a PDF above.
+4.	Tap **Export Project File** to create a copy of the entire project file. The steps are the same as exporting to a PDF above.
 
-5.	Tap Send to Friend to export the file to another device.
+5.	Tap **Send to Friend** to export the file to another device.
 
   * You are asked to specify a name for your device. Enter a name and then tap Confirm.
  
@@ -57,7 +57,7 @@ There are six Upload/Export options.
  
   * Close the window when told that the export process is complete.
   
-6. Tap Send to another app to send the file to other apps on your device, such as email. Tap the desired app:
+6. Tap **Send to another app** to send the file to other apps on your device, such as email. Tap the desired app:
 
   * Tap Save to Drive to send your work to a Google Drive that has been created before. This requires an Internet connection.
 
