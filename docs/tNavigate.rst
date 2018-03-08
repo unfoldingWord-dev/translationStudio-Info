@@ -82,30 +82,30 @@ Tap the three dots icon at the bottom left (or right) of the screen to open the 
 
 * On the Your Translation Projects screen the options menu includes the following options: 
 
-  * Update
+  * Update: Update source or target language files or translationStudio app
    
-  * Import
+  * Import: Import a project or source text
    
-  * Feedback 
+  * Feedback: Report a bug 
    
-  * Share this app
+  * Share this app: Share with another tablet
    
-  * Log Out
+  * Log Out: Log out of the app so you can log in as a different user
    
-  * Settings 
+  * Settings: Adjust translationStudio settings; view license agreement, statement of faith, or translation guidelines  
 
 * On the Project screen the options menu includes: 
 
   * Home - returns to the Your Translation Projects screen (home screen)
   
-  * Project Review
+  * Project Review: Check completion status of project, add contributors, upload or export your work
   
-  * Upload/Export
+  * Upload/Export: Back up or share your work
   
-  * Print
+  * Print: Print out your work
   
-  * Feedback 
+  * Feedback: Same as on home screen 
   
-  * Settings 
+  * Settings: Same as on home screen 
   
 
