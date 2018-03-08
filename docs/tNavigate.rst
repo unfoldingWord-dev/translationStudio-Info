@@ -78,34 +78,34 @@ The Slider icon is a quick way to move through a story or book of the Bible.
 Options Menu 
 ------------
 
-Tap the three dots icon at the bottom left (or right) of the screen to open the options menu. The Project screen and the Your Translation Projects screen (home screen) have two different menus.
+Tap the three dots icon at the bottom left (or right) of the screen to open the options menu. The Project screen and the *Your Translation Projects* screen (home screen) have two different menus.
 
-* On the Your Translation Projects screen the options menu includes the following options: 
+* On the *Your Translation Projects* screen the options menu includes the following options: 
 
-  * Update: Update source or target language files or translationStudio app
+  * **Update**: Update source or target language files or translationStudio app
    
-  * Import: Import a project or source text
+  * **Import**: Import a project or source text
    
-  * Feedback: Report a bug 
+  * **Feedback**: Report a bug 
    
-  * Share this app: Share with another tablet
+  * **Share this app**: Share with another tablet
    
-  * Log Out: Log out of the app so you can log in as a different user
+  * **Log Out**: Log out of the app so you can log in as a different user
    
-  * Settings: Adjust translationStudio settings; view license agreement, statement of faith, or translation guidelines  
+  * **Settings**: Adjust translationStudio settings; view license agreement, statement of faith, or translation guidelines  
 
 * On the Project screen the options menu includes: 
 
-  * Home - returns to the Your Translation Projects screen (home screen)
+  * **Home** - returns to the Your Translation Projects screen (home screen)
   
-  * Project Review: Check completion status of project, add contributors, upload or export your work
+  * **Project Review**: Check completion status of project, add contributors, upload or export your work
   
-  * Upload/Export: Back up or share your work
+  * **Upload/Export**: Back up or share your work
   
-  * Print: Print out your work
+  * **Print**: Print out your work
   
-  * Feedback: Same as on home screen 
+  * **Feedback**: Same as on home screen 
   
-  * Settings: Same as on home screen 
+  * **Settings**: Same as on home screen 
   
 
