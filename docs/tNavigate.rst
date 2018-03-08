@@ -1,5 +1,5 @@
-tS for Android™: Navigation in a Project *
-==============================================
+tS for Android™: Performing Navigation *
+========================================
 
 .. image:: ../images/tSforAndroid.gif
     :width: 100px
