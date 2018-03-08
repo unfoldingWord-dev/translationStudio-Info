@@ -11,11 +11,12 @@ This site is the official documentation for translationStudio.
 
 Contents:
 
-.. toctree::
-   :maxdepth: 2
+
 
 translationStudio for Android
 -----------------------------
+.. toctree::
+   :maxdepth: 2
    tablet
    tStart
    tNavigate
@@ -25,6 +26,8 @@ translationStudio for Android
       
 translationStudio for Desktop
 -----------------------------
+.. toctree::
+   :maxdepth: 2
    desktop
    dInstall
    dStart
