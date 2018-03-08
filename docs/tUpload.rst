@@ -76,4 +76,4 @@ There are six Upload/Export options.
   * Tap Gmail to send your work to an email account. This requires an Internet connection. The app opens and enables you to send the project file as an attachment. 
   
   
-* *The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.*
+``*`` *The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.*
