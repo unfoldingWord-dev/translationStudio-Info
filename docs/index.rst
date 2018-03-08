@@ -12,7 +12,7 @@ This site is the official documentation for translationStudio.
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 2:
    tablet
    tStart
    tNavigate
