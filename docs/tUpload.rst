@@ -8,7 +8,7 @@ tS for Android™: Uploading or Exporting Your Work *
     :height: 130px
     :alt: translationStudio for Android
 
-Why do I want to upload or Export my work?
+Why do I want to upload or export my work?
 ------------------------------------------
 
 When you work in translationStudio, your text is saved every five minutes to your device. Your work is not saved to Door43 until you upload it.
