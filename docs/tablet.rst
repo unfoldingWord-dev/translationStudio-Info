@@ -69,8 +69,11 @@ If you do not have a Door43 account, but you wish to be able to use an Internet 
 Logging Out
 -----------
 
-Logging Out
-Note: At any time you can perform the following steps to access the initial screen to change login or translator settings:
+You do not need to log out of the app before you close it. If you do not log out, when you reopen translationStudio you will still be logged in.
+
+However, you may want to log out to change the logged-in user. For example, you may do your work offline with an offline account, but when you want to upload your work you need to use a Door43 account.
+
+At any time you can perform the following steps to access the initial screen to change login or translator settings:
 
 *	From the *Your Translation Projects* (home) screen:
   *	Tap the 3-dot icon to invoke the options menu. This icon is at the lower left if your tablet is held horizontally, or at the lower right if the tablet is held vertically.
