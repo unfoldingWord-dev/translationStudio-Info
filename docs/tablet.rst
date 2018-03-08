@@ -54,11 +54,11 @@ If you do not have a Door43 account, but you wish to be able to use an Internet 
 
 1.	Tap **Create new Door43 Account** to create a new Door43 user account. The Door43 Account Creation window opens. (This requires an Internet connection.)
 
-2.	Tap the **Your Name or Pseudonym** field and type your user name or pseudonym into the field. This is the user name that you will use to log in to the app. (Because names are publicly available, you may prefer to use a pseudonym. Make up any pseudonym of your choice.)
+2.	Tap the **Your Name or Pseudonym** field and type your name or pseudonym into the field. This is the display name -- the name that will be listed as a contributor to any project files on this device. (Because names are publicly available, you may prefer to use a pseudonym. Make up any pseudonym of your choice.)
 
 3.	Tap the **Email Address** line to enter your email address.
 
-4.	Enter your name or pseudonym in the **Login name** field. This is your display name, which can be different from the user name that you use to log in.
+4.	Enter your name or pseudonym in the **Login name** field. This is your Door43 user name that you will use to log in to Door43 and to the translationStudio app. If you used a pseudonym in step (2) above, enter the same pseudonym here.
 
 5.	Enter a password in both fields. Tap **Show Passwords** at the bottom of the screen to display the passwords.
 
