@@ -36,9 +36,9 @@ To write the translation in your language:
 
 2.	The screen is arranged to appear like two sheets of paper, one behind the other, with the Chapter or Story view initially on top. In this view, read the source text.
 
-  a.	The app is organized to work with blind drafting. 
+  * The app is organized to work with blind drafting. 
   
-  b.	You may want to read MAST Core Concepts to understand the steps of blind drafting translation.
+  * You may want to read MAST Core Concepts to understand the steps of blind drafting translation.
 
 3.	When you are ready to begin translating, tap the “piece of paper” that is behind the one you have been reading.
  
@@ -52,11 +52,11 @@ To write the translation in your language:
  
 8.	Type in the translation for that chunk on the page. This should not be a word-for-word translation, but it should be expressed in a way that would sound natural to a native speaker of the language.
  
-  a.	Start translating with a blind draft.  Set aside the source text and draft the chunk as well as you can without looking back at the text. 
+  * Start translating with a blind draft.  Set aside the source text and draft the chunk as well as you can without looking back at the text. 
 
-  b.	Write everything that you remember about that chunk. 
+  * Write everything that you remember about that chunk. 
 
-  c.	Do not look back at the source text for this chunk until you begin the editing steps. 
+  * Do not look back at the source text for this chunk until you begin the editing steps. 
 
 9.	When you are finished working, swipe up to work on the next chunk.
  
@@ -81,16 +81,16 @@ If you need to make changes in the translated text, perform the following steps:
  
 4)	Place the verse markers (skip this step if you are translating Open Bible Stories, which are not divided into verses).
 
-  a)	There is a verse marker for each verse in the chunk.
+  * There is a verse marker for each verse in the chunk.
 
-  b)	Tap and hold each verse marker and drag it to the beginning of each verse, dropping it above and slightly to the left of the location where it should go.   
+  * Tap and hold each verse marker and drag it to the beginning of each verse, dropping it above and slightly to the left of the location where it should go.   
 
-  c)	Continue until all verses are marked with a verse number.
+  * Continue until all verses are marked with a verse number.
 
 5)	When you are finished working, use the toggle at the bottom of the chunk to mark the translation of that chunk done. 
 
-  a) Slide the toggle to the right, or just tap it, to indicate that the chunk is finished.
+  * Slide the toggle to the right, or just tap it, to indicate that the chunk is finished.
  
-  b) A message appears for you to confirm that the chunk is done. Tap Confirm to indicate that the work is done, or tap Cancel to continue editing.
+  * A message appears for you to confirm that the chunk is done. Tap Confirm to indicate that the work is done, or tap Cancel to continue editing.
  
 At any time you can slide the toggle   back to the left, or just tap it, to edit the chunk again. Use the above steps to edit.
