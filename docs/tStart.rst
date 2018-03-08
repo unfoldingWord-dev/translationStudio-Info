@@ -1,5 +1,5 @@
-tS for Android™: Starting a Translation Project
-==============================================
+tS for Android™: Starting a Translation Project *
+=================================================
 
 
 .. image:: ../images/tSforAndroid.gif
