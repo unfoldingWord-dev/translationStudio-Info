@@ -1,5 +1,5 @@
-tS for Android™: Uploading Your Work *
-======================================
+tS for Android™: Uploading or Exporting Your Work *
+===================================================
 
 
 .. image:: ../images/tSforAndroid.gif
@@ -8,12 +8,17 @@ tS for Android™: Uploading Your Work *
     :height: 130px
     :alt: translationStudio for Android
 
+Why do I want to upload or Export my work?
+------------------------------------------
 
 When you work in translationStudio, your text is saved every five minutes to your device. Your work is not saved to Door43 until you upload it.
 
 You can also share your work with another program, send it to another device, or put it on an SD card. When your work is on a storage card, you can put it on a computer or device that has the translationStudio app.
 
 **Note**: You can move or share only the changes that have been made on the device you are using to perform this function. In these instructions, "your work" means any changes made on this device.
+
+How can I upload or export my work?
+-----------------------------------
 
 To share, move, or store your work:
 
