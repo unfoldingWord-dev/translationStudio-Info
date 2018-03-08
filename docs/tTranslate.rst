@@ -69,7 +69,10 @@ To enter the Check view, tap the Check View icon   at the left or bottom of the 
 
 In the Check view the source text is on the left and the translation work is on the right. You can compare the two and then edit the translation to include all details in the source text. 
 
-In the Check view you can access all of the translationNotes, translationWords and translationQuestions that have been included in the program. See Find the Resources (translationHelps) in translationStudio for more information.
+In the Check view you can access all of the translationNotes, translationWords and translationQuestions that have been included in the program. 
+
+Edit Text
+^^^^^^^^^
 
 If you need to make changes in the translated text, perform the following steps:
 
