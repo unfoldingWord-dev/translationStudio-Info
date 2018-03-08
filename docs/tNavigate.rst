@@ -82,7 +82,7 @@ Tap the three dots icon at the bottom left (or right) of the screen to open the 
 
 * On the *Your Translation Projects* screen the options menu includes the following options: 
 
-  * **Update**: Update source or target language files or translationStudio app
+  * **Update**: Update source or target language files or the translationStudio app
    
   * **Import**: Import a project or source text
    
@@ -96,7 +96,7 @@ Tap the three dots icon at the bottom left (or right) of the screen to open the 
 
 * On the Project screen the options menu includes: 
 
-  * **Home** - returns to the Your Translation Projects screen (home screen)
+  * **Home**: returns to the Your Translation Projects screen (home screen)
   
   * **Project Review**: Check completion status of project, add contributors, upload or export your work
   
