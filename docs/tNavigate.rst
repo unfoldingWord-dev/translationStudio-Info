@@ -1,4 +1,4 @@
-tS for Android: Navigation in a Project *
+tS for Android™: Navigation in a Project *
 ==============================================
 
 .. image:: ../images/tSforAndroid.gif
