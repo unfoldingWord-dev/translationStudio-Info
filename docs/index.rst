@@ -20,11 +20,13 @@ Contents:
    tTranslate
    tUpload
    tHelps
+   tSettings
    desktop
    dInstall
    dStart
    dNavigate
    dUpload
    dHelps
+   dSettings
 
 
