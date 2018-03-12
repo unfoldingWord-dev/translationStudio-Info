@@ -49,8 +49,9 @@ Translation Notes are words or phrases copied from the ULB and then explained. I
 
 For example:
 
-*	**copied ULB text** - translation suggestion or information for the translator
-
+ ----------------------------------------------------------------------------------
+| *	**copied ULB text** - translation suggestion or information for the translator |
+ ----------------------------------------------------------------------------------
 
 There are many different types of notes in the Translation Notes. Each type of note gives the explanation in a different way. Knowing the type of note will help translators make decisions on the best way to translate the Bible text into their language.
 
