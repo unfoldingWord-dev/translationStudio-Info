@@ -43,7 +43,7 @@ When you start a new project, you need to choose the target language (the mother
 Can I change the target language of an existing project?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-If you make a mistake and designate the wrong target language, after you have finished defining the project, you can change the target language.
+If you make a mistake and designate the wrong target language, after you have finished defining the project you can change the target language.
 On the Home page, tap the "i" icon next to the project whose target language you wish to change.
 On the information window, tap **Change** next to the target language.
  
