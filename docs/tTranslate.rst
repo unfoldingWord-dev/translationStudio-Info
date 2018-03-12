@@ -1,10 +1,10 @@
-tS for Android™: Performing Translation *
+tS for Android™: Performing Translation 
 ==========================================================
 
-.. image:: ../images/tSforAndroid.gif
-    :width: 100px
+.. image:: ../images/tSForAndroidWithAttr.gif
+    :width: 305px
     :align: center
-    :height: 130px
+    :height: 245px
     :alt: translationStudio for Android
 
 A basic translation process for any unfoldingWord project is explained here.
@@ -103,4 +103,3 @@ Recover Deleted Translation Text
 If you accidentally delete a large amount of work, send email to help@door43.org.
 
 
-``*`` *The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.*
