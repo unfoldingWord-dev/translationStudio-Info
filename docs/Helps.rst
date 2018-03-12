@@ -196,7 +196,7 @@ to him who blasphemes against the Holy Spirit, it will not be forgiven. (Luke 12
 
 Saul, Saul, why are you persecuting me? (Acts 9:4 ULB)*
 
-* why are you persecuting me? - The Lord used this question to rebuke Saul. In some languages a statement would be more clear. AT: "You are persecuting me!" (See: `Rhetorical Question <https://dw.door43.org/en/ta/vol1/translate/figs_rquestion>`)
+* why are you persecuting me? - The Lord used this question to rebuke Saul. In some languages a statement would be more clear. AT: "You are persecuting me!" (See: `Rhetorical Question <https://dw.door43.org/en/ta/vol1/translate/figs_rquestion>`_)
 
 Notes That Include a Quote from the UDB
 Description
