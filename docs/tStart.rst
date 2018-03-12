@@ -94,4 +94,4 @@ You can choose multiple source texts; those selected are moved to the top portio
  
 **Note**: You are not able to work in a project until you choose a source text language.
 
-``*`` *The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.*
+
