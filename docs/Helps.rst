@@ -199,55 +199,109 @@ Saul, Saul, why are you persecuting me? (Acts 9:4 ULB)*
 * why are you persecuting me? - The Lord used this question to rebuke Saul. In some languages a statement would be more clear. AT: "You are persecuting me!" (See: `Rhetorical Question <https://dw.door43.org/en/ta/vol1/translate/figs_rquestion>`_)
 
 Notes That Include a Quote from the UDB
-Description
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description**
+
 There may not be a note if the Unlocked Dynamic Bible provides a good alternate translation for the ULB. However, on occasion a note may include text from the UDB as a suggested translation. In that case the text from the UDB will be followed by "(UDB)."
-Translation Notes Examples
+
+**Translation Notes Examples**
+
 they implored him to stay with them (John 4:40 ULB)
+
 they urged him to stay a longer time with them (John 4:40 UDB)
-	implored him - "begged him" or "urged him" (UDB)
-Here the suggested translation for the words 'implored him' is 'begged him.' The words, 'urged him' from the UDB mean the same thing and are included as another suggestion.
+
+*	implored him - "begged him" or "urged him" (UDB) 
+
+* Here the suggested translation for the words 'implored him' is 'begged him.' The words, 'urged him' from the UDB mean the same thing and are included as another suggestion.
+
 When he saw Jesus, he fell on his face (Luke 5:12 ULB)
+
 When he saw Jesus, he bowed down to the ground (Luke 5:12 UDB)
-	he fell on his face - "he knelt and touched the ground with his face" or "he bowed down to the ground" (UDB)
-Here the words from the UDB are provided as another translation suggestion.
+
+*	he fell on his face - "he knelt and touched the ground with his face" or "he bowed down to the ground" (UDB)
+
+* Here the words from the UDB are provided as another translation suggestion.
+
 Notes That Have Alternate Meanings
-Description
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description**
+
 Alternate meanings refer to when there are different understandings of what a word or phrase means.
 The note will have the ULB text followed by an explanation starting with the words "Possible meanings are." The meanings are numbered, and the first one is most likely correct. If a meaning is given in a way that it can be used as a translation, it will have quote marks around it.
+
 The translator needs to decide which meaning to translate. Translators may choose the first meaning, or they may choose one of the other meanings if the people in their community use and respect another Bible version that has one of those other meanings.
-Translation Notes Examples
+
+**Translation Notes Examples**
+
 You are like a young lion among the nations, like a monster in the seas (Ezekiel 32:2 ULB)
-	like a monster in the seas - Possible meanings are that 1) he was powerful or 2) he was not doing anything important.
-This note has the ULB text followed by two meanings. The note starts with 'Possible meanings are,' and the meanings are numbered. The first meaning is most likely correct.
+
+* like a monster in the seas - Possible meanings are that 1) he was powerful or 2) he was not doing anything important.
+
+* This note has the ULB text followed by two meanings. The note starts with 'Possible meanings are,' and the meanings are numbered. The first meaning is most likely correct.
+
 But Simon Peter, when he saw it, fell down at Jesus' knees (Luke 5:8 ULB)
-	fell down at Jesus' knees - Possible meanings are 1) "bowed down at Jesus' feet" or 2) "lay down on the ground at Jesus' feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
-This note explains what 'fell down at Jesus' knees" might mean. The first meaning is most likely correct, but the other meanings are also possible. If your language does not have a general word that could refer to any of these actions, you may need to use a word that shows specifically how Simon Peter did this.
+
+* fell down at Jesus' knees - Possible meanings are 1) "bowed down at Jesus' feet" or 2) "lay down on the ground at Jesus' feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
+
+* This note explains what 'fell down at Jesus' knees" might mean. The first meaning is most likely correct, but the other meanings are also possible. If your language does not have a general word that could refer to any of these actions, you may need to use a word that shows specifically how Simon Peter did this.
+
 Notes with Possible Meanings
-Description
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description**
+
 Sometimes Bible scholars do not know for sure, or do not agree on, what a particular phrase or sentence in the Bible means. Some reasons for this include:
-1.	There are minor differences in the ancient Bible texts.
-2.	A word may have more than one meaning or use.
-3.	It may not be clear what a word (such as a pronoun) refers to in a particular phrase.
-Translation Notes Examples
-When many scholars say that a word or phrase means one thing, and many others say that it means other things, we show the most common meanings that they give. Our notes for these situations begin with "Possible meanings are" and then give a numbered list. We recommend that you use the first meaning given. However, if people in your community have access to another Bible that uses one of the other possible meanings, you may decide that it is better to use that meaning.
+
+*	There are minor differences in the ancient Bible texts.
+
+*	A word may have more than one meaning or use.
+
+*	It may not be clear what a word (such as a pronoun) refers to in a particular phrase.
+
+**Translation Notes Examples****
+
+When many scholars say that a word or phrase means one thing, and many others say that it means other things, we show the most common
+meanings that they give. Our notes for these situations begin with "Possible meanings are" and then give a numbered list. We recommend that you use the first meaning given. However, if people in your community have access to another Bible that uses one of the other possible meanings, you may decide that it is better to use that meaning.
+
 But Simon Peter, when he saw it, fell down at Jesus' knees, saying, "Depart from me, for I am a sinful man, Lord." (Luke 5:8 ULB)
-	fell down at Jesus' knees - Possible meanings are 1) "bowed down at Jesus feet" or 2) "lay down on the ground at Jesus feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
-Translation Strategies
-1.	Translate it in such a way that the reader could understand either meaning as a possibility.
-2.	If it is not possible to do that in your language, then choose a meaning and translate it with that meaning.
-3.	If not choosing a meaning would make it hard for the readers to understand the passage in general, then choose a meaning and translate it with that meaning.
+
+*	fell down at Jesus' knees - Possible meanings are 1) "bowed down at Jesus feet" or 2) "lay down on the ground at Jesus feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
+
+**Translation Strategies**
+
+*	Translate it in such a way that the reader could understand either meaning as a possibility.
+
+* If it is not possible to do that in your language, then choose a meaning and translate it with that meaning.
+
+* If not choosing a meaning would make it hard for the readers to understand the passage in general, then choose a meaning and translate it with that meaning.
+
 Notes That Identify Figures of Speech
-Description
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description**
+
 Figures of speech are ways of saying things that use words in non-literal ways. That is, the meaning of a figure of speech is not the same as the more direct meaning of its words. There are many different types of figures of speech.
+
 In the translationNotes there will be an explanation about the meaning of a figure of speech that is in the passage. Sometimes an alternate translation is provided. This is marked as "AT," which is the initial letters of "alternate translation." There will also be a link to a translationAcademy page that gives additional information and translation strategies for that kind of figure of speech.
+
 In order to translate the meaning, you need to be able to recognize the figure of speech and know what it means in the source language. Then you can choose either a figure of speech or a direct way to communicate that same meaning in the target language.
-Translation Notes Examples
+
+**Translation Notes Examples**
+
 Many will come in my name and say, 'I am he,' and they will lead many astray. (Mark 13:6 ULB)
-	Many will come in my name - The word "name" represents the authority of Jesus. AT: "Many will come, claiming my authority and permission." (See: Metonymy)
-The figure of speech in this note is metonymy. The note explains the metonymy in this passage and gives an alternate translation. After that, there is a link to the tA page about metonymy. Click on the link to learn about metonymy and general strategies for translating metonymys.
-"You offspring of poisonous snakes, who warned you to flee from the wrath that is coming? (Luke 3:7 ULB)
-	You offspring of poisonous snakes - This is a word picture. Poisonous snakes are dangerous and represent evil. AT: "You evil poisonous snakes!" or "You are evil like poisonous snakes." (See: Metaphor)
-The figure of speech in this note is metaphor. The note explains the metaphor and gives two alternate translations. After that, there is a link to the tA page about metaphors. Click on the link to learn about metaphors and general strategies for translating them.
+
+* Many will come in my name - The word "name" represents the authority of Jesus. AT: "Many will come, claiming my authority and permission." (See: Metonymy)
+
+* The figure of speech in this note is metonymy. The note explains the metonymy in this passage and gives an alternate translation. After that, there is a link to the tA page about metonymy. Click on the link to learn about metonymy and general strategies for translating metonymys.
+
+You offspring of poisonous snakes, who warned you to flee from the wrath that is coming? (Luke 3:7 ULB)
+
+* You offspring of poisonous snakes - This is a word picture. Poisonous snakes are dangerous and represent evil. AT: "You evil poisonous snakes!" or "You are evil like poisonous snakes." (See: `Metaphor <https://dw.door43.org/en/ta/vol1/translate/figs_metaphor>`_)
+
+* The figure of speech in this note is metaphor. The note explains the metaphor and gives two alternate translations. After that, there is a link to the tA page about metaphors. Click on the link to learn about metaphors and general strategies for translating them.
+
 Notes That Identify Indirect and Direct Quotes
 Description
 There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation. (See: Direct and Indirect Quotations)
