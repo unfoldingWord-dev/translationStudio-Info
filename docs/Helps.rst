@@ -66,7 +66,7 @@ There are several types of suggested translations.
 
 * Notes with Alternate Translations (AT) - An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form. The alternate translation should only be used when the ULB form or content will not fit into the form of your language.
 
-*Notes that Include a Quote from the UDB - There may be no note if the UDB provides a good alternate translation for the ULB. However, on occasion there may be text from the UDB as well as a suggested translation. There will be "(UDB)" after the text from the UDB.
+* Notes that Include a Quote from the UDB - There may be no note if the UDB provides a good alternate translation for the ULB. However, on occasion there may be text from the UDB as well as a suggested translation. There will be "(UDB)" after the text from the UDB.
 
 * Notes that have Alternate Meanings - Alternate meanings refer to when there are multiple ways to express something or when there are different understandings of what the word or phrase means.
 
