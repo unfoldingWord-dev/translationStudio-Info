@@ -1,10 +1,10 @@
-translationStudio for Android™ *
+translationStudio for Android™ 
 ================================
 
-.. image:: ../images/tSforAndroid.gif
-    :width: 100px
+.. image:: ../images/tSForAndroidWithAttr.gif
+    :width: 670px
     :align: center
-    :height: 130px
+    :height: 245px
     :alt: translationStudio for Android
 
 The app translationStudio for Android is a mobile app where translators can do offline translating. It contains the content that needs to be translated as well as translationHelps. You can share information directly from device to device, and you can upload finished content to Door43 where it can be digitally published.
@@ -102,7 +102,7 @@ Complete these steps to use translationStudio for the first time:
 
 4.	The program opens to the Your Translation Projects screen (which is the home screen). 
 
-``*`` *The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.*
+
 
 
 
