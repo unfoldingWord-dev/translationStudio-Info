@@ -1,7 +1,9 @@
 Using the translationHelps (Resources)
 ======================================
 
-To help translators make the best translation possible, translationHelps have been created. The Resources include:
+To help translators make the best translation possible, translationHelps have been created. Once you have consulted the translationHelps, then you are ready to make the best translation. Please use these resources when checking your translation!
+
+The Resources include:
 
 translationWords 
 ----------------
@@ -27,12 +29,7 @@ For Open Bible Story notes, see	https://door43.org/en/obs/notes.
 
 For Bible notes, see	https://unfoldingword.org/tn/.
 
-Once you have consulted the translationHelps, then you are ready to make the best translation.
-
-Please use these resources when checking your translation!
-
-
-Using the ranslationNotes
+Using the translationNotes
 ---------------------------
 
 To Translate from the ULB
@@ -48,7 +45,9 @@ To Translate from the ULB
       
       *	NO? Read the translation notes for help.
       
-Translation Notes are words or phrases copied from the ULB and then explained. In English, every note that explains the ULB starts with a bullet point, the ULB text in bold followed by a dash, and then translation suggestions or information for the translator. For example:
+Translation Notes are words or phrases copied from the ULB and then explained. In English, every note that explains the ULB starts with a bullet point, the ULB text in bold followed by a dash, and then translation suggestions or information for the translator. 
+
+For example:
 
 *	**copied ULB text** - translation suggestion or information for the translator
 
@@ -114,24 +113,45 @@ Simple definitions of words or phrases are added without quotes or sentence form
 See `Translate Unknowns`_ for more information on translating words or phrases that are not known in your language.
 
 Notes that Explain
-Description
-Sometimes you may not know what a word or phrase in the ULB means. And sometimes the same word or phrase is also used in the UDB. So the word or phrase is explained in the notes.
-These explanations are meant to help you understand the word or phrase. Do not translate the explanations into your Bible. Instead use them to help you understand the meanings so you can translate the Bible text correctly.
-Translation Notes Examples
+^^^^^^^^^^^^^^^^^^
+
+**Description**
+
+Sometimes you may not know what a word or phrase in the ULB means. And sometimes the same word or phrase is also used in the UDB. So the word or phrase is explained in the notes. These explanations are meant to help you understand the word or phrase. Do not translate the explanations into your Bible. Instead use them to help you understand the meanings so you can translate the Bible text correctly.
+
+**Translation Notes Examples**
+
 Simple explanations about words or phrases are written as full sentences. They begin with a capital letter and end with a period (".").
+
+For example: 
+
 The fishermen had gotten out of them and were washing their nets. (Luke 5:2 ULB)
-	washing their nets - They were cleaning their fishing nets in order to use them again to catch fish.
-If you did not know that fishermen used nets to catch fish, you might wonder why the fishermen were cleaning their nets. This explanation can help you choose good words for "were washing" and "nets."
+
+*	washing their nets - They were cleaning their fishing nets in order to use them again to catch fish. 
+
+* If you did not know that fishermen used nets to catch fish, you might wonder why the fishermen were cleaning their nets. This explanation can help you choose good words for "were washing" and "nets."
+
 they motioned to their partners in the other boat (Luke 5:7 ULB)
-	motioned - They were too far from shore to call so they made gestures, probably waving their arms.
-This note can help you understand what kind of motion the people made. It was a motion that people would be able to see from a distance. This will help you choose a good word or phrase for "motioned."
+
+* motioned - They were too far from shore to call so they made gestures, probably waving their arms. 
+
+* This note can help you understand what kind of motion the people made. It was a motion that people would be able to see from a distance. This will help you choose a good word or phrase for "motioned."
+
 He will be filled with the Holy Spirit, even while in his mother's womb. (Luke 1:14 ULB)
-	even while in his mother's womb - The word "even" here indicates that this is especially surprising news. People had been filled with the Holy Spirit before, but no one had heard of an unborn baby's being filled with the Holy Spirit.
-This note can help you understand what the word "even" means in this sentence, so you can find a way of showing how surprising this was.
+
+*	even while in his mother's womb - The word "even" here indicates that this is especially surprising news. People had been filled with the Holy Spirit before, but no one had heard of an unborn baby's being filled with the Holy Spirit.
+
+* This note can help you understand what the word "even" means in this sentence, so you can find a way of showing how surprising this was.
+
 Notes with Synonyms and Equivalent Phrases
-Description
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description**
+
 Sometimes immediately after the bolded words and hyphen there is a phrase in double quotation marks. This phrase means the same as the bolded words from the ULB and it can replace it in your translation. It may clarify who or what a pronoun refers to, or it may use words that you understand better.
-Translation Notes Examples
+
+**Translation Notes Examples**
+
 'Make ready the way of the Lord, (Luke 3:4 ULB)
 * the way - "the path" or "the road"
 In this example, the words "the path" or the words "the road" can replace the words "the way" in the ULB. You can decide whether it is natural to say "way," "path," or "road" in your language.
