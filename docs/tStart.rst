@@ -84,11 +84,11 @@ You can select and/or change your source text whenever you use translationStudio
 
 In the translation project complete the following steps to select or change the source text:
 
-* Tap the rectangular icon with the + and - sign  found at the top right of the project window or at the top right of a previously-chosen source text.
+1. Tap the rectangular icon with the + and - sign  found at the top right of the project window or at the top right of a previously-chosen source text.
  
-* Tap the empty square box next to the desired source text and language. You can scroll down to see additional texts, or search by using the magnifying glass icon at the upper right of the *Choose source translations* box.
+2. Tap the empty square box next to the desired source text and language. You can scroll down to see additional texts, or search by using the magnifying glass icon at the upper right of the *Choose source translations* box.
 
-* To save the selection(s), tap **Confirm** at the bottom right of the *Choose source translations* box, OR tap **Cancel** to close without saving the selected language.
+3. To save the selection(s), tap **Confirm** at the bottom right of the *Choose source translations* box, OR tap **Cancel** to close without saving the selected language.
  
 You can choose multiple source texts; those selected are moved to the top portion of the *Choose source translations* box under the *Selected* heading. Choosing multiple source texts enables you to compare them as you are performing the translation work. For example, when translating the Bible you should always choose the Unlocked Literal Bible (ULB) in the source language, but you may want to also choose the Unlocked Dynamic Bible (UDB) if it is available in your language because it may be easier to understand. Looking at the UDB may help you to translate or check a passage.
  
