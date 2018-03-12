@@ -1,4 +1,4 @@
-tS for Android™: Uploading or Exporting Your Work *
+tS for Android™: Uploading or Exporting Your Work 
 ===================================================
 
 
