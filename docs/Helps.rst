@@ -152,7 +152,7 @@ Sometimes immediately after the bolded words and hyphen there is a phrase in dou
 
 **Translation Notes Examples**
 
-'Make ready the way of the Lord, (Luke 3:4 ULB)
+Make ready the way of the Lord, (Luke 3:4 ULB)
 
 * the way - "the path" or "the road"
 
@@ -303,85 +303,155 @@ You offspring of poisonous snakes, who warned you to flee from the wrath that is
 * The figure of speech in this note is metaphor. The note explains the metaphor and gives two alternate translations. After that, there is a link to the tA page about metaphors. Click on the link to learn about metaphors and general strategies for translating them.
 
 Notes That Identify Indirect and Direct Quotes
-Description
-There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation. (See: Direct and Indirect Quotations)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description**
+
+There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation. (See: `Direct and Indirect Quotations <https://dw.door43.org/en/ta/vol2/translate/figs_quotations>`_)
+
 When there is a direct or indirect quote in the ULB, the notes may have an option for translating it as the other kind of quote. The translation suggestion may start with "It can be translated as a direct quote:" or "It can be translated as an indirect quote:" and it will be followed by that kind of quote. This may be followed by a link to the information page called "Direct and Indirect Quotations."
+
 There is a likely to be a note about direct and indirect quotes when a quote has another quote inside of it, because these can be confusing. In some languages it may be more natural to translate one of these quotes with a direct quote and the other quote with an indirect quote. The note will end with a link to the information page called "Quotes within Quotes."
-Translation Notes Examples
+
+**Translation Notes Examples**
+
 He instructed him to tell no one (Luke 5:14 ULB)
-	to tell no one - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: Direct and Indirect Quotations)
-Here the translation suggestion is to change the indirect quote to a direct quote.
+
+* to tell no one - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: `Direct and Indirect Quotations <https://dw.door43.org/en/ta/vol2/translate/figs_quotations>`_)
+
+* Here the translation suggestion is to change the indirect quote to a direct quote.
+
 At the time of the harvest I will say to the reapers, "First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn."'" (Matthew 13:30 ULB)
-	I will say to the reapers, "First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn" - You can translate this as an indirect quote: "I will tell the reapers to first gather up the weeds and tie them in bundles to burn them, then gather the wheat into my barn." (See: Direct and Indirect Quotations)
-Here the translation suggestion is to change the direct quote to an indirect quote.
+
+* I will say to the reapers, "First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn" - You can translate this as an indirect quote: "I will tell the reapers to first gather up the weeds and tie them in bundles to burn them, then gather the wheat into my barn." (See: `Direct and Indirect Quotations <https://dw.door43.org/en/ta/vol2/translate/figs_quotations>`_)
+
+* Here the translation suggestion is to change the direct quote to an indirect quote.
+
 Notes for Long ULB Phrases
-Description
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description**
+
 Sometimes there are notes for a phrase and separate notes for portions of that phrase. In that case, the larger phrase is explained first, and its parts afterward.
-Translation Notes Examples
+
+**Translation Notes Examples**
+
 But it is to the extent of your hardness and unrepentant heart that you are storing up for yourself wrath in the day of wrath (Romans 2:5 ULB)
-	But it is to the extent of your hardness and unrepentant heart - Paul compares a person who refuses to listen and obey God to something hard, like a stone. The heart represents the whole person. AT: "It is because you refuse to listen and repent" (See: Metaphor and Metonymy)
-	hardness and unrepentant heart - The phrase "unrepentant heart" explains the word "hardness" (See: Doublet)
-In this example the first note explains the the metaphor and metonymy, and the second explains the doublet in the same passage.
+
+*	But it is to the extent of your hardness and unrepentant heart - Paul compares a person who refuses to listen and obey God to something hard, like a stone. The heart represents the whole person. AT: "It is because you refuse to listen and repent" (See:  `Metaphor <https://dw.door43.org/en/ta/vol1/translate/figs_metaphor>`_ and `Metonymy <https://dw.door43.org/en/ta/vol2/translate/figs_metonymy>`_)
+
+*	hardness and unrepentant heart - The phrase "unrepentant heart" explains the word "hardness" (See: `Doublet <https://dw.door43.org/en/ta/vol2/translate/figs_doublet>`_)
+
+* In this example the first note explains the the metaphor and metonymy, and the second explains the doublet in the same passage.
 
 Translate Unknowns
 ^^^^^^^^^^^^^^^^^^
 
 How do I translate words like lion, fig tree, mountain, priest, or temple when people in my culture have never seen these things and we do not have a word for them?
-Description
+
+**Description**
+
 Unknowns are things that occur in the source text that are not known to the people of your culture. The translationWords pages and the translationNotes will help you understand what they are. After you understand them, you will need to find ways to refer to those things so that people who read your translation will understand what they are.
+
 We have here only five loaves of bread and two fish (Matthew 14:17 ULB)
+
 Bread is a particular food made by mixing finely crushed grains with oil, and then cooking the mixture so that it is dry. (Grains are the seeds of a kind of grass.) In some cultures people do not have bread or know what it is.
-Reason this is a translation issue
-	Readers may not know some of the things that are in the Bible because those things are not part of their own culture.
-	Readers may have difficulty understanding a text if they do not know some of the things that are mentioned in it.
 
-Translation Principles
-	Use words that are already part of your language if possible.
-	Keep expressions short if possible.
-	Represent God's commands and historical facts accurately.
+**Reason this is a translation issue**
 
-Examples from the Bible
-I will turn Jerusalem into piles of ruins, a hideout for jackals (Jeremiah 9:11 ULB)
+*	Readers may not know some of the things that are in the Bible because those things are not part of their own culture.
+
+*	Readers may have difficulty understanding a text if they do not know some of the things that are mentioned in it.
+
+**Translation Principles**
+
+*	Use words that are already part of your language if possible.
+
+*	Keep expressions short if possible.
+
+*	Represent God's commands and historical facts accurately.
+
+**Examples from the Bible**
+
+I will turn Jerusalem into piles of ruins, a hideout for jackals (`Jeremiah 9:11 ULB <https://dw.door43.org/en/bible/notes/jer/09/10>`_)
+
 Jackals are wild animals like dogs that live in only a few parts of the world. So they are not known in many places.
-Beware of false prophets, those who come to you in sheep's clothing, but are truly ravenous wolves. (Matthew 7:15 ULB)
+
+Beware of false prophets, those who come to you in sheep's clothing, but are truly ravenous wolves. (`Matthew 7:15 ULB <https://dw.door43.org/en/bible/notes/mat/07/15>`_)
+
 If wolves do not live where the translation will be read, the readers may not understand that they are fierce, wild animals like dogs that attack and eat sheep.
-Then they tried to give Jesus wine that was mixed with myrrh. But he refused to drink it. (Mark 15:23ULB)
+
+Then they tried to give Jesus wine that was mixed with myrrh. But he refused to drink it. (`Mark 15:23 ULB <https://dw.door43.org/en/bible/notes/mrk/15/22>`_)
+
 People may not know what myrrh is and that it was used as a medicine.
-to him who made great lights (Psalm 136:7ULB)
+
+to him who made great lights (`Psalm 136:7 ULB <https://dw.door43.org/en/bible/notes/psa/136/006>`_)
+
 Some languages have terms for things that give light, like the sun and fire, but they have no general term for lights.
-your sins ... will be white like snow (Isaiah 1:18 ULB)
+
+your sins ... will be white like snow (`Isaiah 1:18 ULB <https://dw.door43.org/en/bible/notes/isa/01/18>`_)
+
 People in many parts of the world have not seen snow, but they may have seen it in pictures.
-Translation Strategies
+
+**Translation Strategies**
+
 Here are ways you might translate a term that is not known in your language:
+
 1.	Use a phrase that describes the part of the meaning that is important in the particular verse being translated.
+
 2.	Substitute something similar from your language if doing so does not falsely represent a historical fact.
+
 3.	Copy the word from another language, and add a general word or descriptive phrase to help people understand it.
+
 4.	Use a word that is more general in meaning.
+
 5.	Use a word or phrase that is more specific in meaning.
 
-Examples of Translation Strategies Applied
+** Examples of Translation Strategies Applied**
+
 1. Use a phrase that describes the part of the meaning that is important in the particular verse being translated.
-	Beware of false prophets, those who come to you in sheep's clothing, but are truly ravenous wolves. (Matthew 7:15 ULB)
-	"Beware of false prophets, those who come to you in sheep's clothing, but are truly hungry and dangerous animals."
-	We have here only five loaves of bread and two fish (Matthew 14:17 ULB)
-	"We have here only five loaves of baked grain seeds and two fish"
+
+*	Beware of false prophets, those who come to you in sheep's clothing, but are truly ravenous wolves. (`Matthew 7:15 ULB <https://dw.door43.org/en/bible/notes/mat/07/15>`_)
+
+*	"Beware of false prophets, those who come to you in sheep's clothing, but are truly hungry and dangerous animals."
+
+*	We have here only five loaves of bread and two fish (`Matthew 14:17 ULB <https://dw.door43.org/en/bible/notes/mat/14/16>`_)
+
+*	"We have here only five loaves of baked grain seeds and two fish"
+
 2. Substitute something similar from your language if doing so does not falsely represent a historical fact.
-	your sins ... will be white like snow (Isaiah 1:18 ULB) This verse is not about snow. It uses snow in a figure of speech to help people understand how white something will be.
-	"your sins ... will be white like milk"
-	"your sins ... will be white like the moon"
+
+*	your sins ... will be white like snow (`Isaiah 1:18 ULB <https://dw.door43.org/en/bible/notes/isa/01/18>`_) This verse is not about snow. It uses snow in a figure of speech to help people understand how white something will be.
+
+*	"your sins ... will be white like milk"
+
+*	"your sins ... will be white like the moon"
+
 3. Copy the word from another language, and add a general word or descriptive phrase to help people understand it.
-	Then they tried to give Jesus wine that was mixed with myrrh. But he refused to drink it.(Mark 15:23 ULB) - People may understand better what myrrh is if it is used with the general word "medicine."
-	"Then they tried to give Jesus wine that was mixed with a medicine called myrrh. But he refused to drink it."
-	We have here only five loaves of bread and two fish (Matthew 14:17 ULB) - People may understand better what bread is if it is used with a phrase that tells what it is made of (seeds) and how it is prepared (crushed and baked).
-	"We have here only five loaves of baked crushed seed bread and two fish"
+
+*	Then they tried to give Jesus wine that was mixed with myrrh. But he refused to drink it.(`Mark 15:23 ULB <https://dw.door43.org/en/bible/notes/mrk/15/22>`_) - People may understand better what myrrh is if it is used with the general word "medicine."
+
+*	"Then they tried to give Jesus wine that was mixed with a medicine called myrrh. But he refused to drink it."
+
+*	We have here only five loaves of bread and two fish (`Matthew 14:17 ULB <https://dw.door43.org/en/bible/notes/mat/14/16>`_) - People may understand better what bread is if it is used with a phrase that tells what it is made of (seeds) and how it is prepared (crushed and baked).
+
+*	"We have here only five loaves of baked crushed seed bread and two fish"
+
 4. Use a word that is more general in meaning.
-	I will turn Jerusalem into piles of ruins, a hideout for jackals (Jeremiah 9:11 ULB)
-	"I will turn Jerusalem into piles of ruins, a hideout for wild dogs"
-	We have here only five loaves of bread and two fish (Matthew 14:17 ULB)
-	"We have here only five loaves of baked food and two fish"
+
+*	I will turn Jerusalem into piles of ruins, a hideout for jackals (`Jeremiah 9:11 ULB <https://dw.door43.org/en/bible/notes/jer/09/10>`_)
+
+*	"I will turn Jerusalem into piles of ruins, a hideout for wild dogs"
+
+*	We have here only five loaves of bread and two fish (`Matthew 14:17 ULB <https://dw.door43.org/en/bible/notes/mat/14/16>`_)
+
+*	"We have here only five loaves of baked food and two fish"
+
 5. Use a word or phrase that is more specific in meaning.
-	to him who made great lights (Psalm 136:7 ULB)
-	"to him who made the sun and the moon"
+
+*	to him who made great lights (`Psalm 136:7 ULB <https://dw.door43.org/en/bible/notes/psa/136/006>`_)
+
+*	"to him who made the sun and the moon"
 
 Assumed Knowledge and Implicit Information
 Assumed knowledge is whatever a speaker assumes his audience knows before he speaks and gives them some kind of information. There are two types information.
