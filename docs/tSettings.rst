@@ -27,7 +27,7 @@ Tap General to view or change general settings.
 
 The General settings are as follows:
 
-1.	Device name
+1.	**Device name**
 
   * Naming the tablet is helpful when sharing with a friend. See Backup and Share Your Work for more information.
   
@@ -35,19 +35,19 @@ The General settings are as follows:
   
   * Tap **OK** to save the name.
   
-2.	Translation Font: The font of the translated text
+2.	**Translation Font**: The font of the translated text
 
   * The name of the chosen font is displayed. Tap **Translation Font** to change the displayed font in the text.
   
   * A pop-up window shows the available fonts. Scroll through the names of the fonts and tap the name to select the desired font.
  
-3.	Translation Font Size: The size of the translated text
+3.	**Translation Font Size**: The size of the translated text
 
   * The size of the chosen font is displayed. Tap **Translation Font size** to change the displayed font size in the text.
   
   * A pop-up window shows the available sizes. Tap the desired size to select it. When you have selected a font, the pop-up window disappears.
  
-4.	Source Font: The font of the source text
+4.	**Source Font**: The font of the source text
 
   * The name of the chosen font is displayed. 
 
@@ -55,23 +55,23 @@ The General settings are as follows:
 
   * A pop-up window shows the available fonts. Scroll through the names of the fonts and tap the name to select the desired font. When you have selected a font, the pop-up window disappears.
 
-5.	Source Font Size: The size of the source text
+5.	**Source Font Size**: The size of the source text
 
   * The size of the chosen font is displayed. 
 
-  * Tap Source Font Size to change the displayed font size in the text.
+  * Tap **Source Font Size** to change the displayed font size in the text.
 
   * A pop-up window shows the available sizes. Tap the desired size to select it.  When you have selected a font size, the pop-up window disappears.           
 
-6.	Always Share
+6.	**Always Share**
 
   * Tap in the empty square if you want the program to allow nearby translators to be able to import your translations while the app is open.
 
   * A blue square with a white check mark means that the option has already been chosen.
 
-7.	Version: The version of the translationStudio program is displayed.
+7.	**Version**: The version of the translationStudio program is displayed.
 
-8.	Check for updates: Tap to check for updates to translationStudio. This uses an internet connection.
+8.	**Check for updates**: Tap to check for updates to translationStudio. This uses an internet connection.
 
 Server Settings
 ---------------
@@ -96,9 +96,9 @@ Tap Legal to view important legal information.
 Advanced Settings
 -----------------
 
-* Check Hardware Requirements: Specify whether to check for suggested hardware when the app starts.
+* **Check Hardware Requirements**: Specify whether to check for suggested hardware when the app starts.
 
-* Backup Interval: The program sets the backup to occur every 5 minutes. This can be changed by the end user.
+* **Backup Interval**: The program sets the backup to occur every 5 minutes. This can be changed by the end user.
 
   *	Tap **Backup Interval** to open the option screen.
   
