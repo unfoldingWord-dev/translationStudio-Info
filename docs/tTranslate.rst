@@ -98,7 +98,7 @@ If you need to make changes in the translated text, perform the following steps:
 At any time you can slide the toggle   back to the left, or just tap it, to edit the chunk again. Use the above steps to edit.
 
 Recover Deleted Translation Text
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------------
 
 If you accidentally delete a large amount of work, send email to help@door43.org.
 
