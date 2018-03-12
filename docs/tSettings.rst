@@ -31,31 +31,31 @@ The General settings are as follows:
 
   * Naming the tablet is helpful when sharing with a friend. See Backup and Share Your Work for more information.
   
-  * Tap Device name to name the tablet. A pop-up window opens where you can enter a name for your tablet. 
+  * Tap **Device name** to name the tablet. A pop-up window opens where you can enter a name for your tablet. 
   
-  * Tap OK to save the name.
+  * Tap **OK** to save the name.
   
-2.	Translation Font
+2.	Translation Font: The font of the translated text
 
-  * The name of the chosen font is displayed. Tap Translation Font to change the displayed font in the text.
+  * The name of the chosen font is displayed. Tap **Translation Font** to change the displayed font in the text.
   
   * A pop-up window shows the available fonts. Scroll through the names of the fonts and tap the name to select the desired font.
  
-3.	Translation Font Size
+3.	Translation Font Size: The size of the translated text
 
-  * The size of the chosen font is displayed. Tap Translation Font size to change the displayed font size in the text.
+  * The size of the chosen font is displayed. Tap **Translation Font size** to change the displayed font size in the text.
   
   * A pop-up window shows the available sizes. Tap the desired size to select it. When you have selected a font, the pop-up window disappears.
  
-4.	Source Font
+4.	Source Font: The font of the source text
 
   * The name of the chosen font is displayed. 
 
-  * Tap Source Font to change the displayed font in the source.
+  * Tap **Source Font** to change the displayed font in the source.
 
   * A pop-up window shows the available fonts. Scroll through the names of the fonts and tap the name to select the desired font. When you have selected a font, the pop-up window disappears.
 
-5.	Source Font Size
+5.	Source Font Size: The size of the source text
 
   * The size of the chosen font is displayed. 
 
@@ -65,7 +65,7 @@ The General settings are as follows:
 
 6.	Always Share
 
-  * Tap in the empty square if you want the program to allow nearby translators to import your translations while the app is open.
+  * Tap in the empty square if you want the program to allow nearby translators to be able to import your translations while the app is open.
 
   * A blue square with a white check mark means that the option has already been chosen.
 
@@ -83,15 +83,15 @@ Legal Settings
 
 Tap Legal to view important legal information. 
  
-*	License Agreement - read what you are permitted to do with the content in the program and the content that you create.
+*	**License Agreement** - read what you are permitted to do with the content in the program and the content that you create.
 
-*	Statement of Faith - you, the user of the program, agreed to this the first time the program was started. Read this to review what the Essentials Beliefs are.
+*	**Statement of Faith** - you, the user of the program, agreed to this the first time the program was started. Read this to review what the Essentials Beliefs are.
 
-*	Translation Guidelines - read this document to learn about the guidelines that can help the translator clearly, accurately and naturally translate the text.
+*	**Translation Guidelines** - read this document to learn about the guidelines that can help the translator clearly, accurately and naturally translate the text.
 
-* Software Licenses - this file contains all the licenses for the various softwares that are used to create the translationStudio program.
+*  **Software Licenses** - this file contains all the licenses for the various softwares that are used to create the translationStudio program.
 
-* Attribution - read this document to learn about the restrictions of using the derivative works and name branding.
+*  **Attribution** - read this document to learn about the restrictions of using the derivative works and name branding.
 
 Advanced Settings
 -----------------
@@ -100,7 +100,7 @@ Advanced Settings
 
 * Backup Interval: The program sets the backup to occur every 5 minutes. This can be changed by the end user.
 
-  *	Tap the words 'Backup Interval' to open the option screen.
+  *	Tap **Backup Interval** to open the option screen.
   
   * Tap the words to change the interval to '1 Minute', '5 Minutes', '10 Minutes' or to 'Disable Backup.' It is NOT recommended to disable the backup.
   
