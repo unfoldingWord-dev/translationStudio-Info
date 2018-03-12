@@ -65,7 +65,7 @@ To use Feedback in the 3-dot options menu to request a new language:
 
 4.	Tap **Confirm** to send your request.
  
-Note that even after requesting a new language, certain approvals are required before it will be added to translationStudio. Until your language is added to the app, use *English Demo1* or *English Demo2*. You will need to use the Feedback option from the options menu to send a comment stating that you used another language in place of your own. Once your translation has been received, the tS workers will put it in the correct language. Your translation will then show in your language.
+.. note:: Even after requesting a new language, certain approvals are required before it will be added to translationStudio. Until your language is added to the app, use *English Demo1* or *English Demo2*. You will need to use the Feedback option from the options menu to send a comment stating that you used another language in place of your own. Once your translation has been received, the tS workers will put it in the correct language. Your translation will then show in your language.
 
 How do I select the project category?
 ---------------------------------------
