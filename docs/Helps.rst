@@ -13,7 +13,9 @@ translationQuestions
 --------------------
 
 The translationQuestions are comprehension questions that can be used to check the translation. These questions can be asked of anyone checking the translation work. Can the Target Language translation be used to correctly answer each of the questions? Read the question, answer the question from the information in the translated text, look at the answer in the program. Do both of the answers match? If so, then the translation is clear and accurate.
+
 For Open Bible Stories questions, see	https://door43.org/en/obs/notes/questions/home.
+
 For Bible questions, see	https://unfoldingword.org/tq/
 
 translationNotes
