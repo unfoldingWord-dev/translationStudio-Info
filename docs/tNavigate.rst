@@ -97,7 +97,7 @@ Tap the three dots icon at the bottom left (or right) of the screen to open the 
    
   * **Log Out**: Log out of the app so you can log in as a different user
    
-  * **Settings**: Adjust translationStudio settings; view license agreement, statement of faith, or translation guidelines  
+  * **Settings**: Adjust translationStudio settings; view license agreement, statement of faith, or translation guidelines  (See :ref:`tS_Settings`)
 
 * On the Project screen the options menu includes: 
 
