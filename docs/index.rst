@@ -19,8 +19,8 @@ Contents:
    tNavigate
    tTranslate
    tUpload
-   tHelps
    tSettings
+   tHelps
    desktop
    dInstall
    dStart
