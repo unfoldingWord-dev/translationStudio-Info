@@ -20,8 +20,10 @@ translationNotes
 ----------------
 
 The translationNotes are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories and the Bible were written. They also inform the translator of translation options available to them. See Using the translationNotes for more information.
+
 For Open Bible Story notes, see	https://door43.org/en/obs/notes.
-For Bible notes, see	https://door43.org/en/bible/notes/home.
+
+For Bible notes, see	https://unfoldingword.org/tn/.
 
 Once you have consulted the translationHelps, then you are ready to make the best translation.
 
@@ -32,42 +34,80 @@ Using the ranslationNotes
 ---------------------------
 
 To Translate from the ULB
-	Read the ULB. Do you understand the meaning of the text so that you can accurately, clearly and naturally translate the meaning into your language?
-	YES? Start translating.
-	NO? Look at the UDB if you have selected it as one of your source texts (see How Do I Select or Change the Source Text Language?). Does the UDB help you understand the meaning of the ULB text?
-	YES? Start translating.
-	NO? Read the translation notes for help.
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+*	Read the ULB. Do you understand the meaning of the text so that you can accurately, clearly and naturally translate the meaning into your language?
+
+  * YES? Start translating.
+
+  * NO? Look at the UDB if you have selected it as one of your source texts. Does the UDB help you understand the meaning of the ULB text?
+  
+      * YES? Start translating.
+      
+      *	NO? Read the translation notes for help.
+      
 Translation Notes are words or phrases copied from the ULB and then explained. In English, every note that explains the ULB starts with a bullet point, the ULB text in bold followed by a dash, and then translation suggestions or information for the translator. For example:
-	copied ULB text - translation suggestion or information for the translator
+
+*	**copied ULB text** - translation suggestion or information for the translator
+
 There are many different types of notes in the Translation Notes. Each type of note gives the explanation in a different way. Knowing the type of note will help translators make decisions on the best way to translate the Bible text into their language.
-	Notes with Definitions - Sometimes you may not know what a word in the ULB means. Simple definitions of words or phrases are added without quotes or sentence format.
-	Notes that Explain - Simple explanations about words or phrases are in sentence format.
+
+* Notes with Definitions - Sometimes you may not know what a word in the ULB means. Simple definitions of words or phrases are added without quotes or sentence format.
+
+* Notes that Explain - Simple explanations about words or phrases are in sentence format.
+
 Suggested Translations
+^^^^^^^^^^^^^^^^^^^^^^
+
 There are several types of suggested translations.
-	Notes with Synonyms and Equivalent Phrases - There are times that the notes provide a translation suggestion that can replace the word or phrases in the ULB. These replacements can fit into the sentence without changing the meaning of the sentence. These are synonyms and equivalent phrases and are written in double-quotes. These mean the same as the text in the ULB.
-	Notes with Alternate Translations (AT) - An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form. The alternate translation should only be used when the ULB form or content will not fit into the form of your language.
-	Notes that Include a Quote from the UDB - There may be no note if the UDB provides a good alternate translation for the ULB. However, on occasion there may be text from the UDB as well as a suggested translation. There will be "(UDB)" after the text from the UDB.
-	Notes that have Alternate Meanings - Alternate meanings refer to when there are multiple ways to express something or when there are different understandings of what the word or phrase means.
-	Notes with Possible Meanings - Sometimes Bible scholars do not know for sure, or do not agree on, what a particular phrase or sentence in the Bible means. Some reasons for this include: there are minor differences in the ancient Bible texts, or a word may have more than one meaning or use, or it may not be clear what a word (such as a pronoun) refers to in a particular phrase.
-	Notes that Identify Figures of Speech - In the notes there will be an explanation on how to translate the Figure of Speech that is in the passage. Sometimes an Alternate Translation (AT:) is provided. There will also be a link to the translationAcademy page for additional information and translation strategies to help the translator accurately translate for the meaning of the passage.
-	Notes that Identify Indirect and Direct Quotes - There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation.
-	Notes for Long ULB Phrases - Sometimes there are notes for a phrase and separate notes for portions of that phrase. In that case, the larger phrase is first, and its parts afterward. The longer phrase is broken down so that translation suggestions for parts of the phrase can be explained for each part.
+
+* Notes with Synonyms and Equivalent Phrases - There are times that the notes provide a translation suggestion that can replace the word or phrases in the ULB. These replacements can fit into the sentence without changing the meaning of the sentence. These are synonyms and equivalent phrases and are written in double-quotes. These mean the same as the text in the ULB.
+
+* Notes with Alternate Translations (AT) - An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form. The alternate translation should only be used when the ULB form or content will not fit into the form of your language.
+
+*Notes that Include a Quote from the UDB - There may be no note if the UDB provides a good alternate translation for the ULB. However, on occasion there may be text from the UDB as well as a suggested translation. There will be "(UDB)" after the text from the UDB.
+
+* Notes that have Alternate Meanings - Alternate meanings refer to when there are multiple ways to express something or when there are different understandings of what the word or phrase means.
+
+* Notes with Possible Meanings - Sometimes Bible scholars do not know for sure, or do not agree on, what a particular phrase or sentence in the Bible means. Some reasons for this include: there are minor differences in the ancient Bible texts, or a word may have more than one meaning or use, or it may not be clear what a word (such as a pronoun) refers to in a particular phrase.
+
+* Notes that Identify Figures of Speech - In the notes there will be an explanation on how to translate the Figure of Speech that is in the passage. Sometimes an Alternate Translation (AT:) is provided. There will also be a link to the translationAcademy page for additional information and translation strategies to help the translator accurately translate for the meaning of the passage.
+
+* Notes that Identify Indirect and Direct Quotes - There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation.
+
+* Notes for Long ULB Phrases - Sometimes there are notes for a phrase and separate notes for portions of that phrase. In that case, the larger phrase is first, and its parts afterward. The longer phrase is broken down so that translation suggestions for parts of the phrase can be explained for each part.
+
 Notes with Definitions
-Description
+^^^^^^^^^^^^^^^^^^^^^^
+
+**Description**
+
 Sometimes you may not know what a word in the ULB means. The notes may have a definition or a description of the word or phrase to help you understand what it means.
-Translation Notes Examples
+
+**Translation Notes Examples**
+
 Simple definitions of words or phrases are added without quotes or sentence format. Here are examples:
 It is like children playing in the marketplace, who sit and call to one another and say, 'We played a flute for you (Matthew 11:16-17 ULB)
-	marketplace - a large, open-air area where people would come to sell their goods
-	flute - a long, hollow musical instrument which is played by blowing air in or over one end
+
+* marketplace - a large, open-air area where people would come to sell their goods
+
+* flute - a long, hollow musical instrument which is played by blowing air in or over one end
 people who dress in splendid clothing and live in luxury are in kings' palaces (Luke 7:25 ULB)
-	kings' palaces - a large, expensive house that a king lives in
-Translation Principles
-	Use words that are already part of your language if possible.
-	Keep expressions short if possible.
-	Represent God's commands and historical facts accurately.
-Translation Strategies
-See Translate Unknowns for more information on translating words or phrases that are not known in your language.
+
+* kings' palaces - a large, expensive house that a king lives in
+
+**Translation Principles**
+
+*	Use words that are already part of your language if possible.
+
+* Keep expressions short if possible.
+
+* Represent God's commands and historical facts accurately.
+
+**Translation Strategies**
+
+See `Translate Unknowns`_ for more information on translating words or phrases that are not known in your language.
+
 Notes that Explain
 Description
 Sometimes you may not know what a word or phrase in the ULB means. And sometimes the same word or phrase is also used in the UDB. So the word or phrase is explained in the notes.
@@ -180,7 +220,10 @@ But it is to the extent of your hardness and unrepentant heart that you are stor
 	But it is to the extent of your hardness and unrepentant heart - Paul compares a person who refuses to listen and obey God to something hard, like a stone. The heart represents the whole person. AT: "It is because you refuse to listen and repent" (See: Metaphor and Metonymy)
 	hardness and unrepentant heart - The phrase "unrepentant heart" explains the word "hardness" (See: Doublet)
 In this example the first note explains the the metaphor and metonymy, and the second explains the doublet in the same passage.
+
 Translate Unknowns
+^^^^^^^^^^^^^^^^^^
+
 How do I translate words like lion, fig tree, mountain, priest, or temple when people in my culture have never seen these things and we do not have a word for them?
 Description
 Unknowns are things that occur in the source text that are not known to the people of your culture. The translationWords pages and the translationNotes will help you understand what they are. After you understand them, you will need to find ways to refer to those things so that people who read your translation will understand what they are.
