@@ -92,7 +92,7 @@ In the translation project complete the following steps to select or change the 
  
 You can choose multiple source texts; those selected are moved to the top portion of the *Choose source translations* box under the *Selected* heading. Choosing multiple source texts enables you to compare them as you are performing the translation work. For example, when translating the Bible you should always choose the Unlocked Literal Bible (ULB) in the source language, but you may want to also choose the Unlocked Dynamic Bible (UDB) if it is available in your language because it may be easier to understand. Looking at the UDB may help you to translate or check a passage.
  
-.. note::  You are not able to work in a project until you choose a source text language.
+.. note:: You are not able to work in a project until you choose a source text language.
 
 
 
