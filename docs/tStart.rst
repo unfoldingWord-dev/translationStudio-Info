@@ -84,7 +84,7 @@ You can select and/or change your source text whenever you use translationStudio
 
 In the translation project complete the following steps to select or change the source text:
 
-* Tap the rectangular icon with the + and - sign  found at the top right of the source text window.
+* Tap the rectangular icon with the + and - sign  found at the top right of the project window or at the top right of a previously-chosen source text.
  
 * Tap the empty square box next to the desired source text and language. You can scroll down to see additional texts, or search by using the magnifying glass icon at the upper right of the *Choose source translations* box.
 
