@@ -20,7 +20,6 @@ Contents:
    tTranslate
    tUpload
    tSettings
-   tHelps
    desktop
    dInstall
    dStart
@@ -28,5 +27,7 @@ Contents:
    dUpload
    dHelps
    dSettings
+   Helps
+   Choosing
 
 
