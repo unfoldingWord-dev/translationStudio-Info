@@ -1,11 +1,11 @@
-tS for Android™: Starting a Translation Project *
+tS for Android™: Starting a Translation Project 
 =================================================
 
 
-.. image:: ../images/tSforAndroid.gif
-    :width: 100px
+.. image:: ../images/tSForAndroidWithAttr.gif
+    :width: 305px
     :align: center
-    :height: 130px
+    :height: 245px
     :alt: translationStudio for Android
 
 A translation project consists of:
