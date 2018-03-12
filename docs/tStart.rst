@@ -8,13 +8,13 @@ tS for Android™: Starting a Translation Project
     :height: 245px
     :alt: translationStudio for Android
 
-A translation project consists of:
+The definition of a translation project consists of:
 
-1. A target language - the language *into which* you will be translating
+1. Spedifying the **target language** - the language *into which* you will be translating
 
-2. A project category - *what* you will be translating, such as Open Bible Stories or a book of the Bible
+2. Selecting a **project category** - *what* you will be translating, such as Open Bible Stories or a book of the Bible
 
-3. A source text language - the language and text *from which* you will be translating, such as the English ULB (Unlocked Literal Bible)
+3. Choosing a **source text** - the language and text *from which* you will be translating, such as the English ULB (Unlocked Literal Bible)
 
 To start a translation project, you must specify each of these elements.
 
@@ -77,22 +77,22 @@ After you have selected your target language, the next screen(s) enable you to s
  
 3.	The new translation project opens showing the Chapter or Story view. If you choose an Open Bible Stories project, it opens to the first paragraph of The Creation
 
-How do I select or change the source text language? 
+How do I select or change the source text? 
 -----------------------------------------------------
 
-You can select and/or change your source text language whenever you use translationStudio. When first creating a new project, you *must* select a source text language. This is the text you will be translating *from*.
+You can select and/or change your source text whenever you use translationStudio. When first creating a new project, you *must* select a source text language. This is the text you will be translating *from*.
 
-In the translation project complete the following steps to select or change the source text language:
+In the translation project complete the following steps to select or change the source text:
 
 * Tap the rectangular icon with the + and - sign  found at the top right of the source text window.
  
-* Tap the empty square box next to the desired source text and language. You can scroll down to see additional languages, or search by using the magnifying glass icon at the upper right of the Choose source translations box.
+* Tap the empty square box next to the desired source text and language. You can scroll down to see additional texts, or search by using the magnifying glass icon at the upper right of the *Choose source translations* box.
 
 * To save the selection(s), tap **Confirm** at the bottom right of the *Choose source translations* box, OR tap **Cancel** to close without saving the selected language.
  
 You can choose multiple source texts; those selected are moved to the top portion of the *Choose source translations* box under the *Selected* heading. Choosing multiple source texts enables you to compare them as you are performing the translation work. For example, when translating the Bible you should always choose the Unlocked Literal Bible (ULB) in the source language, but you may want to also choose the Unlocked Dynamic Bible (UDB) if it is available in your language because it may be easier to understand. Looking at the UDB may help you to translate or check a passage.
  
-.. warning:: You are not able to work in a project until you choose a source text language.
+.. warning:: You are not able to work in a project until you choose a source text.
 
 
 
