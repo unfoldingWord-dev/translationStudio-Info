@@ -48,9 +48,8 @@ To Translate from the ULB
       
 Translation Notes are words or phrases copied from the ULB and then explained. In English, every note that explains the ULB starts with a bullet point, the ULB text in bold followed by a dash, and then translation suggestions or information for the translator. For example:
 
-+--------------------------------------------------------------------------------+----+
-|*	**copied ULB text** - translation suggestion or information for the translator|    |
-+--------------------------------------------------------------------------------+----+
+*	**copied ULB text** - translation suggestion or information for the translator
+
 
 There are many different types of notes in the Translation Notes. Each type of note gives the explanation in a different way. Knowing the type of note will help translators make decisions on the best way to translate the Bible text into their language.
 
@@ -89,14 +88,16 @@ Sometimes you may not know what a word in the ULB means. The notes may have a de
 **Translation Notes Examples**
 
 Simple definitions of words or phrases are added without quotes or sentence format. Here are examples:
-It is like children playing in the marketplace, who sit and call to one another and say, 'We played a flute for you (Matthew 11:16-17 ULB)
 
-* marketplace - a large, open-air area where people would come to sell their goods
+* It is like children playing in the marketplace, who sit and call to one another and say, 'We played a flute for you (Matthew 11:16-17 ULB)
 
-* flute - a long, hollow musical instrument which is played by blowing air in or over one end
-people who dress in splendid clothing and live in luxury are in kings' palaces (Luke 7:25 ULB)
+ * marketplace - a large, open-air area where people would come to sell their goods
 
-* kings' palaces - a large, expensive house that a king lives in
+ * flute - a long, hollow musical instrument which is played by blowing air in or over one end
+
+* ...people who dress in splendid clothing and live in luxury are in kings' palaces (Luke 7:25 ULB)
+
+ * kings' palaces - a large, expensive house that a king lives in
 
 **Translation Principles**
 
