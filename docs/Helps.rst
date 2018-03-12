@@ -7,21 +7,21 @@ translationWords
 ----------------
 
 The translationWords are important terms found in Open Bible Stories and the Bible. It is crucial that they be translated correctly. Each translationWord has a small article written about it as well as cross-references to other places that term is used in Open Bible Stories and the Bible to ensure that it has been translated correctly there, too.
-	https://door43.org/en/obe/home
+See	https://unfoldingword.org/tw/
 
 translationQuestions
 --------------------
 
 The translationQuestions are comprehension questions that can be used to check the translation. These questions can be asked of anyone checking the translation work. Can the Target Language translation be used to correctly answer each of the questions? Read the question, answer the question from the information in the translated text, look at the answer in the program. Do both of the answers match? If so, then the translation is clear and accurate.
-	https://door43.org/en/obs/notes/questions/home
-	https://door43.org/en/bible/questions/comprehension/home
+For Open Bible Stories questions, see	https://door43.org/en/obs/notes/questions/home.
+For Bible questions, see	https://unfoldingword.org/tq/
 
 translationNotes
 ----------------
 
 The translationNotes are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories and the Bible were written. They also inform the translator of translation options available to them. See Using the translationNotes for more information.
-	https://door43.org/en/obs/notes
-	https://door43.org/en/bible/notes/home
+For Open Bible Story notes, see	https://door43.org/en/obs/notes.
+For Bible notes, see	https://door43.org/en/bible/notes/home.
 
 Once you have consulted the translationHelps, then you are ready to make the best translation.
 
