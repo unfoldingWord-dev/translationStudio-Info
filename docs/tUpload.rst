@@ -2,10 +2,10 @@ tS for Android™: Uploading or Exporting Your Work *
 ===================================================
 
 
-.. image:: ../images/tSforAndroid.gif
-    :width: 100px
+.. image:: ../images/tSForAndroidWithAttr.gif
+    :width: 305px
     :align: center
-    :height: 130px
+    :height: 245px
     :alt: translationStudio for Android
 
 Why do I want to upload or export my work?
@@ -80,5 +80,4 @@ There are six Upload/Export options.
 
   * Tap Gmail to send your work to an email account. This requires an Internet connection. The app opens and enables you to send the project file as an attachment. 
   
-  
-``*`` *The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.*
+
