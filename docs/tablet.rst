@@ -2,7 +2,7 @@ translationStudio for Android™
 ================================
 
 .. image:: ../images/tSForAndroidWithAttr.gif
-    :width: 670px
+    :width: 305px
     :align: center
     :height: 245px
     :alt: translationStudio for Android
