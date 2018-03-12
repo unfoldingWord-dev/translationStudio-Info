@@ -1,3 +1,5 @@
+.. _tS_Settings:
+
 tS for Android™: Modifying Program Settings 
 ==========================================================
 
