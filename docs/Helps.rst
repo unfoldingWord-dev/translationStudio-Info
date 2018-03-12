@@ -48,9 +48,9 @@ To Translate from the ULB
       
 Translation Notes are words or phrases copied from the ULB and then explained. In English, every note that explains the ULB starts with a bullet point, the ULB text in bold followed by a dash, and then translation suggestions or information for the translator. For example:
 
-+--------------------------------------------------------------------------------+
-|*	**copied ULB text** - translation suggestion or information for the translator|
-+--------------------------------------------------------------------------------+
++--------------------------------------------------------------------------------+----+
+|*	**copied ULB text** - translation suggestion or information for the translator|    |
++--------------------------------------------------------------------------------+----+
 
 There are many different types of notes in the Translation Notes. Each type of note gives the explanation in a different way. Knowing the type of note will help translators make decisions on the best way to translate the Bible text into their language.
 
