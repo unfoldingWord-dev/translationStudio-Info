@@ -1,10 +1,10 @@
-tS for Android™: Performing Navigation *
+tS for Android™: Performing Navigation 
 ========================================
 
-.. image:: ../images/tSforAndroid.gif
-    :width: 100px
+.. image:: ../images/tSForAndroidWithAttr.gif
+    :width: 305px
     :align: center
-    :height: 130px
+    :height: 245px
     :alt: translationStudio for Android
     
 Layout
@@ -113,6 +113,4 @@ Tap the three dots icon at the bottom left (or right) of the screen to open the 
   
   * **Settings**: Same as on home screen 
   
-  
-  
-``*`` *The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.*
+
