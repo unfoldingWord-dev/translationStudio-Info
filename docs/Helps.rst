@@ -153,28 +153,51 @@ Sometimes immediately after the bolded words and hyphen there is a phrase in dou
 **Translation Notes Examples**
 
 'Make ready the way of the Lord, (Luke 3:4 ULB)
+
 * the way - "the path" or "the road"
-In this example, the words "the path" or the words "the road" can replace the words "the way" in the ULB. You can decide whether it is natural to say "way," "path," or "road" in your language.
+
+* In this example, the words "the path" or the words "the road" can replace the words "the way" in the ULB. You can decide whether it is natural to say "way," "path," or "road" in your language.
+
 whoever has food should do likewise." (Luke 3:10 ULB)
+
 * do likewise - "do the same thing"
-In this example, the words "do the same thing" can replace the words "do likewise" in the ULB. You, as the translator, can decide what is natural for your language.
+
+* In this example, the words "do the same thing" can replace the words "do likewise" in the ULB. You, as the translator, can decide what is natural for your language.
+
 Notes with Alternate Translations (AT)
-Description
-An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form. The alternate translation should only be used when the ULB form or content would give a wrong meaning, or would be unclear or unnatural.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description**
+
+An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form. The alternate translation should  be used only when the ULB form or content would give a wrong meaning or would be unclear or unnatural.
 The alternate translation suggestion may involve, for example, stating implicit information clearly, changing passive voice to active, or rewording rhetorical questions as statements. The notes often explain why there is an alternate translation and have a link to a page that explains the topic.
-Translation Notes Examples
+
+**Translation Notes Examples**
+
 The "AT:" indicates that this is an alternate translation. Some examples are:
-Making Implicit Information Clear
+
+*Making Implicit Information Clear*
+
 it is the law of the Medes and Persians, that no decree or statute that the king issues can be changed. (Daniel 6:15 ULB)
-	no decree...can be changed - An additional sentence may be added here to aid in understanding. AT: "no decree...can be changed. So they must throw Daniel into the pit of lions." (See: Assumed Knowledge and Implicit Information)
-The additional sentence shows what the speaker wanted the king to understand from his reminder that the king's decrees and statues cannot be changed. Translators may need to state some things clearly in the translation that the original speaker or writer left unstated or implicit.
-Passive to Active
+
+*no decree...can be changed - An additional sentence may be added here to aid in understanding. AT: "no decree...can be changed. So they must throw Daniel into the pit of lions." (See: Assumed Knowledge and Implicit Information)
+
+* The additional sentence shows what the speaker wanted the king to understand from his reminder that the king's decrees and statutes cannot be changed. Translators may need to state some things clearly in the translation that the original speaker or writer left unstated or implicit.
+
+*Passive to Active*
+
 to him who blasphemes against the Holy Spirit, it will not be forgiven. (Luke 12:10 ULB)
-	it will not be forgiven - This can be expressed with an active verb. AT: God will not forgive him. This can also be expressed in a positive way using a verb that means the opposite of "forgive." AT: "God will consider him guilty forever" (See: Active or Passive)
-Translators whose languages do not have passive sentences will need to know how they can translate passive sentences that they find in the Bible.
-Rhetorical Question
-Saul, Saul, why are you persecuting me? (Acts 9:4 ULB)
-	why are you persecuting me? - The Lord used this question to rebuke Saul. In some languages a statement would be more clear. AT: "You are persecuting me!" (See: Rhetorical Question)
+
+* it will not be forgiven - This can be expressed with an active verb. AT: God will not forgive him. This can also be expressed in a positive way using a verb that means the opposite of "forgive." AT: "God will consider him guilty forever" (See: Active or Passive)
+
+* Translators whose languages do not have passive sentences will need to know how they can translate passive sentences that they find in the Bible.
+
+*Rhetorical Question*
+
+Saul, Saul, why are you persecuting me? (Acts 9:4 ULB)*
+
+* why are you persecuting me? - The Lord used this question to rebuke Saul. In some languages a statement would be more clear. AT: "You are persecuting me!" (See: `Rhetorical Question <https://dw.door43.org/en/ta/vol1/translate/figs_rquestion>`)
+
 Notes That Include a Quote from the UDB
 Description
 There may not be a note if the Unlocked Dynamic Bible provides a good alternate translation for the ULB. However, on occasion a note may include text from the UDB as a suggested translation. In that case the text from the UDB will be followed by "(UDB)."
