@@ -90,13 +90,13 @@ Sometimes you may not know what a word in the ULB means. The notes may have a de
 
 Simple definitions of words or phrases are added without quotes or sentence format. Here are examples:
 
-It is like children playing in the marketplace, who sit and call to one another and say, 'We played a flute for you (Matthew 11:16-17 ULB)
+*It is like children playing in the marketplace, who sit and call to one another and say, 'We played a flute for you (Matthew 11:16-17 ULB)*
 
  * marketplace - a large, open-air area where people would come to sell their goods
 
  * flute - a long, hollow musical instrument which is played by blowing air in or over one end
 
-...people who dress in splendid clothing and live in luxury are in kings' palaces (Luke 7:25 ULB)
+*...people who dress in splendid clothing and live in luxury are in kings' palaces (Luke 7:25 ULB)*
 
  * kings' palaces - a large, expensive house that a king lives in
 
@@ -127,19 +127,19 @@ Simple explanations about words or phrases are written as full sentences. They b
 
 For example: 
 
-The fishermen had gotten out of them and were washing their nets. (Luke 5:2 ULB)
+*The fishermen had gotten out of them and were washing their nets. (Luke 5:2 ULB)*
 
 *	**washing their nets** - They were cleaning their fishing nets in order to use them again to catch fish. 
 
 If you did not know that fishermen used nets to catch fish, you might wonder why the fishermen were cleaning their nets. This explanation can help you choose good words for "were washing" and "nets."
 
-they motioned to their partners in the other boat (Luke 5:7 ULB)
+*they motioned to their partners in the other boat (Luke 5:7 ULB)*
 
 * **motioned** - They were too far from shore to call so they made gestures, probably waving their arms. 
 
 This note can help you understand what kind of motion the people made. It was a motion that people would be able to see from a distance. This will help you choose a good word or phrase for "motioned."
 
-He will be filled with the Holy Spirit, even while in his mother's womb. (Luke 1:14 ULB)
+*He will be filled with the Holy Spirit, even while in his mother's womb. (Luke 1:14 ULB)*
 
 *	**even while in his mother's womb** - The word "even" here indicates that this is especially surprising news. People had been filled with the Holy Spirit before, but no one had heard of an unborn baby's being filled with the Holy Spirit.
 
@@ -154,13 +154,13 @@ Sometimes immediately after the bolded words and hyphen there is a phrase in dou
 
 **Translation Notes Examples**
 
-Make ready the way of the Lord, (Luke 3:4 ULB)
+*Make ready the way of the Lord, (Luke 3:4 ULB)*
 
 * **the way** - "the path" or "the road"
 
 In this example, the words "the path" or the words "the road" can replace the words "the way" in the ULB. You can decide whether it is natural to say "way," "path," or "road" in your language.
 
-whoever has food should do likewise." (Luke 3:10 ULB)
+*whoever has food should do likewise." (Luke 3:10 ULB)*
 
 * **do likewise** - "do the same thing"
 
@@ -178,7 +178,8 @@ The alternate translation suggestion may involve, for example, stating implicit 
 
 The "AT:" indicates that this is an alternate translation. Some examples are:
 
-*Making Implicit Information Clear*
+Making Implicit Information Clear
+*********************************
 
 it is the law of the Medes and Persians, that no decree or statute that the king issues can be changed. (Daniel 6:15 ULB)
 
