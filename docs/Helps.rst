@@ -35,7 +35,7 @@ Using the translationNotes
 To Translate from the ULB
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-*	Read the ULB. Do you understand the meaning of the text so that you can accurately, clearly and naturally translate the meaning into your language?
+Read the ULB. Do you understand the meaning of the text so that you can accurately, clearly and naturally translate the meaning into your language?
 
   * YES? Start translating.
 
@@ -54,30 +54,30 @@ For example:
 
 There are many different types of notes in the Translation Notes. Each type of note gives the explanation in a different way. Knowing the type of note will help translators make decisions on the best way to translate the Bible text into their language.
 
-* Notes with Definitions - Sometimes you may not know what a word in the ULB means. Simple definitions of words or phrases are added without quotes or sentence format.
+* **Notes with Definitions** - Sometimes you may not know what a word in the ULB means. Simple definitions of words or phrases are added without quotes or sentence format.
 
-* Notes that Explain - Simple explanations about words or phrases are in sentence format.
+* **Notes that Explain** - Simple explanations about words or phrases are in sentence format.
 
 Suggested Translations
 ^^^^^^^^^^^^^^^^^^^^^^
 
 There are several types of suggested translations.
 
-* Notes with Synonyms and Equivalent Phrases - There are times that the notes provide a translation suggestion that can replace the word or phrases in the ULB. These replacements can fit into the sentence without changing the meaning of the sentence. These are synonyms and equivalent phrases and are written in double-quotes. These mean the same as the text in the ULB.
+* **Notes with Synonyms and Equivalent Phrases** - There are times that the notes provide a translation suggestion that can replace the word or phrases in the ULB. These replacements can fit into the sentence without changing the meaning of the sentence. These are synonyms and equivalent phrases and are written in double-quotes. These mean the same as the text in the ULB.
 
-* Notes with Alternate Translations (AT) - An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form. The alternate translation should only be used when the ULB form or content will not fit into the form of your language.
+* **Notes with Alternate Translations (AT)** - An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form. The alternate translation should only be used when the ULB form or content will not fit into the form of your language.
 
-* Notes that Include a Quote from the UDB - There may be no note if the UDB provides a good alternate translation for the ULB. However, on occasion there may be text from the UDB as well as a suggested translation. There will be "(UDB)" after the text from the UDB.
+* **Notes that Include a Quote from the UDB** - There may be no note if the UDB provides a good alternate translation for the ULB. However, on occasion there may be text from the UDB as well as a suggested translation. There will be "(UDB)" after the text from the UDB.
 
-* Notes that have Alternate Meanings - Alternate meanings refer to when there are multiple ways to express something or when there are different understandings of what the word or phrase means.
+* **Notes that have Alternate Meanings** - Alternate meanings refer to when there are multiple ways to express something or when there are different understandings of what the word or phrase means.
 
-* Notes with Possible Meanings - Sometimes Bible scholars do not know for sure, or do not agree on, what a particular phrase or sentence in the Bible means. Some reasons for this include: there are minor differences in the ancient Bible texts, or a word may have more than one meaning or use, or it may not be clear what a word (such as a pronoun) refers to in a particular phrase.
+* **Notes with Possible Meanings** - Sometimes Bible scholars do not know for sure, or do not agree on, what a particular phrase or sentence in the Bible means. Some reasons for this include: there are minor differences in the ancient Bible texts, or a word may have more than one meaning or use, or it may not be clear what a word (such as a pronoun) refers to in a particular phrase.
 
-* Notes that Identify Figures of Speech - In the notes there will be an explanation on how to translate the Figure of Speech that is in the passage. Sometimes an Alternate Translation (AT:) is provided. There will also be a link to the translationAcademy page for additional information and translation strategies to help the translator accurately translate for the meaning of the passage.
+* **Notes that Identify Figures of Speech** - In the notes there will be an explanation on how to translate the Figure of Speech that is in the passage. Sometimes an Alternate Translation (AT:) is provided. There will also be a link to the translationAcademy page for additional information and translation strategies to help the translator accurately translate for the meaning of the passage.
 
-* Notes that Identify Indirect and Direct Quotes - There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation.
+* **Notes that Identify Indirect and Direct Quotes** - There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation.
 
-* Notes for Long ULB Phrases - Sometimes there are notes for a phrase and separate notes for portions of that phrase. In that case, the larger phrase is first, and its parts afterward. The longer phrase is broken down so that translation suggestions for parts of the phrase can be explained for each part.
+* **Notes for Long ULB Phrases** - Sometimes there are notes for a phrase and separate notes for portions of that phrase. In that case, the larger phrase is first, and its parts afterward. The longer phrase is broken down so that translation suggestions for parts of the phrase can be explained for each part.
 
 Notes with Definitions
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -90,13 +90,13 @@ Sometimes you may not know what a word in the ULB means. The notes may have a de
 
 Simple definitions of words or phrases are added without quotes or sentence format. Here are examples:
 
-* It is like children playing in the marketplace, who sit and call to one another and say, 'We played a flute for you (Matthew 11:16-17 ULB)
+It is like children playing in the marketplace, who sit and call to one another and say, 'We played a flute for you (Matthew 11:16-17 ULB)
 
  * marketplace - a large, open-air area where people would come to sell their goods
 
  * flute - a long, hollow musical instrument which is played by blowing air in or over one end
 
-* ...people who dress in splendid clothing and live in luxury are in kings' palaces (Luke 7:25 ULB)
+...people who dress in splendid clothing and live in luxury are in kings' palaces (Luke 7:25 ULB)
 
  * kings' palaces - a large, expensive house that a king lives in
 
@@ -117,7 +117,9 @@ Notes that Explain
 
 **Description**
 
-Sometimes you may not know what a word or phrase in the ULB means. And sometimes the same word or phrase is also used in the UDB. So the word or phrase is explained in the notes. These explanations are meant to help you understand the word or phrase. Do not translate the explanations into your Bible. Instead use them to help you understand the meanings so you can translate the Bible text correctly.
+Sometimes you may not know what a word or phrase in the ULB means. And sometimes the same word or phrase is also used in the UDB. So the word or phrase is explained in the notes. 
+
+These explanations are meant to help you understand the word or phrase. Do not translate the explanations into your Bible. Instead use them to help you understand the meanings so you can translate the Bible text correctly.
 
 **Translation Notes Examples**
 
@@ -127,21 +129,21 @@ For example:
 
 The fishermen had gotten out of them and were washing their nets. (Luke 5:2 ULB)
 
-*	washing their nets - They were cleaning their fishing nets in order to use them again to catch fish. 
+*	**washing their nets** - They were cleaning their fishing nets in order to use them again to catch fish. 
 
-* If you did not know that fishermen used nets to catch fish, you might wonder why the fishermen were cleaning their nets. This explanation can help you choose good words for "were washing" and "nets."
+If you did not know that fishermen used nets to catch fish, you might wonder why the fishermen were cleaning their nets. This explanation can help you choose good words for "were washing" and "nets."
 
 they motioned to their partners in the other boat (Luke 5:7 ULB)
 
-* motioned - They were too far from shore to call so they made gestures, probably waving their arms. 
+* **motioned** - They were too far from shore to call so they made gestures, probably waving their arms. 
 
-* This note can help you understand what kind of motion the people made. It was a motion that people would be able to see from a distance. This will help you choose a good word or phrase for "motioned."
+This note can help you understand what kind of motion the people made. It was a motion that people would be able to see from a distance. This will help you choose a good word or phrase for "motioned."
 
 He will be filled with the Holy Spirit, even while in his mother's womb. (Luke 1:14 ULB)
 
-*	even while in his mother's womb - The word "even" here indicates that this is especially surprising news. People had been filled with the Holy Spirit before, but no one had heard of an unborn baby's being filled with the Holy Spirit.
+*	**even while in his mother's womb** - The word "even" here indicates that this is especially surprising news. People had been filled with the Holy Spirit before, but no one had heard of an unborn baby's being filled with the Holy Spirit.
 
-* This note can help you understand what the word "even" means in this sentence, so you can find a way of showing how surprising this was.
+This note can help you understand what the word "even" means in this sentence, so you can find a way of showing how surprising this was.
 
 Notes with Synonyms and Equivalent Phrases
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -154,15 +156,15 @@ Sometimes immediately after the bolded words and hyphen there is a phrase in dou
 
 Make ready the way of the Lord, (Luke 3:4 ULB)
 
-* the way - "the path" or "the road"
+* **the way** - "the path" or "the road"
 
-* In this example, the words "the path" or the words "the road" can replace the words "the way" in the ULB. You can decide whether it is natural to say "way," "path," or "road" in your language.
+In this example, the words "the path" or the words "the road" can replace the words "the way" in the ULB. You can decide whether it is natural to say "way," "path," or "road" in your language.
 
 whoever has food should do likewise." (Luke 3:10 ULB)
 
-* do likewise - "do the same thing"
+* **do likewise** - "do the same thing"
 
-* In this example, the words "do the same thing" can replace the words "do likewise" in the ULB. You, as the translator, can decide what is natural for your language.
+*In this example, the words "do the same thing" can replace the words "do likewise" in the ULB. You, as the translator, can decide what is natural for your language.
 
 Notes with Alternate Translations (AT)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
