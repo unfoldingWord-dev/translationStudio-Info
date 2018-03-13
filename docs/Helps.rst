@@ -215,7 +215,7 @@ There may not be a note if the Unlocked Dynamic Bible provides a good alternate 
 
 *	implored him - "begged him" or "urged him" (UDB) 
 
-* Here the suggested translation for the words 'implored him' is 'begged him.' The words, 'urged him' from the UDB mean the same thing and are included as another suggestion.
+Here the suggested translation for the words 'implored him' is 'begged him.' The words, 'urged him' from the UDB mean the same thing and are included as another suggestion.
 
 *When he saw Jesus, he fell on his face (Luke 5:12 ULB)*
 
@@ -223,7 +223,7 @@ There may not be a note if the Unlocked Dynamic Bible provides a good alternate 
 
 *	he fell on his face - "he knelt and touched the ground with his face" or "he bowed down to the ground" (UDB)
 
-* Here the words from the UDB are provided as another translation suggestion.
+Here the words from the UDB are provided as another translation suggestion.
 
 Notes That Have Alternate Meanings
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -243,7 +243,7 @@ The translator needs to decide which meaning to translate. Translators may choos
 
 This note has the ULB text followed by two meanings. The note starts with 'Possible meanings are,' and the meanings are numbered. The first meaning is most likely correct.
 
-But Simon Peter, when he saw it, fell down at Jesus' knees (Luke 5:8 ULB)
+*But Simon Peter, when he saw it, fell down at Jesus' knees (Luke 5:8 ULB)*
 
 * fell down at Jesus' knees - Possible meanings are 1) "bowed down at Jesus' feet" or 2) "lay down on the ground at Jesus' feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
 
@@ -377,7 +377,7 @@ Bread is a particular food made by mixing finely crushed grains with oil, and th
 
 *I will turn Jerusalem into piles of ruins, a hideout for jackals (`Jeremiah 9:11 ULB <https://dw.door43.org/en/bible/notes/jer/09/10>`_)*
 
-Jackals are wild animals like dogs that live in only a few parts of the world. So they are not known in many places.
+Jackals are wild animals like dogs that live in only a few parts of the world, so they are not known in many places.
 
 *Beware of false prophets, those who come to you in sheep's clothing, but are truly ravenous wolves. (`Matthew 7:15 ULB <https://dw.door43.org/en/bible/notes/mat/07/15>`_)*
 
@@ -413,17 +413,17 @@ Here are ways you might translate a term that is not known in your language:
 
 1. Use a phrase that describes the part of the meaning that is important in the particular verse being translated.
 
-  *Beware of false prophets, those who come to you in sheep's clothing, but are truly ravenous wolves. (`Matthew 7:15 ULB <https://dw.door43.org/en/bible/notes/mat/07/15>`_)
+  *Beware of false prophets, those who come to you in sheep's clothing, but are truly ravenous wolves. (`Matthew 7:15 ULB <https://dw.door43.org/en/bible/notes/mat/07/15>`_)*
 
     *	"Beware of false prophets, those who come to you in sheep's clothing, but are truly hungry and dangerous animals."
 
-  * We have here only five loaves of bread and two fish (`Matthew 14:17 ULB <https://dw.door43.org/en/bible/notes/mat/14/16>`_)*
+  *We have here only five loaves of bread and two fish (`Matthew 14:17 ULB <https://dw.door43.org/en/bible/notes/mat/14/16>`_)*
 
     *	"We have here only five loaves of baked grain seeds and two fish"
 
 2. Substitute something similar from your language if doing so does not falsely represent a historical fact.
 
-  *	*your sins ... will be white like snow (`Isaiah 1:18 ULB <https://dw.door43.org/en/bible/notes/isa/01/18>`_)* This verse is not about snow. It uses snow in a figure of speech to help people understand how white something will be.
+  *your sins ... will be white like snow (`Isaiah 1:18 ULB <https://dw.door43.org/en/bible/notes/isa/01/18>`_)* This verse is not about snow. It uses snow in a figure of speech to help people understand how white something will be.
 
     *	"your sins ... will be white like milk"
 
@@ -431,27 +431,27 @@ Here are ways you might translate a term that is not known in your language:
 
 3. Copy the word from another language, and add a general word or descriptive phrase to help people understand it.
 
-  *	*Then they tried to give Jesus wine that was mixed with myrrh. But he refused to drink it.(`Mark 15:23 ULB <https://dw.door43.org/en/bible/notes/mrk/15/22>`_)* - People may understand better what myrrh is if it is used with the general word "medicine."
+  *Then they tried to give Jesus wine that was mixed with myrrh. But he refused to drink it.(`Mark 15:23 ULB <https://dw.door43.org/en/bible/notes/mrk/15/22>`_)* - People may understand better what myrrh is if it is used with the general word "medicine."
 
     *	"Then they tried to give Jesus wine that was mixed with a medicine called myrrh. But he refused to drink it."
 
-  *	*We have here only five loaves of bread and two fish (`Matthew 14:17 ULB <https://dw.door43.org/en/bible/notes/mat/14/16>`_)* - People may understand better what bread is if it is used with a phrase that tells what it is made of (seeds) and how it is prepared (crushed and baked).
+  *We have here only five loaves of bread and two fish (`Matthew 14:17 ULB <https://dw.door43.org/en/bible/notes/mat/14/16>`_)* - People may understand better what bread is if it is used with a phrase that tells what it is made of (seeds) and how it is prepared (crushed and baked).
 
     *	"We have here only five loaves of baked crushed seed bread and two fish"
 
 4. Use a word that is more general in meaning.
 
-  *	*I will turn Jerusalem into piles of ruins, a hideout for jackals (`Jeremiah 9:11 ULB <https://dw.door43.org/en/bible/notes/jer/09/10>`_)*
+  *I will turn Jerusalem into piles of ruins, a hideout for jackals (`Jeremiah 9:11 ULB <https://dw.door43.org/en/bible/notes/jer/09/10>`_)*
 
     *	"I will turn Jerusalem into piles of ruins, a hideout for wild dogs"
 
-  *	*We have here only five loaves of bread and two fish (`Matthew 14:17 ULB <https://dw.door43.org/en/bible/notes/mat/14/16>`_)*
+  *We have here only five loaves of bread and two fish (`Matthew 14:17 ULB <https://dw.door43.org/en/bible/notes/mat/14/16>`_)*
 
     *	"We have here only five loaves of baked food and two fish"
 
 5. Use a word or phrase that is more specific in meaning.
 
-  *	*to him who made great lights (`Psalm 136:7 ULB <https://dw.door43.org/en/bible/notes/psa/136/006>`_)*
+  *to him who made great lights (`Psalm 136:7 ULB <https://dw.door43.org/en/bible/notes/psa/136/006>`_)*
 
     *	"to him who made the sun and the moon"
 
