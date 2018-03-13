@@ -653,23 +653,23 @@ A metaphor is the use of words to speak of one thing as if it were a different t
 
 1. First we will discuss very common metaphors.
 
-  The metaphors that are very common in a language are usually not very vivid. They may even be "dead." Examples in English are "table leg," "family tree," and "the price of food is going up." Examples in biblical languages are "hand" to mean "power," "face" to mean "presence," and "clothing" to mean emotions or moral qualities.
+    The metaphors that are very common in a language are usually not very vivid. They may even be "dead." Examples in English are "table leg," "family tree," and "the price of food is going up." Examples in biblical languages are "hand" to mean "power," "face" to mean "presence," and "clothing" to mean emotions or moral qualities.
 
-  Metaphors like these are in constant use in the world's languages, because they serve as convenient ways to organize thought. In general, languages speak of abstract qualities, such as power, presence, emotions, and moral qualities, as if they were objects that can be seen or held, or as if they were body parts, or as if they were events that you can watch happen.
+    Metaphors like these are in constant use in the world's languages, because they serve as convenient ways to organize thought. In general, languages speak of abstract qualities, such as power, presence, emotions, and moral qualities, as if they were objects that can be seen or held, or as if they were body parts, or as if they were events that you can watch happen.
 
-  When these metaphors are used in their normal ways, the speaker and audience do not normally even regard them as figurative language. This is why, for example, it would be wrong to translate the English expression, "The price of petrol is going up" into another language in a way that would draw undeserved attention to it, because English speakers do not view it as a vivid expression, that is, as an unusual expression that carries meaning in an unusual manner.
+    When these metaphors are used in their normal ways, the speaker and audience do not normally even regard them as figurative language. This is why, for example, it would be wrong to translate the English expression, "The price of petrol is going up" into another language in a way that would draw undeserved attention to it, because English speakers do not view it as a vivid expression, that is, as an unusual expression that carries meaning in an unusual manner.
 
-  For a description of important patterns of this kind of metaphor, please see `Biblical Imagery - Common Patterns <https://dw.door43.org/en/ta/vol2/translate/bita_part1>`_ and the pages it will direct you to.
+    For a description of important patterns of this kind of metaphor, please see `Biblical Imagery - Common Patterns <https://dw.door43.org/en/ta/vol2/translate/bita_part1>`_ and the pages it will direct you to.
 
 2. Next we will discuss the less common metaphors, metaphors that are sometimes even unique in a language.
 
-  The speaker usually produces metaphors of this kind in order to emphasize the importance of what he is talking about. For example:
+    The speaker usually produces metaphors of this kind in order to emphasize the importance of what he is talking about. For example:
   
-  *For you who fear my name, the sun of righteousness will rise with healing in its wings.* (`Malachi 4:2 ULB <https://dw.door43.org/en/bible/notes/mal/04/01>`_)
+    *For you who fear my name, the sun of righteousness will rise with healing in its wings.* (`Malachi 4:2 ULB <https://dw.door43.org/en/bible/notes/mal/04/01>`_)
   
-Here God speaks about his salvation as if it were the sun rising to shine its rays on the people whom he loves. And he speaks of the sun's rays as if they were wings. Also, he speaks of these wings as if they were bringing medicine that would heal his people.
+  Here God speaks about his salvation as if it were the sun rising to shine its rays on the people whom he loves. And he speaks of the sun's rays as if they were wings. Also, he speaks of these wings as if they were bringing medicine that would heal his people.
 
-We call this kind of metaphor "live." It is unique in the biblical languages, which means that it is very memorable.
+  We call this kind of metaphor "live." It is unique in the biblical languages, which means that it is very memorable.
 
 **Parts of a Metaphor**
 
@@ -681,15 +681,15 @@ In the metaphor below, the speaker describes the woman he loves as a rose. The w
   
 1. Sometimes the topic and the image are both stated clearly.
 
-Jesus said to them. "I am the bread of life. He who comes to me will not hunger, and he who believes on me will never thirst." (John 6:35 ULB)
+  Jesus said to them. "I am the bread of life. He who comes to me will not hunger, and he who believes on me will never thirst." (John 6:35 ULB)
 
-Jesus called himself the bread of life. The topic is "I" and the image is "bread." Bread is a food that people ate all the time. Just as people need to eat food in order to have physical life, people need to trust in Jesus in order to have spiritual life.
+  Jesus called himself the bread of life. The topic is "I" and the image is "bread." Bread is a food that people ate all the time. Just as people need to eat food in order to have physical life, people need to trust in Jesus in order to have spiritual life.
 
 2. Sometimes only the image is stated clearly.
 
-Produce fruits that are worthy of repentance (Luke 3:8 ULB)
+  Produce fruits that are worthy of repentance (Luke 3:8 ULB)
 
-The image here is "fruits". The topic is not stated, but it is actions or behavior. Trees can produce good fruit or bad fruit, and people can produce good behavior or bad behavior. Fruits that are worthy of repentance are good behavior that is appropriate for people who have repented.
+  The image here is "fruits". The topic is not stated, but it is actions or behavior. Trees can produce good fruit or bad fruit, and people can produce good behavior or bad behavior. Fruits that are worthy of repentance are good behavior that is appropriate for people who have repented.
 
 **Purposes of this second kind of metaphor**
 
