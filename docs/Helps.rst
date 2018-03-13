@@ -375,23 +375,23 @@ Bread is a particular food made by mixing finely crushed grains with oil, and th
 
 **Examples from the Bible**
 
-*I will turn Jerusalem into piles of ruins, a hideout for jackals (`Jeremiah 9:11 ULB <https://dw.door43.org/en/bible/notes/jer/09/10>`_)*
+*I will turn Jerusalem into piles of ruins, a hideout for jackals* (`Jeremiah 9:11 ULB <https://dw.door43.org/en/bible/notes/jer/09/10>`_)
 
 Jackals are wild animals like dogs that live in only a few parts of the world, so they are not known in many places.
 
-*Beware of false prophets, those who come to you in sheep's clothing, but are truly ravenous wolves. (`Matthew 7:15 ULB <https://dw.door43.org/en/bible/notes/mat/07/15>`_)*
+*Beware of false prophets, those who come to you in sheep's clothing, but are truly ravenous wolves.* (`Matthew 7:15 ULB <https://dw.door43.org/en/bible/notes/mat/07/15>`_)
 
 If wolves do not live where the translation will be read, the readers may not understand that they are fierce, wild animals like dogs that attack and eat sheep.
 
-*Then they tried to give Jesus wine that was mixed with myrrh. But he refused to drink it. (`Mark 15:23 ULB <https://dw.door43.org/en/bible/notes/mrk/15/22>`_)*
+*Then they tried to give Jesus wine that was mixed with myrrh. But he refused to drink it.* (`Mark 15:23 ULB <https://dw.door43.org/en/bible/notes/mrk/15/22>`_)
 
 People may not know what myrrh is and that it was used as a medicine.
 
-*to him who made great lights (`Psalm 136:7 ULB <https://dw.door43.org/en/bible/notes/psa/136/006>`_)*
+*to him who made great lights* (`Psalm 136:7 ULB <https://dw.door43.org/en/bible/notes/psa/136/006>`_)
 
 Some languages have terms for things that give light, like the sun and fire, but they have no general term for lights.
 
-*your sins ... will be white like snow (`Isaiah 1:18 ULB <https://dw.door43.org/en/bible/notes/isa/01/18>`_)*
+*your sins ... will be white like snow* (`Isaiah 1:18 ULB <https://dw.door43.org/en/bible/notes/isa/01/18>`_)
 
 People in many parts of the world have not seen snow, but they may have seen it in pictures.
 
@@ -413,17 +413,17 @@ Here are ways you might translate a term that is not known in your language:
 
 1. Use a phrase that describes the part of the meaning that is important in the particular verse being translated.
 
-  *Beware of false prophets, those who come to you in sheep's clothing, but are truly ravenous wolves. (`Matthew 7:15 ULB <https://dw.door43.org/en/bible/notes/mat/07/15>`_)*
+  *Beware of false prophets, those who come to you in sheep's clothing, but are truly ravenous wolves.* (`Matthew 7:15 ULB <https://dw.door43.org/en/bible/notes/mat/07/15>`_)
 
     *	"Beware of false prophets, those who come to you in sheep's clothing, but are truly hungry and dangerous animals."
 
-  *We have here only five loaves of bread and two fish (`Matthew 14:17 ULB <https://dw.door43.org/en/bible/notes/mat/14/16>`_)*
+  *We have here only five loaves of bread and two fish* (`Matthew 14:17 ULB <https://dw.door43.org/en/bible/notes/mat/14/16>`_)
 
     *	"We have here only five loaves of baked grain seeds and two fish"
 
 2. Substitute something similar from your language if doing so does not falsely represent a historical fact.
 
-  *your sins ... will be white like snow (`Isaiah 1:18 ULB <https://dw.door43.org/en/bible/notes/isa/01/18>`_)* This verse is not about snow. It uses snow in a figure of speech to help people understand how white something will be.
+  *your sins ... will be white like snow* (`Isaiah 1:18 ULB <https://dw.door43.org/en/bible/notes/isa/01/18>`_) This verse is not about snow. It uses snow in a figure of speech to help people understand how white something will be.
 
     *	"your sins ... will be white like milk"
 
@@ -431,27 +431,27 @@ Here are ways you might translate a term that is not known in your language:
 
 3. Copy the word from another language, and add a general word or descriptive phrase to help people understand it.
 
-  *Then they tried to give Jesus wine that was mixed with myrrh. But he refused to drink it.(`Mark 15:23 ULB <https://dw.door43.org/en/bible/notes/mrk/15/22>`_)* - People may understand better what myrrh is if it is used with the general word "medicine."
+  *Then they tried to give Jesus wine that was mixed with myrrh. But he refused to drink it.* (`Mark 15:23 ULB <https://dw.door43.org/en/bible/notes/mrk/15/22>`_) - People may understand better what myrrh is if it is used with the general word "medicine."
 
     *	"Then they tried to give Jesus wine that was mixed with a medicine called myrrh. But he refused to drink it."
 
-  *We have here only five loaves of bread and two fish (`Matthew 14:17 ULB <https://dw.door43.org/en/bible/notes/mat/14/16>`_)* - People may understand better what bread is if it is used with a phrase that tells what it is made of (seeds) and how it is prepared (crushed and baked).
+  *We have here only five loaves of bread and two fish* (`Matthew 14:17 ULB <https://dw.door43.org/en/bible/notes/mat/14/16>`_) - People may understand better what bread is if it is used with a phrase that tells what it is made of (seeds) and how it is prepared (crushed and baked).
 
     *	"We have here only five loaves of baked crushed seed bread and two fish"
 
 4. Use a word that is more general in meaning.
 
-  *I will turn Jerusalem into piles of ruins, a hideout for jackals (`Jeremiah 9:11 ULB <https://dw.door43.org/en/bible/notes/jer/09/10>`_)*
+  *I will turn Jerusalem into piles of ruins, a hideout for jackals* (`Jeremiah 9:11 ULB <https://dw.door43.org/en/bible/notes/jer/09/10>`_)
 
     *	"I will turn Jerusalem into piles of ruins, a hideout for wild dogs"
 
-  *We have here only five loaves of bread and two fish (`Matthew 14:17 ULB <https://dw.door43.org/en/bible/notes/mat/14/16>`_)*
+  *We have here only five loaves of bread and two fish* (`Matthew 14:17 ULB <https://dw.door43.org/en/bible/notes/mat/14/16>`_)
 
     *	"We have here only five loaves of baked food and two fish"
 
 5. Use a word or phrase that is more specific in meaning.
 
-  *to him who made great lights (`Psalm 136:7 ULB <https://dw.door43.org/en/bible/notes/psa/136/006>`_)*
+  *to him who made great lights* (`Psalm 136:7 ULB <https://dw.door43.org/en/bible/notes/psa/136/006>`_)
 
     *	"to him who made the sun and the moon"
 
@@ -491,11 +491,11 @@ One of the traditions of the elders was a ceremony in which people would wash th
 Active or Passive
 ^^^^^^^^^^^^^^^^^
 
-Some languages have both active and passive sentences. In active sentences, the subject does the action. In passive sentences the subject is the one that the action is done to. Here are some examples with their subjects underlined:
+Some languages have both active and passive sentences. In active sentences, the subject does the action. In passive sentences the subject is the one that the action is done to. Here are some examples with their subjects in bold type:
 
-* ACTIVE: `_My father`_ built the house in 2010.
+* ACTIVE: **My father** built the house in 2010.
 
-* PASSIVE: `_The house`_ was built in 2010.
+* PASSIVE: **The house** was built in 2010.
 
 Translators whose languages do not have passive sentences will need to know how they can translate passive sentences that they find in the Bible. Other translators will need to decide when to use a passive sentence and when not to.
 
@@ -507,13 +507,13 @@ Some languages have both active and passive forms of sentences.
 
 * In the PASSIVE form, the action is done to the subject and the one who does the action is *not always* mentioned.
 
-In the examples of active and passive sentences below, we have put the subject underlined.
+In the examples of active and passive sentences below, we have put the subject in bold type.
 
-ACTIVE: `_My father`_ built the house in 2010.
+ACTIVE: **My father** built the house in 2010.
 
-PASSIVE: `_The house`_ was built by my father in 2010. 
+PASSIVE: **The house** was built by my father in 2010. 
 
-PASSIVE: `_The house`_ was built in 2010. (This does not tell who did the action.)
+PASSIVE: **The house** was built in 2010. (This does not tell who did the action.)
 
 All languages have active forms. Some languages have passive forms, and some do not.  The passive form is not used for the same reasons in all of the languages that have it.
 
@@ -523,13 +523,13 @@ Purposes for the passive:
 
 * The speaker does not want to tell who did the action. 
 
-*	The speaker does not know who did the action.
+* The speaker does not know who did the action.
 
 **Translation Principles Regarding the Passive**
 
-*	Translators whose language does not use passive forms will need to find another way to express the idea. 
+* Translators whose language does not use passive forms will need to find another way to express the idea. 
 
-*	Translators whose language has passive forms will need to understand why the passive is used in a particular sentence in the Bible and decide whether or not to use a passive form for that purpose in his translation of the sentence.
+* Translators whose language has passive forms will need to understand why the passive is used in a particular sentence in the Bible and decide whether or not to use a passive form for that purpose in his translation of the sentence.
 
 **Examples from the Bible**
 
@@ -665,100 +665,197 @@ A metaphor is the use of words to speak of one thing as if it were a different t
 
   The speaker usually produces metaphors of this kind in order to emphasize the importance of what he is talking about. For example:
   
-  *For you who fear my name, the sun of righteousness will rise with healing in its wings. (`Malachi 4:2 ULB <https://dw.door43.org/en/bible/notes/mal/04/01>`_)*
+  *For you who fear my name, the sun of righteousness will rise with healing in its wings.* (`Malachi 4:2 ULB <https://dw.door43.org/en/bible/notes/mal/04/01>`_)
   
 Here God speaks about his salvation as if it were the sun rising to shine its rays on the people whom he loves. And he speaks of the sun's rays as if they were wings. Also, he speaks of these wings as if they were bringing medicine that would heal his people.
+
 We call this kind of metaphor "live." It is unique in the biblical languages, which means that it is very memorable.
-Parts of a Metaphor
+
+**Parts of a Metaphor**
+
 When talking about metaphors, it can be helpful to talk about their parts. The thing someone speaks of is called the topic. The thing he calls it is the image. The way that they are similar is the point of comparison.
+
 In the metaphor below, the speaker describes the woman he loves as a rose. The woman (his "love") is the topic and the red rose is the image. Both are beautiful and delicate.
-	My love is a red, red rose.
+
+  * My love is a red, red rose.
+  
 1. Sometimes the topic and the image are both stated clearly.
+
 Jesus said to them. "I am the bread of life. He who comes to me will not hunger, and he who believes on me will never thirst." (John 6:35 ULB)
+
 Jesus called himself the bread of life. The topic is "I" and the image is "bread." Bread is a food that people ate all the time. Just as people need to eat food in order to have physical life, people need to trust in Jesus in order to have spiritual life.
+
 2. Sometimes only the image is stated clearly.
+
 Produce fruits that are worthy of repentance (Luke 3:8 ULB)
+
 The image here is "fruits". The topic is not stated, but it is actions or behavior. Trees can produce good fruit or bad fruit, and people can produce good behavior or bad behavior. Fruits that are worthy of repentance are good behavior that is appropriate for people who have repented.
-Purposes of this second kind of metaphor
-	One purpose of metaphor is to teach people about something that they do not know (the topic) by showing that it is like something that they already know (the image).
-	Another purpose is to emphasize that something has a particular quality or to show that it has that quality in an extreme way.
-	Another purpose is to lead people to feel the same way about one thing as they would feel toward another.
-Reasons this is a translation issue
-	People may not realize that a word is being used as an image in a metaphor.
-	People may not be familiar with the thing that is used as an image.
-	If the topic is not stated, people may not know what the topic is.
-	People may not know how the topic and the image are alike.
-Translation Principles
-	Make the meaning of a metaphor as clear to the target audience as it was to the original audience.
-	Do not make the meaning of a metaphor more clear to the target audience than it was to the original audience.
-Examples from the Bible
-And yet, Yahweh, you are our father; we are the clay. You are our potter; and we all are the work of your hand. (Isaiah 64:8 ULB)
+
+**Purposes of this second kind of metaphor**
+
+* One purpose of metaphor is to teach people about something that they do not know (the topic) by showing that it is like something that they already know (the image).
+
+* Another purpose is to emphasize that something has a particular quality or to show that it has that quality in an extreme way.
+
+* Another purpose is to lead people to feel the same way about one thing as they would feel toward another.
+
+**Reasons this is a translation issue**
+
+* People may not realize that a word is being used as an image in a metaphor.
+
+* People may not be familiar with the thing that is used as an image.
+
+* If the topic is not stated, people may not know what the topic is.
+
+* People may not know how the topic and the image are alike.
+
+**Translation Principles**
+
+* Make the meaning of a metaphor as clear to the target audience as it was to the original audience.
+
+* Do not make the meaning of a metaphor more clear to the target audience than it was to the original audience.
+
+**Examples from the Bible**
+
+*And yet, Yahweh, you are our father; we are the clay. You are our potter; and we all are the work of your hand.* (Isaiah 64:8 ULB)
+
 The example above has two metaphors. The topics are "we" and "you" and the images are "clay and "potter." Just as a potter takes clay and forms a jar or dish out of it, God makes us into what he wants us to be.
-Jesus said to them, "Take heed and beware of the yeast of the Pharisees and Sadducees." The disciples reasoned among themselves and said, "It is because we took no bread." (Matthew 16:6-7ULB)
+
+*Jesus said to them, "Take heed and beware of the yeast of the Pharisees and Sadducees." The disciples reasoned among themselves and said, "It is because we took no bread." (Matthew 16:6-7ULB)*
+
 Jesus used a metaphor, but his disciples did not realize it. When he said "yeast," they thought he was talking about bread, but "yeast" was the image in his metaphor about the teaching of the Pharisees and Sadducees. Since the disciples did not understand what Jesus meant, it would not be good to state clearly here what Jesus meant.
-Translation Strategies
+
+**Translation Strategies**
+
 If people would understand the metaphor in the same way that the original readers would have understood it, go ahead and use it. If not, here are some other strategies.
-1.	If the metaphor is common and seems to be a normal way to say something in the biblical language, express the main idea in the simplest way preferred by your language.
-2.	If the target audience would think that the phrase should be understood literally, change the metaphor to a simile. Some languages do this by adding words such as "like" or "as."
-3.	If the target audience would not know the image, see Translate Unknowns for ideas on how to translate that image.
-4.	If the target audience would not use that image for that meaning, use an image from your own culture instead. Be sure that it is an image that could have been possible in Bible times.
-5.	Or, if the target audience would not use that image for that meaning, simply state the truth that the metaphor was used to communicate.
-6.	If the target audience would not know what the topic is, then state the topic clearly. (However, do not do this if the original audience did not know what the topic was.)
-7.	If the target audience would not know how the topic is like the image, state it clearly.
-Examples of Translation Strategies Applied
+
 1. If the metaphor is common and seems to be a normal way to say something in the biblical language, express the main idea in the simplest way preferred by your language.
-	For after David had in his own generation served the desires of God, he fell asleep, was laid with his fathers, and saw decay, (Acts 13:36 ULB)
-	"For after David had in his own generation served the desires of God, he died, was laid with his fathers, and saw decay,"
-2. If the target audience would think that the phrase should be understood literally, change the metaphor to a simile. Some languages do this by adding "like" or "as."
-	And yet, Yahweh, you are our father; we are the clay. You are our potter; and we all are the work of your hand. (Isaiah 64:8 ULB)
-	"And yet, Yahweh, you are our father; we are like clay. You are like a potter; and we all are the work of your hand."
-3. If the target audience would not know the image, see Translate Unknowns for ideas on how to translate that image.
-	Saul, Saul, why do you persecute me? It is hard for you to kick a goad. (Acts 26:14 ULB)
-	"Saul, Saul, why do you persecute me? It is hard for you to kick against a pointed stick."
-4. If the target audience would not use that image for that meaning, use an image from your own culture instead. Be sure that it is an image that could have been possible in Bible times.
-	And yet, Yahweh, you are our father; we are the clay. You are our potter; and we all are the work of your hand. (Isaiah 64:8 ULB)
-	"And yet, Yahweh, you are our father; we are the wood. You are our carver; and we all are the work of your hand."
-	"And yet, Yahweh, you are our father; we are the string. You are the weaver; and we all are the work of your hand."
-5. Or, if the target audience would not use that image for that meaning, simply state the truth that the metaphor was used to communicate.
-	I will make you become fishers of men. (Mark 1:17 ULB )
-	"I will make you become people who gather men."
-	"Now you gather fish. I will make you gather people."
-6. If the target audience would not know what the topic is, then state the topic clearly. (However, do not do this if the original audience did not know what the topic was.)
-	Yahweh lives; may my rock be praised. May the God of my salvation be exalted. (Psalm 18:46ULB)
-	"Yahweh lives; He is my rock. May he be praised. May the God of my salvation be exalted.
+
+2. If the target audience would think that the phrase should be understood literally, change the metaphor to a simile. Some languages do this by adding words such as "like" or "as."
+
+3. If the target audience would not know the **image**, see `Translate Unknowns`_ for ideas on how to translate that image.
+
+4. If the target audience would not use that **image** for that meaning, use an image from your own culture instead. Be sure that it is an image that could have been possible in Bible times.
+
+5. Or, if the target audience would not use that **image** for that meaning, simply state the truth that the metaphor was used to communicate.
+
+6. *f the target audience would not know what the **topic** is, then state the topic clearly. (However, do not do this if the original audience did not know what the topic was.)
+
 7. If the target audience would not know how the topic is like the image, state it clearly.
-	Yahweh lives; may my rock be praised. May the God of my salvation be exalted. (Psalm 18:46ULB)
-	"Yahweh lives; may he be praised because like a huge rock, he shields me from my enemies. May the God of my salvation be exalted."
-	Saul, Saul, why do you persecute me? It is hard for you to kick a goad. (Acts 26:14 ULB)
-	"Saul, Saul, why do you persecute me? You fight against me and hurt yourself like an ox that kicks against its owner's pointed stick."
+
+**Examples of Translation Strategies Applied**
+
+1. If the metaphor is common and seems to be a normal way to say something in the biblical language, express the main idea in the simplest way preferred by your language.
+
+  * *For after David had in his own generation served the desires of God, he fell asleep, was laid with his fathers, and saw decay,* (`Acts 13:36 ULB <https://dw.door43.org/en/bible/notes/act/13/35>`_)
+
+    * "For after David had in his own generation served the desires of God, he died, was laid with his fathers, and saw decay,"
+    
+2. If the target audience would think that the phrase should be understood literally, change the metaphor to a simile. Some languages do this by adding "like" or "as."
+
+  * *And yet, Yahweh, you are our father; we are the clay. You are our potter; and we all are the work of your hand.* (`Isaiah 64:8 ULB <https://dw.door43.org/en/bible/notes/isa/64/08>`_)
+  
+    * "And yet, Yahweh, you are our father; we are like clay. You are like a potter; and we all are the work of your hand."
+    
+3. If the target audience would not know the image, see `Translate Unknowns`_ for ideas on how to translate that image.
+
+  * *Saul, Saul, why do you persecute me? It is hard for you to kick a goad.* (`Acts 26:14 ULB <https://dw.door43.org/en/bible/notes/act/26/12>`_)
+  
+    * "Saul, Saul, why do you persecute me? It is hard for you to kick against a pointed stick."
+    
+4. If the target audience would not use that image for that meaning, use an image from your own culture instead. Be sure that it is an image that could have been possible in Bible times.
+
+  * *And yet, Yahweh, you are our father; we are the clay. You are our potter; and we all are the work of your hand.* (`Isaiah 64:8 ULB <https://dw.door43.org/en/bible/notes/isa/64/08>`_)
+  
+    * "And yet, Yahweh, you are our father; we are the wood. You are our carver; and we all are the work of your hand."
+    
+    * "And yet, Yahweh, you are our father; we are the string. You are the weaver; and we all are the work of your hand."
+    
+5. Or, if the target audience would not use that image for that meaning, simply state the truth that the metaphor was used to communicate.
+
+  * *I will make you become fishers of men.* (`Mark 1:17 ULB <https://dw.door43.org/en/bible/notes/mrk/01/07>`_)
+  
+      * "I will make you become people who gather men."
+      
+      * "Now you gather fish. I will make you gather people."
+      
+6. If the target audience would not know what the topic is, then state the topic clearly. (However, do not do this if the original audience did not know what the topic was.)
+
+  * *Yahweh lives; may my rock be praised. May the God of my salvation be exalted.* (`Psalm 18:46 ULB <https://dw.door43.org/en/bible/notes/psa/018/046>`_)
+  
+    * "Yahweh lives; He is my rock. May he be praised. May the God of my salvation be exalted.
+    
+7. If the target audience would not know how the topic is like the image, state it clearly.
+
+  * *Yahweh lives; may my rock be praised. May the God of my salvation be exalted.* (`Psalm 18:46 ULB <https://dw.door43.org/en/bible/notes/psa/018/046>`_)
+      
+      * "Yahweh lives; may he be praised because like a huge rock, he shields me from my enemies. May the God of my salvation be exalted."
+      
+  * *Saul, Saul, why do you persecute me? It is hard for you to kick a goad.* (`Acts 26:14 ULB <https://dw.door43.org/en/bible/notes/act/26/12`_)
+  
+    * "Saul, Saul, why do you persecute me? You fight against me and hurt yourself like an ox that kicks against its owner's pointed stick."
+    
 Biblical Imagery – Common Patterns
-This page discusses ideas that are paired together in limited ways. For a discussion of more complex pairings, see Biblical Imagery - Cultural Models.
-Description
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+This page discusses ideas that are paired together in limited ways. For a discussion of more complex pairings, see `Biblical Imagery - Cultural Models <https://dw.door43.org/en/ta/vol2/translate/bita_part3>`_.
+
+**Description**
+
 In all languages, most metaphors come from broad patterns of pairings of ideas in which one idea represents another. For example, some languages have the pattern of pairing height with "much" and pairing being low with "not much," so that height represents "much" and being low represents "not much." This could be because when there is a lot of something in a pile, that pile will be high. So also if something costs a lot money, in some languages people would say that the price is high, or if a city has more people in it than it used to have, we might say that its number of people has gone up. Likewise if someone gets thinner and loses weight, we would say that their weight has gone down.
+
 The patterns found in the Bible are often unique to the Hebrew and Greek languages. It is useful to recognize these patterns because they repeatedly present translators with the same problems on how to translate them. Once translators think through how they will handle these translation challenges, they will be ready to meet them anywhere.
+
 For example, one pattern of pairings in the Bible is of walking with "behaving" and a path with a kind of behavior. In Psalm 1:1 the walking in the advice of the wicked represents doing what wicked people say to do.
-Blessed is the man who does not walk in the advice of the wicked (Psalm 1:1)
+
+  *Blessed is the man who does not walk in the advice of the wicked (Psalm 1:1)*
+
 This pattern is also seen in Psalm 119:32 where running in the path of God's commands represents doing what God commands. Since running is more intense than walking, the idea of running here might give the idea of doing this whole-heartedly.
-I will run in the path of your commandments. (Psalm 119:32 ULB)
-Reasons this is a translation Issue
+
+  *I will run in the path of your commandments. (Psalm 119:32 ULB)*
+  
+**Reasons this is a translation Issue**
+
 These patterns present three challenges to anyone who wants to identify them:
-(1) When looking at particular metaphors in the Bible, it is not always obvious what two ideas are paired with each other. For example, it may not be immediately obvious that the expression It is God who puts strength on me like a belt (Psalm 18:32 ULB) is based on the pairing of clothing with moral quality. In this case, the image of a belt represents strength. (See: "Clothing represents a moral quality" in Biblical Imagery - Man-made Objects)
-(2) When looking at a particular expression, the translator needs to know whether or not it represents something. This can only be done by considering the surrounding text. The surrounding text shows us for example, whether "lamp" refers concretely to a container with oil and a wick for giving light or whether "lamp" is an image that represents life. (See: "FIRE or LAMP represents life" in Biblical Imagery - Natural Phenomena).
-In 1 Kings 7:50, a lamp trimmer is a tool for trimming the wick on an ordinary lamp. In 2 Samuel 21:17 the lamp of Israel represents King David's life. When his men were concerned that he might "put out the lamp of Israel" they were concerned that he might be killed.
-The cups, lamp trimmers, basins, spoons, and incense burners were all made of pure gold. (1 Kings 7:50)
-Ishbibenob...intended to kill David. But Abishai the son of Zeruiah rescued David, attacked the Philistine, and killed him. Then the men of David swore to him, saying, "You must not go to battle anymore with us, so that you do not put out the lamp of Israel." (2 Samuel 21:16-17)
-(3) Expressions that are based on these pairings of ideas frequently combine together in complex ways. Moreover, they frequently combine with—and in some cases are based on—common metonymies and cultural models. (See: Biblical Imagery - Common Metonymies and Biblical Imagery - Cultural Models.) For example, in 2 Samuel 14:7 below, "the burning coal" is an image for the life of the son, who represents what will cause people to remember his father. So there are two patterns of pairings here: the pairing of the burning coal with the life of the son, and the pairing of the son with the memory of his father.
-They say, 'Hand over the man who struck his brother, so that we may put him to death, to pay for the life of his brother whom he killed.' And so they would also destroy the heir. Thus they will put out the burning coal that I have left, and they will leave for my husband neither name nor descendant on the surface of the earth. (2 Samuel 14:7 ULB)
+
+1. When looking at particular metaphors in the Bible, it is not always obvious what two ideas are paired with each other. For example, it may not be immediately obvious that the expression *It is God who puts strength on me like a belt* (Psalm 18:32 ULB) is based on the pairing of clothing with moral quality. In this case, the image of a belt represents strength. (See: "Clothing represents a moral quality" in `Biblical Imagery - Man-made Objects <https://dw.door43.org/en/ta/vol2/translate/bita_manmade>`_)
+
+2. When looking at a particular expression, the translator needs to know whether or not it represents something. This can only be done by considering the surrounding text. The surrounding text shows us for example, whether "lamp" refers concretely to a container with oil and a wick for giving light or whether "lamp" is an image that represents life. (See: "FIRE or LAMP represents life" in `Biblical Imagery - Natural Phenomena <https://dw.door43.org/en/ta/vol2/translate/bita_phenom>`_).
+
+  In 1 Kings 7:50, a lamp trimmer is a tool for trimming the wick on an ordinary lamp. In 2 Samuel 21:17 the lamp of Israel represents King David's life. When his men were concerned that he might "put out the lamp of Israel" they were concerned that he might be killed.
+
+  The cups, lamp trimmers, basins, spoons, and incense burners were all made of pure gold. (1 Kings 7:50)
+
+  Ishbibenob...intended to kill David. But Abishai the son of Zeruiah rescued David, attacked the Philistine, and killed him. Then the men of David swore to him, saying, "You must not go to battle anymore with us, so that you do not put out the lamp of Israel." (2 Samuel 21:16-17)
+  
+3). Expressions that are based on these pairings of ideas frequently combine together in complex ways. Moreover, they frequently combine with—and in some cases are based on—common metonymies and cultural models. (See: `Biblical Imagery - Common Metonymies <https://dw.door43.org/en/ta/vol2/translate/bita_part2>`_ and `Biblical Imagery - Cultural Models <https://dw.door43.org/en/ta/vol2/translate/bita_part3>`_.) 
+
+For example, in 2 Samuel 14:7 below, "the burning coal" is an image for the life of the son, who represents what will cause people to remember his father. So there are two patterns of pairings here: the pairing of the burning coal with the life of the son, and the pairing of the son with the memory of his father.
+
+  *They say, 'Hand over the man who struck his brother, so that we may put him to death, to pay for the life of his brother whom he killed.' And so they would also destroy the heir. Thus they will put out the burning coal that I have left, and they will leave for my husband neither name nor descendant on the surface of the earth. (2 Samuel 14:7 ULB)*
+  
 Links to Lists of Images in the Bible
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 The following pages have lists of some of the ideas that represent others in the Bible, together with examples from the Bible. They are organized according to the kinds of image:
-A. Biblical Imagery - Body Parts and Human Qualities
-B. Biblical Imagery - Human Behavior - Includes both physical and non-physical actions, condition and experiences.
-C. Biblical Imagery - Plants
-D. Biblical Imagery - Natural Phenomena
-E. Biblical Imagery - Man-made Objects
-F. Biblical Imagery - Animals
+
+A. `Biblical Imagery - Body Parts and Human Qualities <https://dw.door43.org/en/ta/vol2/translate/bita_humanqualities>`_
+
+B. `Biblical Imagery - Human Behavior <https://dw.door43.org/en/ta/vol2/translate/bita_humanbehavior>`_ - Includes both physical and non-physical actions, condition and experiences.
+
+C. `Biblical Imagery - Plants <https://dw.door43.org/en/ta/vol2/translate/bita_plants>`_
+
+D. `Biblical Imagery - Natural Phenomena <https://dw.door43.org/en/ta/vol2/translate/bita_phenom>`_
+
+E. `Biblical Imagery - Man-made Objects <https://dw.door43.org/en/ta/vol2/translate/bita_manmade?`_
+
+F. `Biblical Imagery - Animals <https://dw.door43.org/en/ta/vol2/translate/bita_animals>`_
+
 Biblical Imagery – Cultural Models
-Description
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Description**
+
 Cultural models are mental pictures of parts of life or behavior. These pictures help us imagine and talk about these topics. For example, Americans often think of marriage and friendship as if they were machines. Americans might say "His marriage is breaking down" or "Their friendship is going full speed ahead." In this example, human relationships are modeled as a MACHINE.
 Some cultural models, or mental pictures, found in the Bible are listed below. First there are models for God, then models for humans, things, and experiences. Each heading has the model written in capital letters. That word or phrase does not necessarily appear in every verse, but the idea does.
 God is modeled as a HUMAN BEING
