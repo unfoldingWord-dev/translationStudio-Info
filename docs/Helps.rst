@@ -493,9 +493,9 @@ Active or Passive
 
 Some languages have both active and passive sentences. In active sentences, the subject does the action. In passive sentences the subject is the one that the action is done to. Here are some examples with their subjects underlined:
 
-* ACTIVE: My_ father_ built the house in 2010.
+* ACTIVE: `_My father`_ built the house in 2010.
 
-* PASSIVE: The_ house_ was built in 2010.
+* PASSIVE: `_The house`_ was built in 2010.
 
 Translators whose languages do not have passive sentences will need to know how they can translate passive sentences that they find in the Bible. Other translators will need to decide when to use a passive sentence and when not to.
 
@@ -507,13 +507,13 @@ Some languages have both active and passive forms of sentences.
 
 * In the PASSIVE form, the action is done to the subject and the one who does the action is *not always* mentioned.
 
-In the examples of active and passive sentences below, we have put the subject in bold type.
+In the examples of active and passive sentences below, we have put the subject underlined.
 
-ACTIVE: _My father_ built the house in 2010.
+ACTIVE: `_My father`_ built the house in 2010.
 
-PASSIVE: _The house_ was built by my father in 2010. 
+PASSIVE: `_The house`_ was built by my father in 2010. 
 
-PASSIVE: _The house_ was built in 2010. (This does not tell who did the action.)
+PASSIVE: `_The house`_ was built in 2010. (This does not tell who did the action.)
 
 All languages have active forms. Some languages have passive forms, and some do not.  The passive form is not used for the same reasons in all of the languages that have it.
 
