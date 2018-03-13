@@ -459,111 +459,214 @@ Assumed Knowledge and Implicit Information
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Assumed knowledge is whatever a speaker assumes his audience knows before he speaks and gives them some kind of information. There are two types information.
-	Explicit information is what the speaker states directly.
-	Implicit information is what the speaker does not state directly because he expects his audience to be able to learn it from what he says.
-Description
-When someone speaks or writes, he has something specific that he wants people to know. He normally states this directly. This is explicit information.
-The speaker assumes that his audience already knows certain things that they will think about in order to understand this information. Normally he does not tell people these things, although what he says may remind them. This is called assumed knowledge.
-The speaker does not always directly state everything that he expects his audience to learn from what he says. Information that he expects people to learn from what he says even though he does not state it directly is implicit information.
-Examples from the Bible
-Then a scribe came to him and said, "Teacher, I will follow you wherever you go." Jesus said to him, "Foxes have holes, and the birds of the sky have nests, but the Son of Man has nowhere to lay his head." (Matthew 8:20 ULB)
-Jesus did not say what foxes and birds use holes and nests for, because he assumed that the scribe would have known that foxes sleep in holes in the ground and birds sleep in their nests. This is assumed knowledge. Jesus did not directly say here "I am the Son of Man" but, if the scribe did not already know it, then that fact would be implicit information that he could learn because Jesus referred to himself that way. Jesus did not state explicitly that he travelled a lot and did not have a house that he slept in every night. That is implicit information that the scribe could learn when Jesus said that he had nowhere to lay his head.
-Woe to you, Chorazin! Woe to you, Bethsaida! If the mighty deeds had been done in Tyre and Sidon which were done in you, they would have repented long ago in sackcloth and ashes. But it will be more tolerable for Tyre and Sidon at the day of judgment than for you. (Matthew 11:21, 22 ULB)
-Jesus assumed that the people he was speaking to knew that Tyre and Sidon were very wicked, and that the day of judgment is a time when God will judge every person. Jesus also knew that the people he was talking to believed that they were good and did not need to repent. Jesus did not need to tell them these things. This is all assumed knowledge.
-An important piece of implicit information here is that because the people he was speaking to did not repent, they would be judged more severely than the people of Tyre and Sidon would be judged.
-Why do your disciples violate the traditions of the elders? For they do not wash their hands when they eat. (Matthew 15:2 ULB)
-One of the traditions of the elders was a ceremony in which people would wash their hands in order to be ritually clean before eating. People thought that in order to be righteous, they had to follow all the traditions of the elders. This was assumed knowledge that the Pharisees who were speaking to Jesus expected him to know. They were accusing his disciples of not following the traditions. This is implicit information that they wanted him to understand from what they said.
+
+* **Explicit information** is what the speaker states directly.
+
+*	**Implicit information** is what the speaker does not state directly because he expects his audience to be able to learn it from what he says.
+
+**Description**
+
+When someone speaks or writes, he has something specific that he wants people to know. He normally states this directly. This is **explicit information.**
+
+The speaker assumes that his audience already knows certain things that they will think about in order to understand this information. Normally he does not tell people these things, although what he says may remind them. This is called **assumed knowledge**.
+
+The speaker does not always directly state everything that he expects his audience to learn from what he says. Information that he expects people to learn from what he says even though he does not state it directly is **implicit information**.
+
+**Examples from the Bible**
+
+*Then a scribe came to him and said, "Teacher, I will follow you wherever you go." Jesus said to him, "Foxes have holes, and the birds of the sky have nests, but the Son of Man has nowhere to lay his head." (Matthew 8:20 ULB)*
+
+Jesus did not say what foxes and birds use holes and nests for, because he assumed that the scribe would have known that foxes sleep in holes in the ground and birds sleep in their nests. This is **assumed knowledge**. Jesus did not directly say here "I am the Son of Man" but, if the scribe did not already know it, then that fact would be **implicit information** that he could learn because Jesus referred to himself that way. Jesus did not state explicitly that he travelled a lot and did not have a house that he slept in every night. That is **implicit information** that the scribe could learn when Jesus said that he had nowhere to lay his head.
+
+*Woe to you, Chorazin! Woe to you, Bethsaida! If the mighty deeds had been done in Tyre and Sidon which were done in you, they would have repented long ago in sackcloth and ashes. But it will be more tolerable for Tyre and Sidon at the day of judgment than for you. (Matthew 11:21, 22 ULB)*
+
+Jesus assumed that the people he was speaking to knew that Tyre and Sidon were very wicked, and that the day of judgment is a time when God will judge every person. Jesus also knew that the people he was talking to believed that they were good and did not need to repent. Jesus did not need to tell them these things. This is all **assumed knowledge**.
+
+An important piece of **implicit information** here is that because the people he was speaking to did not repent, they would be judged more severely than the people of Tyre and Sidon would be judged.
+
+*Why do your disciples violate the traditions of the elders? For they do not wash their hands when they eat. (Matthew 15:2 ULB)*
+
+One of the traditions of the elders was a ceremony in which people would wash their hands in order to be ritually clean before eating. People thought that in order to be righteous, they had to follow all the traditions of the elders. This was **assumed knowledge** that the Pharisees who were speaking to Jesus expected him to know. They were accusing his disciples of not following the traditions. This is **implicit information** that they wanted him to understand from what they said.
+
 Active or Passive
+^^^^^^^^^^^^^^^^^
+
 Some languages have both active and passive sentences. In active sentences, the subject does the action. In passive sentences the subject is the one that the action is done to. Here are some examples with their subjects underlined:
-	ACTIVE: My father built the house in 2010.
-	PASSIVE: The house was built in 2010.
+
+* ACTIVE: My_ father_ built the house in 2010.
+
+* PASSIVE: The_ house_ was built in 2010.
+
 Translators whose languages do not have passive sentences will need to know how they can translate passive sentences that they find in the Bible. Other translators will need to decide when to use a passive sentence and when not to.
-Description
+
+**Description**
+
 Some languages have both active and passive forms of sentences.
-	In the ACTIVE form, the subject does the action and is always mentioned.
-	In the PASSIVE form, the action is done to the subject and the one who does the action is not always mentioned.
-In the examples of active and passive sentences below, we have underlined the subject.
-ACTIVE: My father built the house in 2010.
-PASSIVE: The house was built by my father in 2010. 
-PASSIVE: The house was built in 2010. (This does not tell who did the action.)
+
+*	In the ACTIVE form, the subject does the action and is always mentioned.
+
+* In the PASSIVE form, the action is done to the subject and the one who does the action is *not always* mentioned.
+
+In the examples of active and passive sentences below, we have put the subject in bold type.
+
+ACTIVE: _My father_ built the house in 2010.
+
+PASSIVE: _The house_ was built by my father in 2010. 
+
+PASSIVE: _The house_ was built in 2010. (This does not tell who did the action.)
+
 All languages have active forms. Some languages have passive forms, and some do not.  The passive form is not used for the same reasons in all of the languages that have it.
+
 Purposes for the passive:
-	The speaker is talking about the person or thing the action was done to, not about the person who did the action.
-	The speaker does not want to tell who did the action. 
-	The speaker does not know who did the action.
-Translation Principles Regarding the Passive
-	Translators whose language does not use passive forms will need to find another way to express the idea. 
-	Translators whose language has passive forms will need to understand why the passive is used in a particular sentence in the Bible and decide whether or not to use a passive form for that purpose in his translation of the sentence.
-Examples from the Bible
-And their shooters shot at your soldiers from off the wall, and some of the king's servants were killed, and your servant Uriah the Hittite was killed too. (2 Samuel 11:24 ULB)
+
+* The speaker is talking about the person or thing the action was done to, not about the person who did the action.
+
+* The speaker does not want to tell who did the action. 
+
+*	The speaker does not know who did the action.
+
+**Translation Principles Regarding the Passive**
+
+*	Translators whose language does not use passive forms will need to find another way to express the idea. 
+
+*	Translators whose language has passive forms will need to understand why the passive is used in a particular sentence in the Bible and decide whether or not to use a passive form for that purpose in his translation of the sentence.
+
+**Examples from the Bible**
+
+*And their shooters shot at your soldiers from off the wall, and some of the king's servants were killed, and your servant Uriah the Hittite was killed too. (2 Samuel 11:24 ULB)*
+
 This means that the enemies shooters shot and killed some of the king's servants, including Uriah. The point is what happened to the king's servants and Uriah, not who shot them.
-In the morning when the men of the town got up, the altar of Baal was broken down … (Judges 6:28 ULB)
+
+*In the morning when the men of the town got up, the altar of Baal was broken down … (Judges 6:28 ULB)*
+
 The men of the town saw what had happened to the altar of Baal, but they did not know who broke it down.
-No stonework was seen there. (1 Kings 6:18 ULB)
+
+*No stonework was seen there. (1 Kings 6:18 ULB)*
+
 This means that no one saw stonework there. The point is that no stonework was done there.
-Translation Strategies
+
+**Translation Strategies**
+
 If you decide that it is better to translate without a passive form, here are some strategies you might consider.
+
 1.	Use the same verb in an active sentence and tell who or what did the action.
+
 2.	Use the same verb in an active sentence, and do not tell who or what did the action.
+
 3.	Use a different verb.
-Examples of Translation Strategies Applied
+
+**Examples of Translation Strategies Applied**
+
 1. Use the same verb in an active sentence and tell who did the action.
-	A loaf of bread was given him every day from the street of the bakers. (Jeremiah 37:21 ULB)
-	The king's servants gave Jeremiah a loaf of bread every day from the street of the bakers.
+
+  *A loaf of bread was given him every day from the street of the bakers. (Jeremiah 37:21 ULB)*
+   
+  The king's servants gave Jeremiah a loaf of bread every day from the street of the bakers.
+  
 2. Use the same verb in an active sentence, and do not tell who did the action. Instead use a generic expression like "they," or "people," or "someone." 
-	It would be better for him if a millstone were put around his neck and he were thrown into the sea (Luke 17:2 ULB)
-	It would be better for him if they were to put a millstone around his neck and throw him into the sea.
-	It would be better for him if someone were to put a heavy stone around his neck and throwhim into the sea.
+
+  *It would be better for him if a millstone were put around his neck and he were thrown into the sea (Luke 17:2 ULB)*
+
+  It would be better for him if they were to put a millstone around his neck and throw him into the sea.
+ 
+  It would be better for him if someone were to put a heavy stone around his neck and throwhim into the sea.
+  
 3. Use a different verb in an active sentence. 
-	A loaf of bread was given him every day from the street of the bakers. (Jeremiah 37:21 ULB)
-	He received a loaf of bread every day from the street of the bakers.
+   
+	 *A loaf of bread was given him every day from the street of the bakers. (Jeremiah 37:21 ULB)*
+  
+  He received a loaf of bread every day from the street of the bakers.
 
 Metonymy
+^^^^^^^^
+
 Many times the Bible uses metonymy. If you do not recognize it as a metonymy you will not understand the passage or worse yet, get the wrong understanding of the passage. 
-Description
+
+**Description**
+
 Metonymy is a figure of speech in which a thing or idea is called not by its own name, but by the name of something closely associated with it. A metonym is a word or phrase used as a substitute for something it is associated with.
-and the blood of Jesus his Son cleanses us from all sin. (1 John 1:7 ULB)
+
+*and the blood of Jesus his Son cleanses us from all sin. (1 John 1:7 ULB)*
+
 The blood represents Christ's death.
-He took the cup in the same way after supper, saying, "This cup is the new covenant in my blood, which is poured out for you. (Luke 22:20 ULB)
+
+*He took the cup in the same way after supper, saying, "This cup is the new covenant in my blood, which is poured out for you. (Luke 22:20 ULB)*
+
 The cup represents the wine that is in the cup.
+
 Metonymy can be used
-	as a shorter way of referring to something
-	to make an abstract idea more meaningful by referring to it with the name of a concrete object associated with it.
-Reason this is a translation issue
-	If a metonym is used, people need to be able to understand what it represents.
-Examples from the Bible
-The Lord God will give him the throne of his father, David. (Luke 1:32 ULB)
+
+*	as a shorter way of referring to something
+
+*	to make an abstract idea more meaningful by referring to it with the name of a concrete object associated with it.
+
+**Reason this is a translation issue**: If a metonym is used, people need to be able to understand what it represents.
+
+**Examples from the Bible**
+
+*The Lord God will give him the throne of his father, David. (Luke 1:32 ULB)*
+
 A throne represents the authority of a king. Throne is a metonym for "kingly authority," "kingship" or, "reign." This means that God would make him become the king who was to follow King David.
-Immediately his mouth was opened (Luke 1:64 ULB)
+
+*Immediately his mouth was opened (Luke 1:64 ULB)*
+
 The mouth here represents the power to speak. This means that he was able to talk again.
-who warned you to flee from the wrath that is coming? (Luke 3:7 ULB)
+
+*who warned you to flee from the wrath that is coming? (Luke 3:7 ULB)*
+
 The word "wrath" or "anger" is a metonym for "punishment." God was extremely angry with the people and, as a result, he would punish them.
-Translation Strategies
+
+**Translation Strategies**
+
 If people would easily understand the metonym, consider using it. Otherwise, here is an option.
+
 1.	Use the metonym along with the name of the thing it represents.
+
 2.	Use the name of the thing the metonym represents.
 
-Examples of Translation Strategies Applied
+**Examples of Translation Strategies Applied**
+
 1. Use the metonym along with the name of the thing it represents.
-	He took the cup in the same way after supper, saying, "This cup is the new covenant in my blood, which is poured out for you. (Luke 22:20 ULB)
-	"He took the cup in the same way after supper, saying, "The wine in this cup is the new covenant in my blood, which is poured out for you."
+
+  *He took the cup in the same way after supper, saying, "This cup is the new covenant in my blood, which is poured out for you. (Luke 22:20 ULB)*
+  
+    "He took the cup in the same way after supper, saying, "The wine in this cup is the new covenant in my blood, which is poured out for you."
+  
 2. Use the name of the thing the metonym represents.
-	The Lord God will give him the throne of his father, David. (Luke 1:32 ULB)
-	"The Lord God will give him the kingly authority of his father, David."
-	"The Lord God will make him king like his ancestor, King David."
-	who warned you to flee from the wrath to come? (Luke 3:7 ULB)
-	"who warned you to flee from God's coming punishment?"
+
+  *The Lord God will give him the throne of his father, David. (Luke 1:32 ULB)*
+  
+    "The Lord God will give him the kingly authority of his father, David."
+  
+    "The Lord God will make him king like his ancestor, King David."
+  
+  *who warned you to flee from the wrath to come? (Luke 3:7 ULB)*
+  
+    "who warned you to flee from God's coming punishment?"
+
 Metaphor
-Description
+^^^^^^^^
+
+**Description**
+
 A metaphor is the use of words to speak of one thing as if it were a different thing. Sometimes a speaker does this in ways that are very common in the language. At other times, a speaker does this in ways that are less common in the language and that might even be unique.
+
 1. First we will discuss very common metaphors.
-The metaphors that are very common in a language are usually not very vivid. They may even be "dead." Examples in English are "table leg," "family tree," and "the price of food is going up." Examples in biblical languages are "hand" to mean "power," "face" to mean "presence," and "clothing" to mean emotions or moral qualities.
-Metaphors like these are in constant use in the world's languages, because they serve as convenient ways to organize thought. In general, languages speak of abstract qualities, such as power, presence, emotions, and moral qualities, as if they were objects that can be seen or held, or as if they were body parts, or as if they were events that you can watch happen.
-When these metaphors are used in their normal ways, the speaker and audience do not normally even regard them as figurative language. This is why, for example, it would be wrong to translate the English expression, "The price of petrol is going up" into another language in a way that would draw undeserved attention to it, because English speakers do not view it as a vivid expression, that is, as an unusual expression that carries meaning in an unusual manner.
-For a description of important patterns of this kind of metaphor, please see Biblical Imagery - Common Patterns and the pages it will direct you to.
+
+  The metaphors that are very common in a language are usually not very vivid. They may even be "dead." Examples in English are "table leg," "family tree," and "the price of food is going up." Examples in biblical languages are "hand" to mean "power," "face" to mean "presence," and "clothing" to mean emotions or moral qualities.
+
+  Metaphors like these are in constant use in the world's languages, because they serve as convenient ways to organize thought. In general, languages speak of abstract qualities, such as power, presence, emotions, and moral qualities, as if they were objects that can be seen or held, or as if they were body parts, or as if they were events that you can watch happen.
+
+  When these metaphors are used in their normal ways, the speaker and audience do not normally even regard them as figurative language. This is why, for example, it would be wrong to translate the English expression, "The price of petrol is going up" into another language in a way that would draw undeserved attention to it, because English speakers do not view it as a vivid expression, that is, as an unusual expression that carries meaning in an unusual manner.
+
+  For a description of important patterns of this kind of metaphor, please see `Biblical Imagery - Common Patterns <https://dw.door43.org/en/ta/vol2/translate/bita_part1>`_ and the pages it will direct you to.
+
 2. Next we will discuss the less common metaphors, metaphors that are sometimes even unique in a language.
-The speaker usually produces metaphors of this kind in order to emphasize the importance of what he is talking about. For example,
-For you who fear my name, the sun of righteousness will rise with healing in its wings. (Malachi 4:2ULB)
+
+  The speaker usually produces metaphors of this kind in order to emphasize the importance of what he is talking about. For example:
+  
+  *For you who fear my name, the sun of righteousness will rise with healing in its wings. (`Malachi 4:2 ULB <https://dw.door43.org/en/bible/notes/mal/04/01>`_)*
+  
 Here God speaks about his salvation as if it were the sun rising to shine its rays on the people whom he loves. And he speaks of the sun's rays as if they were wings. Also, he speaks of these wings as if they were bringing medicine that would heal his people.
 We call this kind of metaphor "live." It is unique in the biblical languages, which means that it is very memorable.
 Parts of a Metaphor
