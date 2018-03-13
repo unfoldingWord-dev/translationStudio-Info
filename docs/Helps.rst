@@ -828,11 +828,11 @@ These patterns present three challenges to anyone who wants to identify them:
 
   Ishbibenob...intended to kill David. But Abishai the son of Zeruiah rescued David, attacked the Philistine, and killed him. Then the men of David swore to him, saying, "You must not go to battle anymore with us, so that you do not put out the lamp of Israel." (2 Samuel 21:16-17)
   
-3). Expressions that are based on these pairings of ideas frequently combine together in complex ways. Moreover, they frequently combine with—and in some cases are based on—common metonymies and cultural models. (See: `Biblical Imagery - Common Metonymies <https://dw.door43.org/en/ta/vol2/translate/bita_part2>`_ and `Biblical Imagery - Cultural Models <https://dw.door43.org/en/ta/vol2/translate/bita_part3>`_.) 
+3. Expressions that are based on these pairings of ideas frequently combine together in complex ways. Moreover, they frequently combine with—and in some cases are based on—common metonymies and cultural models. (See: `Biblical Imagery - Common Metonymies <https://dw.door43.org/en/ta/vol2/translate/bita_part2>`_ and `Biblical Imagery - Cultural Models <https://dw.door43.org/en/ta/vol2/translate/bita_part3>`_.) 
 
-For example, in 2 Samuel 14:7 below, "the burning coal" is an image for the life of the son, who represents what will cause people to remember his father. So there are two patterns of pairings here: the pairing of the burning coal with the life of the son, and the pairing of the son with the memory of his father.
+    For example, in 2 Samuel 14:7 below, "the burning coal" is an image for the life of the son, who represents what will cause people to remember his father. So there are two patterns of pairings here: the pairing of the burning coal with the life of the son, and the pairing of the son with the memory of his father.
 
-  *They say, 'Hand over the man who struck his brother, so that we may put him to death, to pay for the life of his brother whom he killed.' And so they would also destroy the heir. Thus they will put out the burning coal that I have left, and they will leave for my husband neither name nor descendant on the surface of the earth. (2 Samuel 14:7 ULB)*
+    *They say, 'Hand over the man who struck his brother, so that we may put him to death, to pay for the life of his brother whom he killed.' And so they would also destroy the heir. Thus they will put out the burning coal that I have left, and they will leave for my husband neither name nor descendant on the surface of the earth. (2 Samuel 14:7 ULB)*
   
 Links to Lists of Images in the Bible
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -857,28 +857,39 @@ Biblical Imagery – Cultural Models
 **Description**
 
 Cultural models are mental pictures of parts of life or behavior. These pictures help us imagine and talk about these topics. For example, Americans often think of marriage and friendship as if they were machines. Americans might say "His marriage is breaking down" or "Their friendship is going full speed ahead." In this example, human relationships are modeled as a MACHINE.
+
 Some cultural models, or mental pictures, found in the Bible are listed below. First there are models for God, then models for humans, things, and experiences. Each heading has the model written in capital letters. That word or phrase does not necessarily appear in every verse, but the idea does.
-God is modeled as a HUMAN BEING
+
+**God is modeled as a HUMAN BEING**
+
 Although the Bible explicitly denies that God is a human being, he is often spoken of as doing things that humans do. But God is not human, so when the Bible say that God speaks, we should not think that he has vocal chords that vibrate. And when it says something about him doing something with his hand, we should not think that he has a physical hand.
-If we hear the voice of Yahweh our God any longer, we will die. (Deuteronomy 5:25 ULB)
-I have been strengthened by the hand of Yahweh my God (Ezra 7:28 ULB)
-The hand of God also came on Judah, to give them one heart to carry out the command of the king and leaders by the word of Yahweh (2 Chronicles 30:12 ULB)
-The word "hand" here is a metonym that refers to God's power. (See: Metonymy)
-God is modeled as a KING
-For God is the King over all the earth; (Psalm 47:7 ULB)
-For the kingdom is Yahweh's;
-he is the ruler over the nations. (Psalm 22:28 ULB)
-Your throne, God, is forever and ever;
-a scepter of justice is the scepter of your kingdom. (Psalm 45:6 ULB)
-This is what Yahweh says,
-"Heaven is my throne, and the earth is my footstool. (Isaiah 66:1 ULB)
-God reigns over the nations;
-God sits on his holy throne.
-The princes of the peoples have gathered together
-to the people of the God of Abraham;
-for the shields of the earth belong to God;
-he is greatly exalted. (Psalm 47:8-9 ULB)
-God is modeled as a SHEPHERD and his people are models as SHEEP
+
+  *If we hear the voice of Yahweh our God any longer, we will die.* (Deuteronomy 5:25 ULB)
+  
+  *I have been strengthened by the hand of Yahweh my God* (Ezra 7:28 ULB)
+  
+  *The hand of God also came on Judah, to give them one heart to carry out the command of the king and leaders by the word of Yahweh*(2 Chronicles 30:12 ULB)
+  
+    The word "hand" here is a metonym that refers to God's power. (See: `Metonymy`_)
+    
+**God is modeled as a KING**
+
+  *For God is the King over all the earth;I (Psalm 47:7 ULB)
+  
+  *For the kingdom is Yahweh's; he is the ruler over the nations.& (Psalm 22:28 ULB)
+  
+  *Your throne, God, is forever and ever; a scepter of justice is the scepter of your kingdom.* (Psalm 45:6 ULB)
+  
+  *This is what Yahweh says, "Heaven is my throne, and the earth is my footstool.* (Isaiah 66:1 ULB)
+  
+  *God reigns over the nations;*
+  *God sits on his holy throne.*
+  *The princes of the peoples have gathered together*
+  *to the people of the God of Abraham;*
+  *for the shields of the earth belong to God;*
+  *he is greatly exalted.* (Psalm 47:8-9 ULB)
+  
+**God is modeled as a SHEPHERD and his people are models as SHEEP**
 Yahweh is my shepherd; I will lack nothing. (Psalm 23:1 ULB)
 His people are sheep.
 For he is our God, and we are the people of his pasture and the sheep of his hand. (Psalm 95:7 ULB)
