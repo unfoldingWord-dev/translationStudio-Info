@@ -186,11 +186,11 @@ The "AT:" indicates that this is an alternate translation. Some examples are:
 
   * The additional sentence shows what the speaker wanted the king to understand from his reminder that the king's decrees and statutes cannot be changed. Translators may need to state some things clearly in the translation that the original speaker or writer left unstated or implicit.
 
- *Passive to Active
+ * Passive to Active
 
   *to him who blasphemes against the Holy Spirit, it will not be forgiven. (Luke 12:10 ULB)*
 
-  * it will not be forgiven - This can be expressed with an active verb. AT: God will not forgive him. This can also be expressed in a positive way using a verb that means the opposite of "forgive." AT: "God will consider him guilty forever" (See: Active or Passive)
+  * it will not be forgiven - This can be expressed with an active verb. AT: God will not forgive him. This can also be expressed in a positive way using a verb that means the opposite of "forgive." AT: "God will consider him guilty forever" (See: `Active or Passive <https://dw.door43.org/en/ta/vol2/translate/figs_activepassive>`_)
 
   * Translators whose languages do not have passive sentences will need to know how they can translate passive sentences that they find in the Bible.
 
@@ -262,7 +262,7 @@ Sometimes Bible scholars do not know for sure, or do not agree on, what a partic
 
 *	It may not be clear what a word (such as a pronoun) refers to in a particular phrase.
 
-**Translation Notes Examples****
+**Translation Notes Examples**
 
 When many scholars say that a word or phrase means one thing, and many others say that it means other things, we show the most common
 meanings that they give. Our notes for these situations begin with "Possible meanings are" and then give a numbered list. We recommend that you use the first meaning given. However, if people in your community have access to another Bible that uses one of the other possible meanings, you may decide that it is better to use that meaning.
