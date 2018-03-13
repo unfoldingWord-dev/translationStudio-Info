@@ -63,9 +63,9 @@ Suggested Translations
 
 There are several types of suggested translations.
 
-* **`Notes with Synonyms and Equivalent Phrases`_** - There are times that the notes provide a translation suggestion that can replace the word or phrases in the ULB. These replacements can fit into the sentence without changing the meaning of the sentence. These are synonyms and equivalent phrases and are written in double-quotes. These mean the same as the text in the ULB.
+* `Notes with Synonyms and Equivalent Phrases`_ - There are times that the notes provide a translation suggestion that can replace the word or phrases in the ULB. These replacements can fit into the sentence without changing the meaning of the sentence. These are synonyms and equivalent phrases and are written in double-quotes. These mean the same as the text in the ULB.
 
-* **`Notes with Alternate Translations (AT)`_** - An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form. The alternate translation should only be used when the ULB form or content will not fit into the form of your language.
+* `Notes with Alternate Translations (AT)`_ - An alternate translation is a suggested change to the form or content of the ULB because the target language has a different form. The alternate translation should only be used when the ULB form or content will not fit into the form of your language.
 
 * **`Notes that Include a Quote from the UDB`_** - There may be no note if the UDB provides a good alternate translation for the ULB. However, on occasion there may be text from the UDB as well as a suggested translation. There will be "(UDB)" after the text from the UDB.
 
