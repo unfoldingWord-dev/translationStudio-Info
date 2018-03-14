@@ -131,7 +131,7 @@ For example:
 
     * **washing their nets** - They were cleaning their fishing nets in order to use them again to catch fish. 
 
-If you did not know that fishermen used nets to catch fish, you might wonder why the fishermen were cleaning their nets. This explanation can help you choose good words for "were washing" and "nets."
+      If you did not know that fishermen used nets to catch fish, you might wonder why the fishermen were cleaning their nets. This explanation can help you choose good words for "were washing" and "nets."
 
   *they motioned to their partners in the other boat (Luke 5:7 ULB)*
 
@@ -192,7 +192,7 @@ The "AT:" indicates that this is an alternate translation. Some examples are:
 
     * **it will not be forgiven** - This can be expressed with an active verb. AT: God will not forgive him. This can also be expressed in a positive way using a verb that means the opposite of "forgive." AT: "God will consider him guilty forever" (See: `Active or Passive <https://dw.door43.org/en/ta/vol2/translate/figs_activepassive>`_)
 
-  * Translators whose languages do not have passive sentences will need to know how they can translate passive sentences that they find in the Bible.
+      Translators whose languages do not have passive sentences will need to know how they can translate passive sentences that they find in the Bible.
 
 * Rhetorical Question
 
@@ -575,7 +575,7 @@ If you decide that it is better to translate without a passive form, here are so
    
   *A loaf of bread was given him every day from the street of the bakers. (Jeremiah 37:21 ULB)*
   
-  He received a loaf of bread every day from the street of the bakers.
+    He received a loaf of bread every day from the street of the bakers.
 
 Metonymy
 ^^^^^^^^
@@ -677,7 +677,7 @@ When talking about metaphors, it can be helpful to talk about their parts. The t
 
 In the metaphor below, the speaker describes the woman he loves as a rose. The woman (his "love") is the topic and the red rose is the image. Both are beautiful and delicate.
 
-  * My love is a red, red rose.
+  My love is a red, red rose.
   
 1. Sometimes the topic and the image are both stated clearly.
 
@@ -747,25 +747,25 @@ If people would understand the metaphor in the same way that the original reader
 
 1. If the metaphor is common and seems to be a normal way to say something in the biblical language, express the main idea in the simplest way preferred by your language.
 
-  * *For after David had in his own generation served the desires of God, he fell asleep, was laid with his fathers, and saw decay,* (`Acts 13:36 ULB <https://dw.door43.org/en/bible/notes/act/13/35>`_)
+  *For after David had in his own generation served the desires of God, he fell asleep, was laid with his fathers, and saw decay,* (`Acts 13:36 ULB <https://dw.door43.org/en/bible/notes/act/13/35>`_)
 
     * "For after David had in his own generation served the desires of God, he died, was laid with his fathers, and saw decay,"
     
 2. If the target audience would think that the phrase should be understood literally, change the metaphor to a simile. Some languages do this by adding "like" or "as."
 
-  * *And yet, Yahweh, you are our father; we are the clay. You are our potter; and we all are the work of your hand.* (`Isaiah 64:8 ULB <https://dw.door43.org/en/bible/notes/isa/64/08>`_)
+  *And yet, Yahweh, you are our father; we are the clay. You are our potter; and we all are the work of your hand.* (`Isaiah 64:8 ULB <https://dw.door43.org/en/bible/notes/isa/64/08>`_)
   
     * "And yet, Yahweh, you are our father; we are like clay. You are like a potter; and we all are the work of your hand."
     
 3. If the target audience would not know the image, see `Translate Unknowns`_ for ideas on how to translate that image.
 
-  * *Saul, Saul, why do you persecute me? It is hard for you to kick a goad.* (`Acts 26:14 ULB <https://dw.door43.org/en/bible/notes/act/26/12>`_)
+  *Saul, Saul, why do you persecute me? It is hard for you to kick a goad.* (`Acts 26:14 ULB <https://dw.door43.org/en/bible/notes/act/26/12>`_)
   
     * "Saul, Saul, why do you persecute me? It is hard for you to kick against a pointed stick."
     
 4. If the target audience would not use that image for that meaning, use an image from your own culture instead. Be sure that it is an image that could have been possible in Bible times.
 
-  * *And yet, Yahweh, you are our father; we are the clay. You are our potter; and we all are the work of your hand.* (`Isaiah 64:8 ULB <https://dw.door43.org/en/bible/notes/isa/64/08>`_)
+  *And yet, Yahweh, you are our father; we are the clay. You are our potter; and we all are the work of your hand.* (`Isaiah 64:8 ULB <https://dw.door43.org/en/bible/notes/isa/64/08>`_)
   
     * "And yet, Yahweh, you are our father; we are the wood. You are our carver; and we all are the work of your hand."
     
@@ -773,7 +773,7 @@ If people would understand the metaphor in the same way that the original reader
     
 5. Or, if the target audience would not use that image for that meaning, simply state the truth that the metaphor was used to communicate.
 
-  * *I will make you become fishers of men.* (`Mark 1:17 ULB <https://dw.door43.org/en/bible/notes/mrk/01/07>`_)
+  *I will make you become fishers of men.* (`Mark 1:17 ULB <https://dw.door43.org/en/bible/notes/mrk/01/07>`_)
   
       * "I will make you become people who gather men."
       
@@ -781,17 +781,17 @@ If people would understand the metaphor in the same way that the original reader
       
 6. If the target audience would not know what the topic is, then state the topic clearly. (However, do not do this if the original audience did not know what the topic was.)
 
-  * *Yahweh lives; may my rock be praised. May the God of my salvation be exalted.* (`Psalm 18:46 ULB <https://dw.door43.org/en/bible/notes/psa/018/046>`_)
+  *Yahweh lives; may my rock be praised. May the God of my salvation be exalted.* (`Psalm 18:46 ULB <https://dw.door43.org/en/bible/notes/psa/018/046>`_)
   
     * "Yahweh lives; He is my rock. May he be praised. May the God of my salvation be exalted.
     
 7. If the target audience would not know how the topic is like the image, state it clearly.
 
-  * *Yahweh lives; may my rock be praised. May the God of my salvation be exalted.* (`Psalm 18:46 ULB <https://dw.door43.org/en/bible/notes/psa/018/046>`_)
+  *Yahweh lives; may my rock be praised. May the God of my salvation be exalted.* (`Psalm 18:46 ULB <https://dw.door43.org/en/bible/notes/psa/018/046>`_)
       
       * "Yahweh lives; may he be praised because like a huge rock, he shields me from my enemies. May the God of my salvation be exalted."
       
-  * *Saul, Saul, why do you persecute me? It is hard for you to kick a goad.* (`Acts 26:14 ULB <https://dw.door43.org/en/bible/notes/act/26/12`_)
+  *Saul, Saul, why do you persecute me? It is hard for you to kick a goad.* (`Acts 26:14 ULB <https://dw.door43.org/en/bible/notes/act/26/12`_)
   
     * "Saul, Saul, why do you persecute me? You fight against me and hurt yourself like an ox that kicks against its owner's pointed stick."
     
