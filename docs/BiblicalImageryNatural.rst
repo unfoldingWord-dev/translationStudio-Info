@@ -6,8 +6,10 @@ This answers the question: What are some examples of things in nature that are u
 In order to understand this topic, it would be good to read:
 
 `Biblical Imagery - Common Patterns <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryCommon.rst>`_
-Metaphor
-Metonymy
+
+`Metaphor <http://ts-info.readthedocs.io/en/latest/Helps.html#id16>`_
+
+`Metonymy <http://ts-info.readthedocs.io/en/latest/Helps.html#id15>`_
 
 Some images from the Bible involving natural phenomena are listed below. The word in all capital letters represents an image. The word does not necessarily appear in every verse that has the image, but the idea that the word represents does.
 
