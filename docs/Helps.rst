@@ -92,13 +92,13 @@ Simple definitions of words or phrases are added without quotes or sentence form
 
   *It is like children playing in the marketplace, who sit and call to one another and say, 'We played a flute for you (Matthew 11:16-17 ULB)*
 
-   marketplace - a large, open-air area where people would come to sell their goods
+    marketplace - a large, open-air area where people would come to sell their goods
 
-   flute - a long, hollow musical instrument which is played by blowing air in or over one end
+    flute - a long, hollow musical instrument which is played by blowing air in or over one end
 
-*...people who dress in splendid clothing and live in luxury are in kings' palaces (Luke 7:25 ULB)*
+  *...people who dress in splendid clothing and live in luxury are in kings' palaces (Luke 7:25 ULB)*
 
-   kings' palaces - a large, expensive house that a king lives in
+    kings' palaces - a large, expensive house that a king lives in
 
 **Translation Principles**
 
