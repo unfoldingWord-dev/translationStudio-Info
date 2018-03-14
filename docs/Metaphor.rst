@@ -95,7 +95,7 @@ If people would understand the metaphor in the same way that the original reader
 
 6. *f the target audience would not know what the **topic** is, then state the topic clearly. (However, do not do this if the original audience did not know what the topic was.)
 
-7. If the target audience would not know how the topic is like the image, state it clearly.
+7. If the target audience would not know how the **topic** is like the **image**, state it clearly.
 
 **Examples of Translation Strategies Applied**
 
