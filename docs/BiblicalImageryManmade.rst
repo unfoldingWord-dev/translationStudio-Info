@@ -1,3 +1,5 @@
+.. _BiblicalImageryManmade
+
 Biblical Imagery - Man-made Objects
 ===================================
 
