@@ -43,15 +43,15 @@ Purposes for the passive:
 
 **Examples from the Bible**
 
-  *And their shooters shot at your soldiers from off the wall, and some of the king's servants were killed, and your servant Uriah the Hittite was killed too. (2 Samuel 11:24 ULB)*
+  *And their shooters shot at your soldiers from off the wall, and some of the king's servants were killed, and your servant Uriah the Hittite was killed too.* (2 Samuel 11:24 ULB)
 
     This means that the enemies shooters shot and killed some of the king's servants, including Uriah. The point is what happened to the king's servants and Uriah, not who shot them.
 
-  *In the morning when the men of the town got up, the altar of Baal was broken down … (Judges 6:28 ULB)*
+  *In the morning when the men of the town got up, the altar of Baal was broken down …* (Judges 6:28 ULB)
 
     The men of the town saw what had happened to the altar of Baal, but they did not know who broke it down.
 
-  *No stonework was seen there. (1 Kings 6:18 ULB)*
+  *No stonework was seen there.* (1 Kings 6:18 ULB)
 
     This means that no one saw stonework there. The point is that no stonework was done there.
 
@@ -69,13 +69,13 @@ If you decide that it is better to translate without a passive form, here are so
 
 1. Use the same verb in an active sentence and tell who did the action.
 
-  *A loaf of bread was given him every day from the street of the bakers. (Jeremiah 37:21 ULB)*
+  *A loaf of bread was given him every day from the street of the bakers.* (Jeremiah 37:21 ULB)
    
       The king's servants gave Jeremiah a loaf of bread every day from the street of the bakers.
   
 2. Use the same verb in an active sentence, and do not tell who did the action. Instead use a generic expression like "they," or "people," or "someone." 
 
-  *It would be better for him if a millstone were put around his neck and he were thrown into the sea (Luke 17:2 ULB)*
+  *It would be better for him if a millstone were put around his neck and he were thrown into the sea* (Luke 17:2 ULB)
 
       It would be better for him if they were to put a millstone around his neck and throw him into the sea.
  
@@ -83,7 +83,7 @@ If you decide that it is better to translate without a passive form, here are so
   
 3. Use a different verb in an active sentence. 
    
-  *A loaf of bread was given him every day from the street of the bakers. (Jeremiah 37:21 ULB)*
+  *A loaf of bread was given him every day from the street of the bakers.* (Jeremiah 37:21 ULB)
   
     He received a loaf of bread every day from the street of the bakers.
 
