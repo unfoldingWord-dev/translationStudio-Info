@@ -409,7 +409,7 @@ Here are ways you might translate a term that is not known in your language:
 
 5.	Use a word or phrase that is more specific in meaning.
 
-** Examples of Translation Strategies Applied**
+**Examples of Translation Strategies Applied**
 
 1. Use a phrase that describes the part of the meaning that is important in the particular verse being translated.
 
@@ -480,13 +480,13 @@ Jesus did not say what foxes and birds use holes and nests for, because he assum
 
 *Woe to you, Chorazin! Woe to you, Bethsaida! If the mighty deeds had been done in Tyre and Sidon which were done in you, they would have repented long ago in sackcloth and ashes. But it will be more tolerable for Tyre and Sidon at the day of judgment than for you. (Matthew 11:21, 22 ULB)*
 
-Jesus assumed that the people he was speaking to knew that Tyre and Sidon were very wicked, and that the day of judgment is a time when God will judge every person. Jesus also knew that the people he was talking to believed that they were good and did not need to repent. Jesus did not need to tell them these things. This is all **assumed knowledge**.
+  Jesus assumed that the people he was speaking to knew that Tyre and Sidon were very wicked, and that the day of judgment is a time when God will judge every person. Jesus also knew that the people he was talking to believed that they were good and did not need to repent. Jesus did not need to tell them these things. This is all **assumed knowledge**.
 
-An important piece of **implicit information** here is that because the people he was speaking to did not repent, they would be judged more severely than the people of Tyre and Sidon would be judged.
+  An important piece of **implicit information** here is that because the people he was speaking to did not repent, they would be judged more severely than the people of Tyre and Sidon would be judged.
 
 *Why do your disciples violate the traditions of the elders? For they do not wash their hands when they eat. (Matthew 15:2 ULB)*
 
-One of the traditions of the elders was a ceremony in which people would wash their hands in order to be ritually clean before eating. People thought that in order to be righteous, they had to follow all the traditions of the elders. This was **assumed knowledge** that the Pharisees who were speaking to Jesus expected him to know. They were accusing his disciples of not following the traditions. This is **implicit information** that they wanted him to understand from what they said.
+  One of the traditions of the elders was a ceremony in which people would wash their hands in order to be ritually clean before eating. People thought that in order to be righteous, they had to follow all the traditions of the elders. This was **assumed knowledge** that the Pharisees who were speaking to Jesus expected him to know. They were accusing his disciples of not following the traditions. This is **implicit information** that they wanted him to understand from what they said.
 
 Active or Passive
 ^^^^^^^^^^^^^^^^^
@@ -535,15 +535,15 @@ Purposes for the passive:
 
 *And their shooters shot at your soldiers from off the wall, and some of the king's servants were killed, and your servant Uriah the Hittite was killed too. (2 Samuel 11:24 ULB)*
 
-This means that the enemies shooters shot and killed some of the king's servants, including Uriah. The point is what happened to the king's servants and Uriah, not who shot them.
+  This means that the enemies shooters shot and killed some of the king's servants, including Uriah. The point is what happened to the king's servants and Uriah, not who shot them.
 
 *In the morning when the men of the town got up, the altar of Baal was broken down … (Judges 6:28 ULB)*
 
-The men of the town saw what had happened to the altar of Baal, but they did not know who broke it down.
+  The men of the town saw what had happened to the altar of Baal, but they did not know who broke it down.
 
 *No stonework was seen there. (1 Kings 6:18 ULB)*
 
-This means that no one saw stonework there. The point is that no stonework was done there.
+  This means that no one saw stonework there. The point is that no stonework was done there.
 
 **Translation Strategies**
 
@@ -559,23 +559,23 @@ If you decide that it is better to translate without a passive form, here are so
 
 1. Use the same verb in an active sentence and tell who did the action.
 
-  *A loaf of bread was given him every day from the street of the bakers. (Jeremiah 37:21 ULB)*
+    *A loaf of bread was given him every day from the street of the bakers. (Jeremiah 37:21 ULB)*
    
-  The king's servants gave Jeremiah a loaf of bread every day from the street of the bakers.
+    The king's servants gave Jeremiah a loaf of bread every day from the street of the bakers.
   
 2. Use the same verb in an active sentence, and do not tell who did the action. Instead use a generic expression like "they," or "people," or "someone." 
 
   *It would be better for him if a millstone were put around his neck and he were thrown into the sea (Luke 17:2 ULB)*
 
-  It would be better for him if they were to put a millstone around his neck and throw him into the sea.
+    It would be better for him if they were to put a millstone around his neck and throw him into the sea.
  
-  It would be better for him if someone were to put a heavy stone around his neck and throwhim into the sea.
+    It would be better for him if someone were to put a heavy stone around his neck and throwhim into the sea.
   
 3. Use a different verb in an active sentence. 
    
-	 *A loaf of bread was given him every day from the street of the bakers. (Jeremiah 37:21 ULB)*
+   *A loaf of bread was given him every day from the street of the bakers. (Jeremiah 37:21 ULB)*
   
-  He received a loaf of bread every day from the street of the bakers.
+      He received a loaf of bread every day from the street of the bakers.
 
 Metonymy
 ^^^^^^^^
@@ -588,11 +588,11 @@ Metonymy is a figure of speech in which a thing or idea is called not by its own
 
 *and the blood of Jesus his Son cleanses us from all sin. (1 John 1:7 ULB)*
 
-The blood represents Christ's death.
+  The blood represents Christ's death.
 
 *He took the cup in the same way after supper, saying, "This cup is the new covenant in my blood, which is poured out for you. (Luke 22:20 ULB)*
 
-The cup represents the wine that is in the cup.
+  The cup represents the wine that is in the cup.
 
 Metonymy can be used
 
@@ -606,23 +606,23 @@ Metonymy can be used
 
 *The Lord God will give him the throne of his father, David. (Luke 1:32 ULB)*
 
-A throne represents the authority of a king. Throne is a metonym for "kingly authority," "kingship" or, "reign." This means that God would make him become the king who was to follow King David.
+  A throne represents the authority of a king. Throne is a metonym for "kingly authority," "kingship" or, "reign." This means that God would make him become the king who was to follow King David.
 
 *Immediately his mouth was opened (Luke 1:64 ULB)*
 
-The mouth here represents the power to speak. This means that he was able to talk again.
+  The mouth here represents the power to speak. This means that he was able to talk again.
 
 *who warned you to flee from the wrath that is coming? (Luke 3:7 ULB)*
 
-The word "wrath" or "anger" is a metonym for "punishment." God was extremely angry with the people and, as a result, he would punish them.
+  The word "wrath" or "anger" is a metonym for "punishment." God was extremely angry with the people and, as a result, he would punish them.
 
 **Translation Strategies**
 
 If people would easily understand the metonym, consider using it. Otherwise, here is an option.
 
-1.	Use the metonym along with the name of the thing it represents.
+1. Use the metonym along with the name of the thing it represents.
 
-2.	Use the name of the thing the metonym represents.
+2. Use the name of the thing the metonym represents.
 
 **Examples of Translation Strategies Applied**
 
@@ -681,15 +681,15 @@ In the metaphor below, the speaker describes the woman he loves as a rose. The w
   
 1. Sometimes the topic and the image are both stated clearly.
 
-    Jesus said to them. "I am the bread of life. He who comes to me will not hunger, and he who believes on me will never thirst." (John 6:35 ULB)
+    *Jesus said to them. "I am the bread of life. He who comes to me will not hunger, and he who believes on me will never thirst."* (John 6:35 ULB)
 
-    Jesus called himself the bread of life. The topic is "I" and the image is "bread." Bread is a food that people ate all the time. Just as people need to eat food in order to have physical life, people need to trust in Jesus in order to have spiritual life.
+      Jesus called himself the bread of life. The topic is "I" and the image is "bread." Bread is a food that people ate all the time. Just as people need to eat food in order to have physical life, people need to trust in Jesus in order to have spiritual life.
 
 2. Sometimes only the image is stated clearly.
 
-    Produce fruits that are worthy of repentance (Luke 3:8 ULB)
+    *Produce fruits that are worthy of repentance                      8 (Luke 3:8 ULB)
 
-    The image here is "fruits". The topic is not stated, but it is actions or behavior. Trees can produce good fruit or bad fruit, and people can produce good behavior or bad behavior. Fruits that are worthy of repentance are good behavior that is appropriate for people who have repented.
+      The image here is "fruits". The topic is not stated, but it is actions or behavior. Trees can produce good fruit or bad fruit, and people can produce good behavior or bad behavior. Fruits that are worthy of repentance are good behavior that is appropriate for people who have repented.
 
 **Purposes of this second kind of metaphor**
 
@@ -719,11 +719,11 @@ In the metaphor below, the speaker describes the woman he loves as a rose. The w
 
 *And yet, Yahweh, you are our father; we are the clay. You are our potter; and we all are the work of your hand.* (Isaiah 64:8 ULB)
 
-The example above has two metaphors. The topics are "we" and "you" and the images are "clay and "potter." Just as a potter takes clay and forms a jar or dish out of it, God makes us into what he wants us to be.
+  The example above has two metaphors. The topics are "we" and "you" and the images are "clay and "potter." Just as a potter takes clay and forms a jar or dish out of it, God makes us into what he wants us to be.
 
 *Jesus said to them, "Take heed and beware of the yeast of the Pharisees and Sadducees." The disciples reasoned among themselves and said, "It is because we took no bread." (Matthew 16:6-7ULB)*
 
-Jesus used a metaphor, but his disciples did not realize it. When he said "yeast," they thought he was talking about bread, but "yeast" was the image in his metaphor about the teaching of the Pharisees and Sadducees. Since the disciples did not understand what Jesus meant, it would not be good to state clearly here what Jesus meant.
+  Jesus used a metaphor, but his disciples did not realize it. When he said "yeast," they thought he was talking about bread, but "yeast" was the image in his metaphor about the teaching of the Pharisees and Sadducees. Since the disciples did not understand what Jesus meant, it would not be good to state clearly here what Jesus meant.
 
 **Translation Strategies**
 
@@ -747,53 +747,53 @@ If people would understand the metaphor in the same way that the original reader
 
 1. If the metaphor is common and seems to be a normal way to say something in the biblical language, express the main idea in the simplest way preferred by your language.
 
-  * *For after David had in his own generation served the desires of God, he fell asleep, was laid with his fathers, and saw decay,* (`Acts 13:36 ULB <https://dw.door43.org/en/bible/notes/act/13/35>`_)
+  *For after David had in his own generation served the desires of God, he fell asleep, was laid with his fathers, and saw decay,* (`Acts 13:36 ULB <https://dw.door43.org/en/bible/notes/act/13/35>`_)
 
-    * "For after David had in his own generation served the desires of God, he died, was laid with his fathers, and saw decay,"
+    "For after David had in his own generation served the desires of God, he died, was laid with his fathers, and saw decay,"
     
 2. If the target audience would think that the phrase should be understood literally, change the metaphor to a simile. Some languages do this by adding "like" or "as."
 
-  * *And yet, Yahweh, you are our father; we are the clay. You are our potter; and we all are the work of your hand.* (`Isaiah 64:8 ULB <https://dw.door43.org/en/bible/notes/isa/64/08>`_)
+  *And yet, Yahweh, you are our father; we are the clay. You are our potter; and we all are the work of your hand.* (`Isaiah 64:8 ULB <https://dw.door43.org/en/bible/notes/isa/64/08>`_)
   
-    * "And yet, Yahweh, you are our father; we are like clay. You are like a potter; and we all are the work of your hand."
+    "And yet, Yahweh, you are our father; we are like clay. You are like a potter; and we all are the work of your hand."
     
 3. If the target audience would not know the image, see `Translate Unknowns`_ for ideas on how to translate that image.
 
-  * *Saul, Saul, why do you persecute me? It is hard for you to kick a goad.* (`Acts 26:14 ULB <https://dw.door43.org/en/bible/notes/act/26/12>`_)
+  *Saul, Saul, why do you persecute me? It is hard for you to kick a goad.* (`Acts 26:14 ULB <https://dw.door43.org/en/bible/notes/act/26/12>`_)
   
-    * "Saul, Saul, why do you persecute me? It is hard for you to kick against a pointed stick."
+    "Saul, Saul, why do you persecute me? It is hard for you to kick against a pointed stick."
     
 4. If the target audience would not use that image for that meaning, use an image from your own culture instead. Be sure that it is an image that could have been possible in Bible times.
 
-  * *And yet, Yahweh, you are our father; we are the clay. You are our potter; and we all are the work of your hand.* (`Isaiah 64:8 ULB <https://dw.door43.org/en/bible/notes/isa/64/08>`_)
+  *And yet, Yahweh, you are our father; we are the clay. You are our potter; and we all are the work of your hand.* (`Isaiah 64:8 ULB <https://dw.door43.org/en/bible/notes/isa/64/08>`_)
   
-    * "And yet, Yahweh, you are our father; we are the wood. You are our carver; and we all are the work of your hand."
+    "And yet, Yahweh, you are our father; we are the wood. You are our carver; and we all are the work of your hand."
     
-    * "And yet, Yahweh, you are our father; we are the string. You are the weaver; and we all are the work of your hand."
+    "And yet, Yahweh, you are our father; we are the string. You are the weaver; and we all are the work of your hand."
     
 5. Or, if the target audience would not use that image for that meaning, simply state the truth that the metaphor was used to communicate.
 
-  * *I will make you become fishers of men.* (`Mark 1:17 ULB <https://dw.door43.org/en/bible/notes/mrk/01/07>`_)
+  *I will make you become fishers of men.* (`Mark 1:17 ULB <https://dw.door43.org/en/bible/notes/mrk/01/07>`_)
   
-      * "I will make you become people who gather men."
+      "I will make you become people who gather men."
       
-      * "Now you gather fish. I will make you gather people."
+      "Now you gather fish. I will make you gather people."
       
 6. If the target audience would not know what the topic is, then state the topic clearly. (However, do not do this if the original audience did not know what the topic was.)
 
-  * *Yahweh lives; may my rock be praised. May the God of my salvation be exalted.* (`Psalm 18:46 ULB <https://dw.door43.org/en/bible/notes/psa/018/046>`_)
+  *Yahweh lives; may my rock be praised. May the God of my salvation be exalted.* (`Psalm 18:46 ULB <https://dw.door43.org/en/bible/notes/psa/018/046>`_)
   
-    * "Yahweh lives; He is my rock. May he be praised. May the God of my salvation be exalted.
+    "Yahweh lives; He is my rock. May he be praised. May the God of my salvation be exalted.
     
 7. If the target audience would not know how the topic is like the image, state it clearly.
 
-  * *Yahweh lives; may my rock be praised. May the God of my salvation be exalted.* (`Psalm 18:46 ULB <https://dw.door43.org/en/bible/notes/psa/018/046>`_)
+  *Yahweh lives; may my rock be praised. May the God of my salvation be exalted.* (`Psalm 18:46 ULB <https://dw.door43.org/en/bible/notes/psa/018/046>`_)
       
-      * "Yahweh lives; may he be praised because like a huge rock, he shields me from my enemies. May the God of my salvation be exalted."
+      "Yahweh lives; may he be praised because like a huge rock, he shields me from my enemies. May the God of my salvation be exalted."
       
-  * *Saul, Saul, why do you persecute me? It is hard for you to kick a goad.* (`Acts 26:14 ULB <https://dw.door43.org/en/bible/notes/act/26/12`_)
+  *Saul, Saul, why do you persecute me? It is hard for you to kick a goad.* (`Acts 26:14 ULB <https://dw.door43.org/en/bible/notes/act/26/12`_)
   
-    * "Saul, Saul, why do you persecute me? You fight against me and hurt yourself like an ox that kicks against its owner's pointed stick."
+    "Saul, Saul, why do you persecute me? You fight against me and hurt yourself like an ox that kicks against its owner's pointed stick."
     
 Biblical Imagery – Common Patterns
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -824,7 +824,7 @@ These patterns present three challenges to anyone who wants to identify them:
 
   In 1 Kings 7:50, a lamp trimmer is a tool for trimming the wick on an ordinary lamp. In 2 Samuel 21:17 the lamp of Israel represents King David's life. When his men were concerned that he might "put out the lamp of Israel" they were concerned that he might be killed.
 
-  The cups, lamp trimmers, basins, spoons, and incense burners were all made of pure gold. (1 Kings 7:50)
+  *The cups, lamp trimmers, basins, spoons, and incense burners were all made of pure gold.* (1 Kings 7:50)
 
   Ishbibenob...intended to kill David. But Abishai the son of Zeruiah rescued David, attacked the Philistine, and killed him. Then the men of David swore to him, saying, "You must not go to battle anymore with us, so that you do not put out the lamp of Israel." (2 Samuel 21:16-17)
   
@@ -832,7 +832,7 @@ These patterns present three challenges to anyone who wants to identify them:
 
     For example, in 2 Samuel 14:7 below, "the burning coal" is an image for the life of the son, who represents what will cause people to remember his father. So there are two patterns of pairings here: the pairing of the burning coal with the life of the son, and the pairing of the son with the memory of his father.
 
-    *They say, 'Hand over the man who struck his brother, so that we may put him to death, to pay for the life of his brother whom he killed.' And so they would also destroy the heir. Thus they will put out the burning coal that I have left, and they will leave for my husband neither name nor descendant on the surface of the earth. (2 Samuel 14:7 ULB)*
+      *They say, 'Hand over the man who struck his brother, so that we may put him to death, to pay for the life of his brother whom he killed.' And so they would also destroy the heir. Thus they will put out the burning coal that I have left, and they will leave for my husband neither name nor descendant on the surface of the earth. (2 Samuel 14:7 ULB)*
   
 Links to Lists of Images in the Bible
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
