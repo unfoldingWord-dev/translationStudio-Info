@@ -1,6 +1,4 @@
-.. _BiblicalImageryManmade:
-
-Biblical Imagery - Man-made Objects
+Biblical Imagery - Man-Made Objects
 ===================================
 
 This answers the question: What are some examples things people make that are used as images in the Bible?
