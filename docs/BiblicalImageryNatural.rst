@@ -39,7 +39,7 @@ Some images from the Bible involving natural phenomena are listed below. The wor
 
   *My God, my soul has melted within me.* (Psalm 42:6 ULB)
 
-  &For it is great, the anger of Yahweh that has been poured out on us.* (2 Chronicles 34:21 ULB)
+  *For it is great, the anger of Yahweh that has been poured out on us.* (2 Chronicles 34:21 ULB)
 
 **FIRE represents extreme feelings, particularly love or anger**
 
