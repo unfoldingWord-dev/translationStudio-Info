@@ -92,13 +92,13 @@ Simple definitions of words or phrases are added without quotes or sentence form
 
   *It is like children playing in the marketplace, who sit and call to one another and say, 'We played a flute for you (Matthew 11:16-17 ULB)*
 
-    marketplace - a large, open-air area where people would come to sell their goods
+    * **marketplace** - a large, open-air area where people would come to sell their goods
 
-    flute - a long, hollow musical instrument which is played by blowing air in or over one end
+    * **flute** - a long, hollow musical instrument which is played by blowing air in or over one end
 
   *...people who dress in splendid clothing and live in luxury are in kings' palaces (Luke 7:25 ULB)*
 
-    kings' palaces - a large, expensive house that a king lives in
+    * **kings' palaces** - a large, expensive house that a king lives in
 
 **Translation Principles**
 
@@ -154,15 +154,15 @@ Sometimes immediately after the bolded words and hyphen there is a phrase in dou
 
 **Translation Notes Examples**
 
-*Make ready the way of the Lord, (Luke 3:4 ULB)*
+  *Make ready the way of the Lord, (Luke 3:4 ULB)*
 
-* **the way** - "the path" or "the road"
+    * **the way** - "the path" or "the road"
 
 In this example, the words "the path" or the words "the road" can replace the words "the way" in the ULB. You can decide whether it is natural to say "way," "path," or "road" in your language.
 
-*whoever has food should do likewise." (Luke 3:10 ULB)*
+  *whoever has food should do likewise." (Luke 3:10 ULB)*
 
-* **do likewise** - "do the same thing"
+    * **do likewise** - "do the same thing"
 
 *In this example, the words "do the same thing" can replace the words "do likewise" in the ULB. You, as the translator, can decide what is natural for your language.
 
@@ -182,15 +182,15 @@ The "AT:" indicates that this is an alternate translation. Some examples are:
 
   *it is the law of the Medes and Persians, that no decree or statute that the king issues can be changed. (Daniel 6:15 ULB)*
 
-  * no decree...can be changed - An additional sentence may be added here to aid in understanding. AT: "no decree...can be changed. So they must throw Daniel into the pit of lions." (See: `Assumed Knowledge and Implicit Information`_)
+  * **no decree...can be changed** - An additional sentence may be added here to aid in understanding. AT: "no decree...can be changed. So they must throw Daniel into the pit of lions." (See: `Assumed Knowledge and Implicit Information`_)
 
-  * The additional sentence shows what the speaker wanted the king to understand from his reminder that the king's decrees and statutes cannot be changed. Translators may need to state some things clearly in the translation that the original speaker or writer left unstated or implicit.
+    The additional sentence shows what the speaker wanted the king to understand from his reminder that the king's decrees and statutes cannot be changed. Translators may need to state some things clearly in the translation that the original speaker or writer left unstated or implicit.
 
- * Passive to Active
+* Passive to Active
 
   *to him who blasphemes against the Holy Spirit, it will not be forgiven. (Luke 12:10 ULB)*
 
-  * it will not be forgiven - This can be expressed with an active verb. AT: God will not forgive him. This can also be expressed in a positive way using a verb that means the opposite of "forgive." AT: "God will consider him guilty forever" (See: `Active or Passive <https://dw.door43.org/en/ta/vol2/translate/figs_activepassive>`_)
+    * **it will not be forgiven** - This can be expressed with an active verb. AT: God will not forgive him. This can also be expressed in a positive way using a verb that means the opposite of "forgive." AT: "God will consider him guilty forever" (See: `Active or Passive <https://dw.door43.org/en/ta/vol2/translate/figs_activepassive>`_)
 
   * Translators whose languages do not have passive sentences will need to know how they can translate passive sentences that they find in the Bible.
 
@@ -198,7 +198,7 @@ The "AT:" indicates that this is an alternate translation. Some examples are:
 
   *Saul, Saul, why are you persecuting me? (Acts 9:4 ULB)**
 
-  * why are you persecuting me? - The Lord used this question to rebuke Saul. In some languages a statement would be more clear. AT: "You are persecuting me!" (See: `Rhetorical Question <https://dw.door43.org/en/ta/vol1/translate/figs_rquestion>`_)
+    * **why are you persecuting me?** - The Lord used this question to rebuke Saul. In some languages a statement would be more clear. AT: "You are persecuting me!" (See: `Rhetorical Question <https://dw.door43.org/en/ta/vol1/translate/figs_rquestion>`_)
 
 Notes That Include a Quote from the UDB
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -213,7 +213,7 @@ There may not be a note if the Unlocked Dynamic Bible provides a good alternate 
 
   *they urged him to stay a longer time with them (John 4:40 UDB)*
 
-    * implored him - "begged him" or "urged him" (UDB) 
+    * **implored him** - "begged him" or "urged him" (UDB) 
 
       Here the suggested translation for the words 'implored him' is 'begged him.' The words, 'urged him' from the UDB mean the same thing and are included as another suggestion.
 
@@ -221,7 +221,7 @@ There may not be a note if the Unlocked Dynamic Bible provides a good alternate 
 
   *When he saw Jesus, he bowed down to the ground (Luke 5:12 UDB)*
 
-    * he fell on his face - "he knelt and touched the ground with his face" or "he bowed down to the ground" (UDB)
+    * **he fell on his face** - "he knelt and touched the ground with his face" or "he bowed down to the ground" (UDB)
 
       Here the words from the UDB are provided as another translation suggestion.
 
@@ -239,13 +239,13 @@ The translator needs to decide which meaning to translate. Translators may choos
 
   *You are like a young lion among the nations, like a monster in the seas (Ezekiel 32:2 ULB)*
 
-    * like a monster in the seas - Possible meanings are that 1) he was powerful or 2) he was not doing anything important.
+    * **like a monster in the seas** - Possible meanings are that 1) he was powerful or 2) he was not doing anything important.
 
       This note has the ULB text followed by two meanings. The note starts with 'Possible meanings are,' and the meanings are numbered. The first meaning is most likely correct.
 
   *But Simon Peter, when he saw it, fell down at Jesus' knees (Luke 5:8 ULB)*
 
-    * fell down at Jesus' knees - Possible meanings are 1) "bowed down at Jesus' feet" or 2) "lay down on the ground at Jesus' feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
+    * **fell down at Jesus' knees** - Possible meanings are 1) "bowed down at Jesus' feet" or 2) "lay down on the ground at Jesus' feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
 
       This note explains what 'fell down at Jesus' knees" might mean. The first meaning is most likely correct, but the other meanings are also possible. If your language does not have a general word that could refer to any of these actions, you may need to use a word that shows specifically how Simon Peter did this.
 
@@ -269,7 +269,7 @@ meanings that they give. Our notes for these situations begin with "Possible mea
 
   *But Simon Peter, when he saw it, fell down at Jesus' knees, saying, "Depart from me, for I am a sinful man, Lord." (Luke 5:8 ULB)*
 
-    * fell down at Jesus' knees - Possible meanings are 1) "bowed down at Jesus feet" or 2) "lay down on the ground at Jesus feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
+    * **fell down at Jesus' knees** - Possible meanings are 1) "bowed down at Jesus feet" or 2) "lay down on the ground at Jesus feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
 
 **Translation Strategies**
 
@@ -294,13 +294,13 @@ In order to translate the meaning, you need to be able to recognize the figure o
 
   *Many will come in my name and say, 'I am he,' and they will lead many astray. (Mark 13:6 ULB)*
 
-    * Many will come in my name - The word "name" represents the authority of Jesus. AT: "Many will come, claiming my authority and permission." (See: `Metonymy <https://dw.door43.org/en/ta/vol2/translate/figs_metonymy>`_)
+    * **Many will come in my name** - The word "name" represents the authority of Jesus. AT: "Many will come, claiming my authority and permission." (See: `Metonymy <https://dw.door43.org/en/ta/vol2/translate/figs_metonymy>`_)
 
       The figure of speech in this note is metonymy. The note explains the metonymy in this passage and gives an alternate translation. After that, there is a link to the tA page about metonymy. Click on the link to learn about metonymy and general strategies for translating metonymys.
 
   *You offspring of poisonous snakes, who warned you to flee from the wrath that is coming? (Luke 3:7 ULB)*
 
-    * You offspring of poisonous snakes - This is a word picture. Poisonous snakes are dangerous and represent evil. AT: "You evil poisonous snakes!" or "You are evil like poisonous snakes." (See: `Metaphor <https://dw.door43.org/en/ta/vol1/translate/figs_metaphor>`_)
+    * **You offspring of poisonous snakes** - This is a word picture. Poisonous snakes are dangerous and represent evil. AT: "You evil poisonous snakes!" or "You are evil like poisonous snakes." (See: `Metaphor <https://dw.door43.org/en/ta/vol1/translate/figs_metaphor>`_)
 
       The figure of speech in this note is metaphor. The note explains the metaphor and gives two alternate translations. After that, there is a link to the tA page about metaphors. Click on the link to learn about metaphors and general strategies for translating them.
 
@@ -319,13 +319,13 @@ There is a likely to be a note about direct and indirect quotes when a quote has
 
   *He instructed him to tell no one (Luke 5:14 ULB)*
 
-    * to tell no one - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: `Direct and Indirect Quotations <https://dw.door43.org/en/ta/vol2/translate/figs_quotations>`_)
+    * **to tell no one** - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: `Direct and Indirect Quotations <https://dw.door43.org/en/ta/vol2/translate/figs_quotations>`_)
 
       Here the translation suggestion is to change the indirect quote to a direct quote.
 
   *At the time of the harvest I will say to the reapers, "First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn."'" (Matthew 13:30 ULB)*
 
-    * I will say to the reapers, "First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn" - You can translate this as an indirect quote: "I will tell the reapers to first gather up the weeds and tie them in bundles to burn them, then gather the wheat into my barn." (See: `Direct and Indirect Quotations <https://dw.door43.org/en/ta/vol2/translate/figs_quotations>`_)
+    * **I will say to the reapers,** "First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn" - You can translate this as an indirect quote: "I will tell the reapers to first gather up the weeds and tie them in bundles to burn them, then gather the wheat into my barn." (See: `Direct and Indirect Quotations <https://dw.door43.org/en/ta/vol2/translate/figs_quotations>`_)
 
       Here the translation suggestion is to change the direct quote to an indirect quote.
 
@@ -340,9 +340,9 @@ Sometimes there are notes for a phrase and separate notes for portions of that p
 
   *But it is to the extent of your hardness and unrepentant heart that you are storing up for yourself wrath in the day of wrath (Romans 2:5 ULB)*
 
-    * But it is to the extent of your hardness and unrepentant heart - Paul compares a person who refuses to listen and obey God to something hard, like a stone. The heart represents the whole person. AT: "It is because you refuse to listen and repent" (See:  `Metaphor <https://dw.door43.org/en/ta/vol1/translate/figs_metaphor>`_ and `Metonymy <https://dw.door43.org/en/ta/vol2/translate/figs_metonymy>`_)
+    * **But it is to the extent of your hardness and unrepentant heart** - Paul compares a person who refuses to listen and obey God to something hard, like a stone. The heart represents the whole person. AT: "It is because you refuse to listen and repent" (See:  `Metaphor <https://dw.door43.org/en/ta/vol1/translate/figs_metaphor>`_ and `Metonymy <https://dw.door43.org/en/ta/vol2/translate/figs_metonymy>`_)
 
-    * hardness and unrepentant heart - The phrase "unrepentant heart" explains the word "hardness" (See: `Doublet <https://dw.door43.org/en/ta/vol2/translate/figs_doublet>`_)
+    * **hardness and unrepentant heart** - The phrase "unrepentant heart" explains the word "hardness" (See: `Doublet <https://dw.door43.org/en/ta/vol2/translate/figs_doublet>`_)
 
       In this example the first note explains the the metaphor and metonymy, and the second explains the doublet in the same passage.
 
@@ -433,7 +433,7 @@ Here are ways you might translate a term that is not known in your language:
 
   *Then they tried to give Jesus wine that was mixed with myrrh. But he refused to drink it.* (`Mark 15:23 ULB <https://dw.door43.org/en/bible/notes/mrk/15/22>`_) - People may understand better what myrrh is if it is used with the general word "medicine."
 
-    *	"Then they tried to give Jesus wine that was mixed with a medicine called myrrh. But he refused to drink it."
+    * "Then they tried to give Jesus wine that was mixed with a medicine called myrrh. But he refused to drink it."
 
   *We have here only five loaves of bread and two fish* (`Matthew 14:17 ULB <https://dw.door43.org/en/bible/notes/mat/14/16>`_) - People may understand better what bread is if it is used with a phrase that tells what it is made of (seeds) and how it is prepared (crushed and baked).
 
@@ -474,19 +474,19 @@ The speaker does not always directly state everything that he expects his audien
 
 **Examples from the Bible**
 
-*Then a scribe came to him and said, "Teacher, I will follow you wherever you go." Jesus said to him, "Foxes have holes, and the birds of the sky have nests, but the Son of Man has nowhere to lay his head." (Matthew 8:20 ULB)*
+  *Then a scribe came to him and said, "Teacher, I will follow you wherever you go." Jesus said to him, "Foxes have holes, and the birds of the sky have nests, but the Son of Man has nowhere to lay his head." (Matthew 8:20 ULB)*
 
-Jesus did not say what foxes and birds use holes and nests for, because he assumed that the scribe would have known that foxes sleep in holes in the ground and birds sleep in their nests. This is **assumed knowledge**. Jesus did not directly say here "I am the Son of Man" but, if the scribe did not already know it, then that fact would be **implicit information** that he could learn because Jesus referred to himself that way. Jesus did not state explicitly that he travelled a lot and did not have a house that he slept in every night. That is **implicit information** that the scribe could learn when Jesus said that he had nowhere to lay his head.
+    Jesus did not say what foxes and birds use holes and nests for, because he assumed that the scribe would have known that foxes sleep in holes in the ground and birds sleep in their nests. This is **assumed knowledge**. Jesus did not directly say here "I am the Son of Man" but, if the scribe did not already know it, then that fact would be **implicit information** that he could learn because Jesus referred to himself that way. Jesus did not state explicitly that he travelled a lot and did not have a house that he slept in every night. That is **implicit information** that the scribe could learn when Jesus said that he had nowhere to lay his head.
 
-*Woe to you, Chorazin! Woe to you, Bethsaida! If the mighty deeds had been done in Tyre and Sidon which were done in you, they would have repented long ago in sackcloth and ashes. But it will be more tolerable for Tyre and Sidon at the day of judgment than for you. (Matthew 11:21, 22 ULB)*
+  *Woe to you, Chorazin! Woe to you, Bethsaida! If the mighty deeds had been done in Tyre and Sidon which were done in you, they would have repented long ago in sackcloth and ashes. But it will be more tolerable for Tyre and Sidon at the day of judgment than for you. (Matthew 11:21, 22 ULB)*
 
-Jesus assumed that the people he was speaking to knew that Tyre and Sidon were very wicked, and that the day of judgment is a time when God will judge every person. Jesus also knew that the people he was talking to believed that they were good and did not need to repent. Jesus did not need to tell them these things. This is all **assumed knowledge**.
+    Jesus assumed that the people he was speaking to knew that Tyre and Sidon were very wicked, and that the day of judgment is a time when God will judge every person. Jesus also knew that the people he was talking to believed that they were good and did not need to repent. Jesus did not need to tell them these things. This is all **assumed knowledge**.
 
-An important piece of **implicit information** here is that because the people he was speaking to did not repent, they would be judged more severely than the people of Tyre and Sidon would be judged.
+    An important piece of **implicit information** here is that because the people he was speaking to did not repent, they would be judged more severely than the people of Tyre and Sidon would be judged.
 
-*Why do your disciples violate the traditions of the elders? For they do not wash their hands when they eat. (Matthew 15:2 ULB)*
+  *Why do your disciples violate the traditions of the elders? For they do not wash their hands when they eat. (Matthew 15:2 ULB)*
 
-One of the traditions of the elders was a ceremony in which people would wash their hands in order to be ritually clean before eating. People thought that in order to be righteous, they had to follow all the traditions of the elders. This was **assumed knowledge** that the Pharisees who were speaking to Jesus expected him to know. They were accusing his disciples of not following the traditions. This is **implicit information** that they wanted him to understand from what they said.
+    One of the traditions of the elders was a ceremony in which people would wash their hands in order to be ritually clean before eating. People thought that in order to be righteous, they had to follow all the traditions of the elders. This was **assumed knowledge** that the Pharisees who were speaking to Jesus expected him to know. They were accusing his disciples of not following the traditions. This is **implicit information** that they wanted him to understand from what they said.
 
 Active or Passive
 ^^^^^^^^^^^^^^^^^
@@ -533,17 +533,17 @@ Purposes for the passive:
 
 **Examples from the Bible**
 
-*And their shooters shot at your soldiers from off the wall, and some of the king's servants were killed, and your servant Uriah the Hittite was killed too. (2 Samuel 11:24 ULB)*
+  *And their shooters shot at your soldiers from off the wall, and some of the king's servants were killed, and your servant Uriah the Hittite was killed too. (2 Samuel 11:24 ULB)*
 
-This means that the enemies shooters shot and killed some of the king's servants, including Uriah. The point is what happened to the king's servants and Uriah, not who shot them.
+    This means that the enemies shooters shot and killed some of the king's servants, including Uriah. The point is what happened to the king's servants and Uriah, not who shot them.
 
-*In the morning when the men of the town got up, the altar of Baal was broken down … (Judges 6:28 ULB)*
+  *In the morning when the men of the town got up, the altar of Baal was broken down … (Judges 6:28 ULB)*
 
-The men of the town saw what had happened to the altar of Baal, but they did not know who broke it down.
+    The men of the town saw what had happened to the altar of Baal, but they did not know who broke it down.
 
-*No stonework was seen there. (1 Kings 6:18 ULB)*
+  *No stonework was seen there. (1 Kings 6:18 ULB)*
 
-This means that no one saw stonework there. The point is that no stonework was done there.
+    This means that no one saw stonework there. The point is that no stonework was done there.
 
 **Translation Strategies**
 
@@ -561,19 +561,19 @@ If you decide that it is better to translate without a passive form, here are so
 
   *A loaf of bread was given him every day from the street of the bakers. (Jeremiah 37:21 ULB)*
    
-  The king's servants gave Jeremiah a loaf of bread every day from the street of the bakers.
+      The king's servants gave Jeremiah a loaf of bread every day from the street of the bakers.
   
 2. Use the same verb in an active sentence, and do not tell who did the action. Instead use a generic expression like "they," or "people," or "someone." 
 
   *It would be better for him if a millstone were put around his neck and he were thrown into the sea (Luke 17:2 ULB)*
 
-  It would be better for him if they were to put a millstone around his neck and throw him into the sea.
+      It would be better for him if they were to put a millstone around his neck and throw him into the sea.
  
-  It would be better for him if someone were to put a heavy stone around his neck and throwhim into the sea.
+      It would be better for him if someone were to put a heavy stone around his neck and throwhim into the sea.
   
 3. Use a different verb in an active sentence. 
    
-	 *A loaf of bread was given him every day from the street of the bakers. (Jeremiah 37:21 ULB)*
+  *A loaf of bread was given him every day from the street of the bakers. (Jeremiah 37:21 ULB)*
   
   He received a loaf of bread every day from the street of the bakers.
 
@@ -586,13 +586,13 @@ Many times the Bible uses metonymy. If you do not recognize it as a metonymy you
 
 Metonymy is a figure of speech in which a thing or idea is called not by its own name, but by the name of something closely associated with it. A metonym is a word or phrase used as a substitute for something it is associated with.
 
-*and the blood of Jesus his Son cleanses us from all sin. (1 John 1:7 ULB)*
+  *and the blood of Jesus his Son cleanses us from all sin. (1 John 1:7 ULB)*
 
-The blood represents Christ's death.
+    The blood represents Christ's death.
 
-*He took the cup in the same way after supper, saying, "This cup is the new covenant in my blood, which is poured out for you. (Luke 22:20 ULB)*
+  *He took the cup in the same way after supper, saying, "This cup is the new covenant in my blood, which is poured out for you. (Luke 22:20 ULB)*
 
-The cup represents the wine that is in the cup.
+    The cup represents the wine that is in the cup.
 
 Metonymy can be used
 
@@ -604,17 +604,17 @@ Metonymy can be used
 
 **Examples from the Bible**
 
-*The Lord God will give him the throne of his father, David. (Luke 1:32 ULB)*
+  *The Lord God will give him the throne of his father, David. (Luke 1:32 ULB)*
 
-A throne represents the authority of a king. Throne is a metonym for "kingly authority," "kingship" or, "reign." This means that God would make him become the king who was to follow King David.
+    A throne represents the authority of a king. Throne is a metonym for "kingly authority," "kingship" or, "reign." This means that God would make him become the king who was to follow King David.
 
-*Immediately his mouth was opened (Luke 1:64 ULB)*
+  *Immediately his mouth was opened (Luke 1:64 ULB)*
 
-The mouth here represents the power to speak. This means that he was able to talk again.
+    The mouth here represents the power to speak. This means that he was able to talk again.
 
-*who warned you to flee from the wrath that is coming? (Luke 3:7 ULB)*
+  *who warned you to flee from the wrath that is coming? (Luke 3:7 ULB)*
 
-The word "wrath" or "anger" is a metonym for "punishment." God was extremely angry with the people and, as a result, he would punish them.
+    The word "wrath" or "anger" is a metonym for "punishment." God was extremely angry with the people and, as a result, he would punish them.
 
 **Translation Strategies**
 
@@ -667,9 +667,9 @@ A metaphor is the use of words to speak of one thing as if it were a different t
   
     *For you who fear my name, the sun of righteousness will rise with healing in its wings.* (`Malachi 4:2 ULB <https://dw.door43.org/en/bible/notes/mal/04/01>`_)
   
-    Here God speaks about his salvation as if it were the sun rising to shine its rays on the people whom he loves. And he speaks of the sun's rays as if they were wings. Also, he speaks of these wings as if they were bringing medicine that would heal his people.
+        Here God speaks about his salvation as if it were the sun rising to shine its rays on the people whom he loves. And he speaks of the sun's rays as if they were wings. Also, he speaks of these wings as if they were bringing medicine that would heal his people.
 
-    We call this kind of metaphor "live." It is unique in the biblical languages, which means that it is very memorable.
+        We call this kind of metaphor "live." It is unique in the biblical languages, which means that it is very memorable.
 
 **Parts of a Metaphor**
 
@@ -681,15 +681,15 @@ In the metaphor below, the speaker describes the woman he loves as a rose. The w
   
 1. Sometimes the topic and the image are both stated clearly.
 
-    Jesus said to them. "I am the bread of life. He who comes to me will not hunger, and he who believes on me will never thirst." (John 6:35 ULB)
+    *Jesus said to them. "I am the bread of life. He who comes to me will not hunger, and he who believes on me will never thirst."* (John 6:35 ULB)
 
-    Jesus called himself the bread of life. The topic is "I" and the image is "bread." Bread is a food that people ate all the time. Just as people need to eat food in order to have physical life, people need to trust in Jesus in order to have spiritual life.
+      Jesus called himself the bread of life. The topic is "I" and the image is "bread." Bread is a food that people ate all the time. Just as people need to eat food in order to have physical life, people need to trust in Jesus in order to have spiritual life.
 
 2. Sometimes only the image is stated clearly.
 
-    Produce fruits that are worthy of repentance (Luke 3:8 ULB)
+    *Produce fruits that are worthy of repentance* (Luke 3:8 ULB)
 
-    The image here is "fruits". The topic is not stated, but it is actions or behavior. Trees can produce good fruit or bad fruit, and people can produce good behavior or bad behavior. Fruits that are worthy of repentance are good behavior that is appropriate for people who have repented.
+      The image here is "fruits". The topic is not stated, but it is actions or behavior. Trees can produce good fruit or bad fruit, and people can produce good behavior or bad behavior. Fruits that are worthy of repentance are good behavior that is appropriate for people who have repented.
 
 **Purposes of this second kind of metaphor**
 
@@ -717,13 +717,13 @@ In the metaphor below, the speaker describes the woman he loves as a rose. The w
 
 **Examples from the Bible**
 
-*And yet, Yahweh, you are our father; we are the clay. You are our potter; and we all are the work of your hand.* (Isaiah 64:8 ULB)
+  *And yet, Yahweh, you are our father; we are the clay. You are our potter; and we all are the work of your hand.* (Isaiah 64:8 ULB)
 
-The example above has two metaphors. The topics are "we" and "you" and the images are "clay and "potter." Just as a potter takes clay and forms a jar or dish out of it, God makes us into what he wants us to be.
+    The example above has two metaphors. The topics are "we" and "you" and the images are "clay and "potter." Just as a potter takes clay and forms a jar or dish out of it, God makes us into what he wants us to be.
 
-*Jesus said to them, "Take heed and beware of the yeast of the Pharisees and Sadducees." The disciples reasoned among themselves and said, "It is because we took no bread." (Matthew 16:6-7ULB)*
+  *Jesus said to them, "Take heed and beware of the yeast of the Pharisees and Sadducees." The disciples reasoned among themselves and said, "It is because we took no bread." (Matthew 16:6-7ULB)*
 
-Jesus used a metaphor, but his disciples did not realize it. When he said "yeast," they thought he was talking about bread, but "yeast" was the image in his metaphor about the teaching of the Pharisees and Sadducees. Since the disciples did not understand what Jesus meant, it would not be good to state clearly here what Jesus meant.
+    Jesus used a metaphor, but his disciples did not realize it. When he said "yeast," they thought he was talking about bread, but "yeast" was the image in his metaphor about the teaching of the Pharisees and Sadducees. Since the disciples did not understand what Jesus meant, it would not be good to state clearly here what Jesus meant.
 
 **Translation Strategies**
 
@@ -824,32 +824,32 @@ These patterns present three challenges to anyone who wants to identify them:
 
   In 1 Kings 7:50, a lamp trimmer is a tool for trimming the wick on an ordinary lamp. In 2 Samuel 21:17 the lamp of Israel represents King David's life. When his men were concerned that he might "put out the lamp of Israel" they were concerned that he might be killed.
 
-  The cups, lamp trimmers, basins, spoons, and incense burners were all made of pure gold. (1 Kings 7:50)
+    *The cups, lamp trimmers, basins, spoons, and incense burners were all made of pure gold.* (1 Kings 7:50)
 
-  Ishbibenob...intended to kill David. But Abishai the son of Zeruiah rescued David, attacked the Philistine, and killed him. Then the men of David swore to him, saying, "You must not go to battle anymore with us, so that you do not put out the lamp of Israel." (2 Samuel 21:16-17)
+    *Ishbibenob...intended to kill David. But Abishai the son of Zeruiah rescued David, attacked the Philistine, and killed him. Then the men of David swore to him, saying, "You must not go to battle anymore with us, so that you do not put out the lamp of Israel."* (2 Samuel 21:16-17)
   
 3. Expressions that are based on these pairings of ideas frequently combine together in complex ways. Moreover, they frequently combine with—and in some cases are based on—common metonymies and cultural models. (See: `Biblical Imagery - Common Metonymies <https://dw.door43.org/en/ta/vol2/translate/bita_part2>`_ and `Biblical Imagery - Cultural Models <https://dw.door43.org/en/ta/vol2/translate/bita_part3>`_.) 
 
     For example, in 2 Samuel 14:7 below, "the burning coal" is an image for the life of the son, who represents what will cause people to remember his father. So there are two patterns of pairings here: the pairing of the burning coal with the life of the son, and the pairing of the son with the memory of his father.
 
-    *They say, 'Hand over the man who struck his brother, so that we may put him to death, to pay for the life of his brother whom he killed.' And so they would also destroy the heir. Thus they will put out the burning coal that I have left, and they will leave for my husband neither name nor descendant on the surface of the earth. (2 Samuel 14:7 ULB)*
+      *They say, 'Hand over the man who struck his brother, so that we may put him to death, to pay for the life of his brother whom he killed.' And so they would also destroy the heir. Thus they will put out the burning coal that I have left, and they will leave for my husband neither name nor descendant on the surface of the earth.* (2 Samuel 14:7 ULB)
   
 Links to Lists of Images in the Bible
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The following pages have lists of some of the ideas that represent others in the Bible, together with examples from the Bible. They are organized according to the kinds of image:
 
-A. `Biblical Imagery - Body Parts and Human Qualities <https://dw.door43.org/en/ta/vol2/translate/bita_humanqualities>`_
+`Biblical Imagery - Body Parts and Human Qualities <https://dw.door43.org/en/ta/vol2/translate/bita_humanqualities>`_
 
-B. `Biblical Imagery - Human Behavior <https://dw.door43.org/en/ta/vol2/translate/bita_humanbehavior>`_ - Includes both physical and non-physical actions, condition and experiences.
+`Biblical Imagery - Human Behavior <https://dw.door43.org/en/ta/vol2/translate/bita_humanbehavior>`_ - Includes both physical and non-physical actions, condition and experiences.
 
-C. `Biblical Imagery - Plants <https://dw.door43.org/en/ta/vol2/translate/bita_plants>`_
+`Biblical Imagery - Plants <https://dw.door43.org/en/ta/vol2/translate/bita_plants>`_
 
-D. `Biblical Imagery - Natural Phenomena <https://dw.door43.org/en/ta/vol2/translate/bita_phenom>`_
+`Biblical Imagery - Natural Phenomena <https://dw.door43.org/en/ta/vol2/translate/bita_phenom>`_
 
-E. `Biblical Imagery - Man-made Objects <https://dw.door43.org/en/ta/vol2/translate/bita_manmade?`_
+`Biblical Imagery - Man-made Objects <https://dw.door43.org/en/ta/vol2/translate/bita_manmade?`_
 
-F. `Biblical Imagery - Animals <https://dw.door43.org/en/ta/vol2/translate/bita_animals>`_
+`Biblical Imagery - Animals <https://dw.door43.org/en/ta/vol2/translate/bita_animals>`_
 
 Biblical Imagery – Cultural Models
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
