@@ -62,16 +62,18 @@ To write the translation in your language:
 10.	Continue doing this with each chunk of the chapter before moving to the checking steps.
 Check and Edit Translated Text
 
-When you use translationStudio, you can create and change text. Use the Check view to edit existing work that you or another translator created. Your work is saved automatically every five minutes.
-To enter the Check view, tap the Check View icon   at the left or bottom of the page.
- 
+When you use translationStudio, you can create and change text. Your work is saved automatically every five minutes.
+
+Chack and Edit Translated Text
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Use the Check view to edit existing work that you or another translator created. 
+
+To enter the Check view, tap the Check View icon at the left or bottom of the page.
 
 In the Check view the source text is on the left and the translation work is on the right. You can compare the two and then edit the translation to include all details in the source text. 
 
 In the Check view you can access all of the translationNotes, translationWords and translationQuestions that have been included in the program. 
-
-Edit Text
-^^^^^^^^^
 
 If you need to make changes in the translated text, perform the following steps:
 
