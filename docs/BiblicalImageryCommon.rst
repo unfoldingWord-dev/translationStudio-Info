@@ -31,7 +31,7 @@ Reasons this is a translation issue
 
 These patterns present three challenges to anyone who wants to identify them:
 
-1. When looking at particular metaphors in the Bible, it is not always obvious what two ideas are paired with each other. For example, it may not be immediately obvious that the expression It is God who puts strength on me like a belt (Psalm 18:32 ULB) is based on the pairing of clothing with moral quality. In this case, the image of a belt represents strength. (See: "Clothing represents a moral quality" in Biblical Imagery - Man-made Objects)
+1. When looking at particular metaphors in the Bible, it is not always obvious what two ideas are paired with each other. For example, it may not be immediately obvious that the expression It is God who puts strength on me like a belt (Psalm 18:32 ULB) is based on the pairing of clothing with moral quality. In this case, the image of a belt represents strength. (See: "Clothing represents a moral quality" in `Biblical Imagery - Man-made Objects <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryManmade.rst>`_)
 
 2. When looking at a particular expression, the translator needs to know whether or not it represents something. This can only be done by considering the surrounding text. The surrounding text shows us for example, whether "lamp" refers concretely to a container with oil and a wick for giving light or whether "lamp" is an image that represents life. (See: "FIRE or LAMP represents life" in Biblical Imagery - Natural Phenomena).
 
