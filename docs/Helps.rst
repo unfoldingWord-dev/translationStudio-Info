@@ -1057,7 +1057,7 @@ The verses below are not about real physical boundaries but about difficulties o
 
 In Psalm 4 David asks God to rescue him.
 
-*Answer me when I call, God of my righteousness; give me room when I am hemmed in. Have mercy on me and listen to my prayer.* (Psalm 4:1 ULB)
+  *Answer me when I call, God of my righteousness; give me room when I am hemmed in. Have mercy on me and listen to my prayer.* (Psalm 4:1 ULB)
 
 **A distressing situation is modeled as a WILDERNESS**
 
