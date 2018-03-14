@@ -25,11 +25,12 @@ For Bible questions, see	https://unfoldingword.org/tq/
 translationNotes
 ----------------
 
-The translationNotes are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories and the Bible were written. They also inform the translator of translation options available to them. See Using the translationNotes for more information.
+The translationNotes are cultural, linguistic, and exegetical notes that help to describe and explain the context in which the stories from Open Bible Stories and the Bible were written. They also inform the translator of translation options available to them. See `Using the translationNotes`_ for more information.
 
 For Open Bible Story notes, see	https://door43.org/en/obs/notes.
 
 For Bible notes, see	https://unfoldingword.org/tn/.
+
 
 Using the translationNotes
 ---------------------------
