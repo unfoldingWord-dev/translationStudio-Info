@@ -209,21 +209,21 @@ There may not be a note if the Unlocked Dynamic Bible provides a good alternate 
 
 **Translation Notes Examples**
 
-*they implored him to stay with them (John 4:40 ULB)*
+  *they implored him to stay with them (John 4:40 ULB)*
 
-*they urged him to stay a longer time with them (John 4:40 UDB)*
+  *they urged him to stay a longer time with them (John 4:40 UDB)*
 
-*	implored him - "begged him" or "urged him" (UDB) 
+    * implored him - "begged him" or "urged him" (UDB) 
 
-Here the suggested translation for the words 'implored him' is 'begged him.' The words, 'urged him' from the UDB mean the same thing and are included as another suggestion.
+      Here the suggested translation for the words 'implored him' is 'begged him.' The words, 'urged him' from the UDB mean the same thing and are included as another suggestion.
 
-*When he saw Jesus, he fell on his face (Luke 5:12 ULB)*
+  *When he saw Jesus, he fell on his face (Luke 5:12 ULB)*
 
-*When he saw Jesus, he bowed down to the ground (Luke 5:12 UDB)*
+  *When he saw Jesus, he bowed down to the ground (Luke 5:12 UDB)*
 
-*	he fell on his face - "he knelt and touched the ground with his face" or "he bowed down to the ground" (UDB)
+    * he fell on his face - "he knelt and touched the ground with his face" or "he bowed down to the ground" (UDB)
 
-Here the words from the UDB are provided as another translation suggestion.
+      Here the words from the UDB are provided as another translation suggestion.
 
 Notes That Have Alternate Meanings
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -237,17 +237,17 @@ The translator needs to decide which meaning to translate. Translators may choos
 
 **Translation Notes Examples**
 
-*You are like a young lion among the nations, like a monster in the seas (Ezekiel 32:2 ULB)*
+  *You are like a young lion among the nations, like a monster in the seas (Ezekiel 32:2 ULB)*
 
-* like a monster in the seas - Possible meanings are that 1) he was powerful or 2) he was not doing anything important.
+    * like a monster in the seas - Possible meanings are that 1) he was powerful or 2) he was not doing anything important.
 
-This note has the ULB text followed by two meanings. The note starts with 'Possible meanings are,' and the meanings are numbered. The first meaning is most likely correct.
+      This note has the ULB text followed by two meanings. The note starts with 'Possible meanings are,' and the meanings are numbered. The first meaning is most likely correct.
 
-*But Simon Peter, when he saw it, fell down at Jesus' knees (Luke 5:8 ULB)*
+  *But Simon Peter, when he saw it, fell down at Jesus' knees (Luke 5:8 ULB)*
 
-* fell down at Jesus' knees - Possible meanings are 1) "bowed down at Jesus' feet" or 2) "lay down on the ground at Jesus' feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
+    * fell down at Jesus' knees - Possible meanings are 1) "bowed down at Jesus' feet" or 2) "lay down on the ground at Jesus' feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
 
-This note explains what 'fell down at Jesus' knees" might mean. The first meaning is most likely correct, but the other meanings are also possible. If your language does not have a general word that could refer to any of these actions, you may need to use a word that shows specifically how Simon Peter did this.
+      This note explains what 'fell down at Jesus' knees" might mean. The first meaning is most likely correct, but the other meanings are also possible. If your language does not have a general word that could refer to any of these actions, you may need to use a word that shows specifically how Simon Peter did this.
 
 Notes with Possible Meanings
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -256,24 +256,24 @@ Notes with Possible Meanings
 
 Sometimes Bible scholars do not know for sure, or do not agree on, what a particular phrase or sentence in the Bible means. Some reasons for this include:
 
-*	There are minor differences in the ancient Bible texts.
+* There are minor differences in the ancient Bible texts.
 
-*	A word may have more than one meaning or use.
+* A word may have more than one meaning or use.
 
-*	It may not be clear what a word (such as a pronoun) refers to in a particular phrase.
+* It may not be clear what a word (such as a pronoun) refers to in a particular phrase.
 
 **Translation Notes Examples**
 
 When many scholars say that a word or phrase means one thing, and many others say that it means other things, we show the most common
 meanings that they give. Our notes for these situations begin with "Possible meanings are" and then give a numbered list. We recommend that you use the first meaning given. However, if people in your community have access to another Bible that uses one of the other possible meanings, you may decide that it is better to use that meaning.
 
-*But Simon Peter, when he saw it, fell down at Jesus' knees, saying, "Depart from me, for I am a sinful man, Lord." (Luke 5:8 ULB)*
+  *But Simon Peter, when he saw it, fell down at Jesus' knees, saying, "Depart from me, for I am a sinful man, Lord." (Luke 5:8 ULB)*
 
-*	fell down at Jesus' knees - Possible meanings are 1) "bowed down at Jesus feet" or 2) "lay down on the ground at Jesus feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
+    * fell down at Jesus' knees - Possible meanings are 1) "bowed down at Jesus feet" or 2) "lay down on the ground at Jesus feet" or 3) "knelt down before Jesus." Peter did not fall accidentally. He did this as a sign of humility and respect for Jesus.
 
 **Translation Strategies**
 
-*	Translate it in such a way that the reader could understand either meaning as a possibility.
+* Translate it in such a way that the reader could understand either meaning as a possibility.
 
 * If it is not possible to do that in your language, then choose a meaning and translate it with that meaning.
 
@@ -292,17 +292,17 @@ In order to translate the meaning, you need to be able to recognize the figure o
 
 **Translation Notes Examples**
 
-*Many will come in my name and say, 'I am he,' and they will lead many astray. (Mark 13:6 ULB)*
+  *Many will come in my name and say, 'I am he,' and they will lead many astray. (Mark 13:6 ULB)*
 
-* Many will come in my name - The word "name" represents the authority of Jesus. AT: "Many will come, claiming my authority and permission." (See: `Metonymy <https://dw.door43.org/en/ta/vol2/translate/figs_metonymy>`_)
+    * Many will come in my name - The word "name" represents the authority of Jesus. AT: "Many will come, claiming my authority and permission." (See: `Metonymy <https://dw.door43.org/en/ta/vol2/translate/figs_metonymy>`_)
 
-The figure of speech in this note is metonymy. The note explains the metonymy in this passage and gives an alternate translation. After that, there is a link to the tA page about metonymy. Click on the link to learn about metonymy and general strategies for translating metonymys.
+      The figure of speech in this note is metonymy. The note explains the metonymy in this passage and gives an alternate translation. After that, there is a link to the tA page about metonymy. Click on the link to learn about metonymy and general strategies for translating metonymys.
 
-*You offspring of poisonous snakes, who warned you to flee from the wrath that is coming? (Luke 3:7 ULB)*
+  *You offspring of poisonous snakes, who warned you to flee from the wrath that is coming? (Luke 3:7 ULB)*
 
-* You offspring of poisonous snakes - This is a word picture. Poisonous snakes are dangerous and represent evil. AT: "You evil poisonous snakes!" or "You are evil like poisonous snakes." (See: `Metaphor <https://dw.door43.org/en/ta/vol1/translate/figs_metaphor>`_)
+    * You offspring of poisonous snakes - This is a word picture. Poisonous snakes are dangerous and represent evil. AT: "You evil poisonous snakes!" or "You are evil like poisonous snakes." (See: `Metaphor <https://dw.door43.org/en/ta/vol1/translate/figs_metaphor>`_)
 
-The figure of speech in this note is metaphor. The note explains the metaphor and gives two alternate translations. After that, there is a link to the tA page about metaphors. Click on the link to learn about metaphors and general strategies for translating them.
+      The figure of speech in this note is metaphor. The note explains the metaphor and gives two alternate translations. After that, there is a link to the tA page about metaphors. Click on the link to learn about metaphors and general strategies for translating them.
 
 Notes That Identify Indirect and Direct Quotes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -317,17 +317,17 @@ There is a likely to be a note about direct and indirect quotes when a quote has
 
 **Translation Notes Examples**
 
-*He instructed him to tell no one (Luke 5:14 ULB)*
+  *He instructed him to tell no one (Luke 5:14 ULB)*
 
-* to tell no one - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: `Direct and Indirect Quotations <https://dw.door43.org/en/ta/vol2/translate/figs_quotations>`_)
+    * to tell no one - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: `Direct and Indirect Quotations <https://dw.door43.org/en/ta/vol2/translate/figs_quotations>`_)
 
-Here the translation suggestion is to change the indirect quote to a direct quote.
+      Here the translation suggestion is to change the indirect quote to a direct quote.
 
-*At the time of the harvest I will say to the reapers, "First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn."'" (Matthew 13:30 ULB)*
+  *At the time of the harvest I will say to the reapers, "First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn."'" (Matthew 13:30 ULB)*
 
-* I will say to the reapers, "First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn" - You can translate this as an indirect quote: "I will tell the reapers to first gather up the weeds and tie them in bundles to burn them, then gather the wheat into my barn." (See: `Direct and Indirect Quotations <https://dw.door43.org/en/ta/vol2/translate/figs_quotations>`_)
+    * I will say to the reapers, "First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn" - You can translate this as an indirect quote: "I will tell the reapers to first gather up the weeds and tie them in bundles to burn them, then gather the wheat into my barn." (See: `Direct and Indirect Quotations <https://dw.door43.org/en/ta/vol2/translate/figs_quotations>`_)
 
-Here the translation suggestion is to change the direct quote to an indirect quote.
+      Here the translation suggestion is to change the direct quote to an indirect quote.
 
 Notes for Long ULB Phrases
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -338,13 +338,13 @@ Sometimes there are notes for a phrase and separate notes for portions of that p
 
 **Translation Notes Examples**
 
-*But it is to the extent of your hardness and unrepentant heart that you are storing up for yourself wrath in the day of wrath (Romans 2:5 ULB)*
+  *But it is to the extent of your hardness and unrepentant heart that you are storing up for yourself wrath in the day of wrath (Romans 2:5 ULB)*
 
-*	But it is to the extent of your hardness and unrepentant heart - Paul compares a person who refuses to listen and obey God to something hard, like a stone. The heart represents the whole person. AT: "It is because you refuse to listen and repent" (See:  `Metaphor <https://dw.door43.org/en/ta/vol1/translate/figs_metaphor>`_ and `Metonymy <https://dw.door43.org/en/ta/vol2/translate/figs_metonymy>`_)
+    * But it is to the extent of your hardness and unrepentant heart - Paul compares a person who refuses to listen and obey God to something hard, like a stone. The heart represents the whole person. AT: "It is because you refuse to listen and repent" (See:  `Metaphor <https://dw.door43.org/en/ta/vol1/translate/figs_metaphor>`_ and `Metonymy <https://dw.door43.org/en/ta/vol2/translate/figs_metonymy>`_)
 
-*	hardness and unrepentant heart - The phrase "unrepentant heart" explains the word "hardness" (See: `Doublet <https://dw.door43.org/en/ta/vol2/translate/figs_doublet>`_)
+    * hardness and unrepentant heart - The phrase "unrepentant heart" explains the word "hardness" (See: `Doublet <https://dw.door43.org/en/ta/vol2/translate/figs_doublet>`_)
 
-In this example the first note explains the the metaphor and metonymy, and the second explains the doublet in the same passage.
+      In this example the first note explains the the metaphor and metonymy, and the second explains the doublet in the same passage.
 
 Translate Unknowns
 ^^^^^^^^^^^^^^^^^^
@@ -355,45 +355,45 @@ How do I translate words like lion, fig tree, mountain, priest, or temple when p
 
 Unknowns are things that occur in the source text that are not known to the people of your culture. The translationWords pages and the translationNotes will help you understand what they are. After you understand them, you will need to find ways to refer to those things so that people who read your translation will understand what they are.
 
-*We have here only five loaves of bread and two fish (Matthew 14:17 ULB)*
+  *We have here only five loaves of bread and two fish (Matthew 14:17 ULB)*
 
-Bread is a particular food made by mixing finely crushed grains with oil, and then cooking the mixture so that it is dry. (Grains are the seeds of a kind of grass.) In some cultures people do not have bread or know what it is.
+      Bread is a particular food made by mixing finely crushed grains with oil, and then cooking the mixture so that it is dry. (Grains are the seeds of a kind of grass.) In some cultures people do not have bread or know what it is.
 
 **Reason this is a translation issue**
 
-*	Readers may not know some of the things that are in the Bible because those things are not part of their own culture.
+* Readers may not know some of the things that are in the Bible because those things are not part of their own culture.
 
-*	Readers may have difficulty understanding a text if they do not know some of the things that are mentioned in it.
+* Readers may have difficulty understanding a text if they do not know some of the things that are mentioned in it.
 
 **Translation Principles**
 
-*	Use words that are already part of your language if possible.
+* Use words that are already part of your language if possible.
 
-*	Keep expressions short if possible.
+* Keep expressions short if possible.
 
-*	Represent God's commands and historical facts accurately.
+* Represent God's commands and historical facts accurately.
 
 **Examples from the Bible**
 
-*I will turn Jerusalem into piles of ruins, a hideout for jackals* (`Jeremiah 9:11 ULB <https://dw.door43.org/en/bible/notes/jer/09/10>`_)
+  *I will turn Jerusalem into piles of ruins, a hideout for jackals* (`Jeremiah 9:11 ULB <https://dw.door43.org/en/bible/notes/jer/09/10>`_)
 
-Jackals are wild animals like dogs that live in only a few parts of the world, so they are not known in many places.
+    Jackals are wild animals like dogs that live in only a few parts of the world, so they are not known in many places.
 
-*Beware of false prophets, those who come to you in sheep's clothing, but are truly ravenous wolves.* (`Matthew 7:15 ULB <https://dw.door43.org/en/bible/notes/mat/07/15>`_)
+  *Beware of false prophets, those who come to you in sheep's clothing, but are truly ravenous wolves.* (`Matthew 7:15 ULB <https://dw.door43.org/en/bible/notes/mat/07/15>`_)
 
-If wolves do not live where the translation will be read, the readers may not understand that they are fierce, wild animals like dogs that attack and eat sheep.
+    If wolves do not live where the translation will be read, the readers may not understand that they are fierce, wild animals like dogs that attack and eat sheep.
 
-*Then they tried to give Jesus wine that was mixed with myrrh. But he refused to drink it.* (`Mark 15:23 ULB <https://dw.door43.org/en/bible/notes/mrk/15/22>`_)
+  *Then they tried to give Jesus wine that was mixed with myrrh. But he refused to drink it.* (`Mark 15:23 ULB <https://dw.door43.org/en/bible/notes/mrk/15/22>`_)
 
-People may not know what myrrh is and that it was used as a medicine.
+    People may not know what myrrh is and that it was used as a medicine.
 
-*to him who made great lights* (`Psalm 136:7 ULB <https://dw.door43.org/en/bible/notes/psa/136/006>`_)
+  *to him who made great lights* (`Psalm 136:7 ULB <https://dw.door43.org/en/bible/notes/psa/136/006>`_)
 
-Some languages have terms for things that give light, like the sun and fire, but they have no general term for lights.
+    Some languages have terms for things that give light, like the sun and fire, but they have no general term for lights.
 
-*your sins ... will be white like snow* (`Isaiah 1:18 ULB <https://dw.door43.org/en/bible/notes/isa/01/18>`_)
+  *your sins ... will be white like snow* (`Isaiah 1:18 ULB <https://dw.door43.org/en/bible/notes/isa/01/18>`_)
 
-People in many parts of the world have not seen snow, but they may have seen it in pictures.
+    People in many parts of the world have not seen snow, but they may have seen it in pictures.
 
 **Translation Strategies**
 
@@ -415,11 +415,11 @@ Here are ways you might translate a term that is not known in your language:
 
   *Beware of false prophets, those who come to you in sheep's clothing, but are truly ravenous wolves.* (`Matthew 7:15 ULB <https://dw.door43.org/en/bible/notes/mat/07/15>`_)
 
-    *	"Beware of false prophets, those who come to you in sheep's clothing, but are truly hungry and dangerous animals."
+    * "Beware of false prophets, those who come to you in sheep's clothing, but are truly hungry and dangerous animals."
 
   *We have here only five loaves of bread and two fish* (`Matthew 14:17 ULB <https://dw.door43.org/en/bible/notes/mat/14/16>`_)
 
-    *	"We have here only five loaves of baked grain seeds and two fish"
+    * "We have here only five loaves of baked grain seeds and two fish"
 
 2. Substitute something similar from your language if doing so does not falsely represent a historical fact.
 
