@@ -830,9 +830,9 @@ These patterns present three challenges to anyone who wants to identify them:
   
 3. Expressions that are based on these pairings of ideas frequently combine together in complex ways. Moreover, they frequently combine with—and in some cases are based on—common metonymies and cultural models. (See: `Biblical Imagery - Common Metonymies <https://dw.door43.org/en/ta/vol2/translate/bita_part2>`_ and `Biblical Imagery - Cultural Models <https://dw.door43.org/en/ta/vol2/translate/bita_part3>`_.) 
 
-    For example, in 2 Samuel 14:7 below, "the burning coal" is an image for the life of the son, who represents what will cause people to remember his father. So there are two patterns of pairings here: the pairing of the burning coal with the life of the son, and the pairing of the son with the memory of his father.
+  For example, in 2 Samuel 14:7 below, "the burning coal" is an image for the life of the son, who represents what will cause people to remember his father. So there are two patterns of pairings here: the pairing of the burning coal with the life of the son, and the pairing of the son with the memory of his father.
 
-      *They say, 'Hand over the man who struck his brother, so that we may put him to death, to pay for the life of his brother whom he killed.' And so they would also destroy the heir. Thus they will put out the burning coal that I have left, and they will leave for my husband neither name nor descendant on the surface of the earth.* (2 Samuel 14:7 ULB)
+    *They say, 'Hand over the man who struck his brother, so that we may put him to death, to pay for the life of his brother whom he killed.' And so they would also destroy the heir. Thus they will put out the burning coal that I have left, and they will leave for my husband neither name nor descendant on the surface of the earth.* (2 Samuel 14:7 ULB)
   
 Links to Lists of Images in the Bible
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -940,7 +940,8 @@ Variations of this model and the model of the EVIL EYE are found in many parts o
 **Envy and cursing are modeled as looking with an EVIL EYE at someone, and favor is modeled as looking with a GOOD EYE at someone**
 
 The primary emotion of a person with the evil eye is envy. The Greek word translated as "envy" in Mark 7 is "eye," which refers here to an evil eye.
-  *He said, "It is that which comes out of the person that defiles him. For from within a person, out of the heart, proceed evil thoughts…, envy …. (Mark 7:20-22 ULB)*
+
+*He said, "It is that which comes out of the person that defiles him. For from within a person, out of the heart, proceed evil thoughts…, envy …. (Mark 7:20-22 ULB)*
 
 The context for Matthew 20:15 includes the emotion of envy. "Is your eye evil?" means "Are you envious?"
 
@@ -1014,24 +1015,17 @@ In this model, the wind blows away things that are worthless, and they are gone.
 
 Psalm 1 and Job 27 show that wicked people are worthless and will not live long.
 
-  *The wicked are not so,
-but are instead like the chaff that the wind drives away.* (Psalm 1:4 ULB)
+  *The wicked are not so, but are instead like the chaff that the wind drives away.* (Psalm 1:4 ULB)
 
-  *The east wind carries him away, and he leaves;
-it sweeps him out of his place.* (Job 27:21 ULB)
+  *The east wind carries him away, and he leaves; it sweeps him out of his place.* (Job 27:21 ULB)
 
 The writer of Ecclesiastes says that everything is worthless.
 
-  *Like a vapor of mist,
-like a breeze in the wind,
-everything vanishes, leaving many questions.
-What profit does mankind gain from all the work that they labor at under the sun?* (Ecclesiastes 1:2-3 ULB)
+  *Like a vapor of mist, like a breeze in the wind, everything vanishes, leaving many questions. What profit does mankind gain from all the work that they labor at under the sun?* (Ecclesiastes 1:2-3 ULB)
 
 In Job 30:15, Job complains that his honor and prosperity are gone.
 
-  *Terrors are turned upon me;
-my honor is driven away as if by the wind;
-my prosperity passes away as a cloud.* (Job 30:15 ULB)
+  *Terrors are turned upon me; my honor is driven away as if by the wind; my prosperity passes away as a cloud.* (Job 30:15 ULB)
 
 **Human warfare is modeled as DIVINE WARFARE**
 
@@ -1072,4 +1066,5 @@ Leprosy is a disease. If a person had it, he was said to be unclean.
   *Behold, a leper came to him and bowed before him, saying, "Lord, if you are willing, you can make me clean." Jesus reached out his hand and touched him, saying, "I am willing. Be clean." Immediately he was cleansed of his leprosy.* (Matthew 8:2-3 ULB)
 
 An "unclean spirit" is an evil spirit.
+
   *When an unclean spirit has gone away from a man, it passes through waterless places and looks for rest, but does not find it.* (Matthew 12:43 ULB)
