@@ -1,3 +1,5 @@
+.. _Helps:
+
 Using the translationHelps (Resources)
 ======================================
 
