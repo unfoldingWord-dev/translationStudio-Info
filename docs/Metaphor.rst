@@ -93,7 +93,7 @@ If people would understand the metaphor in the same way that the original reader
 
 5. Or, if the target audience would not use that **image** for that meaning, simply state the truth that the metaphor was used to communicate.
 
-6. *f the target audience would not know what the **topic** is, then state the topic clearly. (However, do not do this if the original audience did not know what the topic was.)
+6. If the target audience would not know what the **topic** is, then state the topic clearly. (However, do not do this if the original audience did not know what the topic was.)
 
 7. If the target audience would not know how the **topic** is like the **image**, state it clearly.
 
