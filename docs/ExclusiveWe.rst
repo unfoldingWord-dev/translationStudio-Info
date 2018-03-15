@@ -15,7 +15,11 @@ See the pictures. The people on the right are the people that the speaker is tal
     :width: 305px
     :align: center
     :height: 245px
-    :alt: translationStudio for Android
+
+.. image:: ../images/we_us_exclusive.jpg
+    :width: 305px
+    :align: center
+    :height: 245px
 
 Reason this is a translation issue - The Bible was first written in the Hebrew, Aramaic, and Greek languages. Like English, these languages do not have separate exclusive and inclusive forms for "we". Translators whose language has separate exclusive and inclusive forms of "we" will need to understand what the speaker meant so they can decide which form of "we" to use.
 
