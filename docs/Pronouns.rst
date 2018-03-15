@@ -30,7 +30,7 @@ Person
 
 * Second Person - The person or people that the speaker is talking to and possibly others (you)
 
-  * Forms of You
+  * `Forms of You <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/FormsYou.rst>`_
 
 *Third Person - Someone or something other than the speaker and those he is talking to (he, she, it, they)
 
