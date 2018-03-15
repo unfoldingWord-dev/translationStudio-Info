@@ -147,4 +147,4 @@ Next we recommend you learn about:
 
 `Active or Passive <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ActiveOrPassive.rst>`_
 
-Predictive Past
+`Predictive Past <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/PredictivePast.rst>`_
