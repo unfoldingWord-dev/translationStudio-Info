@@ -32,24 +32,30 @@ Examples from the Bible
 
 1. Examples of words and phrases that are used to distinguish one item from other possible items: These usually do not cause a problem in translation.
 
-  *… The curtain is to separate **the holy place** from **the most holy place**.* (Exodus 26:33 ULB) 
+  *… The curtain is to separate* **the holy place** *from* **the most holy place**. (Exodus 26:33 ULB) 
 
     The words "holy" and "most holy" distinguish two different places from each other and from any other place.
 
-  *A foolish son is a grief to his father, and bitterness to the woman who bore him.* (Proverbs 17:25 ULB) 
+  *A foolish son is a grief to his father, and bitterness to* **the woman who bore him.** (Proverbs 17:25 ULB) 
 
     The phrase "who bore him" distinguishes which woman the son is bitterness to. He is not bitterness to all women, but to his mother.
 
 2. Examples of words and phrases that are used to give added information or a reminder about an item: These are a translation issue for languages that do not use these. (See: Phrases that Inform or Remind)
 
-for your righteous judgments are good. (Psalm 119:39 ULB)
-The word "righteous" simply reminds us that God's judgments are righteous. It does not distinguish his righteous judgement from his unrighteous judgement, because all of his judgments are righteous.
+  *for* **your righteous judgments** *are good*. (Psalm 119:39 ULB)
 
-Can Sarah, who is ninety years old, bear a son? - (Genesis 17:17-18 ULB) 
-The phrase "who is ninety years old" is the reason that Abraham did not think that Sarah could bear a son. He was not distinguishing one woman named Sarah from another woman named Sarah, and he was not telling anyone something new about her age. He simply did not think that a woman who was that old could bear a child.
+    The word "righteous" simply reminds us that God's judgments are righteous. It does not distinguish his righteous judgement from his unrighteous judgement, because all of his judgments are righteous.
+
+  *Can* **Sarah, who is ninety years old**, *bear a son?* - (Genesis 17:17-18 ULB) 
+
+    The phrase "who is ninety years old" is the reason that Abraham did not think that Sarah could bear a son. He was not distinguishing one woman named Sarah from another woman named Sarah, and he was not telling anyone something new about her age. He simply did not think that a woman who was that old could bear a child.
 
 Translation Strategies
+-----------------------
+
 If your language uses words or phrases with a noun only to distinguish one item from another, see Phrases that Inform or Remind for translation strategies.
 
 Examples of Translation Strategies Applied
+------------------------------------------
+
 See Phrases that Inform or Remind for how to translate phrases that inform or remind.
