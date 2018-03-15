@@ -1,7 +1,7 @@
 Forms of You
 ------------
 
-This answers the question: What are the different forms of you?
+This answers the question: What are the different forms of "you"?
 
 In order to understand this topic, it would be good to read:
 
