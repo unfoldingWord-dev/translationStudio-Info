@@ -114,7 +114,7 @@ Time and Tense
 
 When we tell about an event, we usually tell whether it is in the past, the present, or the future. Sometimes we do this with words like "yesterday," "now," or "tomorrow."
 
-In some languages the verb may be a little bit different depending on the time associated with it. This kind of marking on a verb is called "tense". English speakers sometimes put "ed" at the end of the verb when the event happened in the past.
+In some languages the verb may be a little bit different depending on the time associated with it. This kind of marking on a verb is called **tense**. English speakers sometimes put "ed" at the end of the verb when the event happened in the past.
 
   Sometimes Mary **cooks** meat.
   
