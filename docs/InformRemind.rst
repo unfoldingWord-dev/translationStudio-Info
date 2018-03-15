@@ -11,12 +11,6 @@ In order to understand this topic, it would be good to read:
 
 `Sentence Structure <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/SentenceStructure.rst>`_
 
-Some languages can use a word or phrase with a noun to give information about that noun or to remind people of something about it.
-
-  Mary gave some of the food to her sister, **who was very thankful**.
-  
-    The phrase "who was very thankful" immediately follows the word "sister" and informs us about how Mary's sister responded when Mary gave her the food. In this case it does not distinguish this sister from another sister that Mary might have. It simply gives added information about that sister.
-
 Description
 -----------
 
@@ -24,7 +18,7 @@ Some languages can use a word or phrase with a noun to give information about th
 
   Mary gave some of the food to her sister, **who was very thankful**.
     
-    The phrase "who was very thankful" immediately follows the word "sister" and informs us about how Mary's sister responded when Mary gave her the food. In this case it does not distinguish this sister from another sister that Mary might have.
+    The phrase "who was very thankful" immediately follows the word "sister" and informs us about how Mary's sister responded when Mary gave her the food. In this case it does not distinguish this sister from another sister that Mary might have. It simply gives added information about that sister.
 
 Reason people use these phrases:
 --------------------------------
