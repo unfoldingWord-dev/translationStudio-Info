@@ -42,19 +42,19 @@ Translation Principles
 Examples from the Bible
 -----------------------
 
-  *The name of the third river is Tigris, which flows east of Asshur.* (Genesis 2:14 ULB)
+  *The name of the third river is Tigris,* **which flows east of Asshur.** (Genesis 2:14 ULB)
 
     There is only one Tigris River. The phrase "which flows east of Asshur" gives more information about where the Tigris River was. This would have been helpful to the original audience, because they knew were Asshur was.
 
-  *I will wipe away mankind whom I have created from the surface of the earth.* (Genesis 6:7 ULB)
+  *I will wipe away mankind* **whom I have created** *from the surface of the earth.* (Genesis 6:7 ULB)
   
     The phrase "whom I have created" is a reminder of the relationship between God and mankind. It is the reason God had the right to wipe away mankind.
 
-  *I will bring an end to the worthless idols of Memphis.* (Ezekiel 30:13 ULB) 
+  *I will bring an end to the* **worthless** *idols of Memphis.* (Ezekiel 30:13 ULB) 
   
     All idols are worthless. This is why God said he would destroy them.
 
-  *for your righteous judgments are good.* (Psalm 119:39 ULB)
+  *for your* **righteous** *judgments are good.* (Psalm 119:39 ULB)
   
     All of God's judgments are righteous. This is why the person who wrote this psalm said that they are good.
 
