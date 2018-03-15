@@ -82,15 +82,18 @@ Sentences can also have clauses and other phrases. Clauses are like sentences be
 
 Clauses are usually only part of a sentence. The clauses in the sentences below are in bold type.
 
-**When the corn was ready**, she picked it.
+  **When the corn was ready**, she picked it.
 
-**After she picked it**, she carried it home and cooked it.
+  **After she picked it**, she carried it home and cooked it.
 
-Then she and her husband ate it all, **because it tasted so good**.
+  Then she and her husband ate it all, **because it tasted so good**.
 
 The following phrases can be a whole sentence.
+  
   She picked it.
+  
   She carried it home and cooked it.
+  
   Then she and her husband ate it all.
 
 **Note:** We are using the word clause for 'dependent clause' and sentence for 'independent clause.'
