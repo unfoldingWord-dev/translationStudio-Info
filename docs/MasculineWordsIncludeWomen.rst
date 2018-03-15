@@ -43,40 +43,40 @@ Examples from the Bible
 
     Jesus was not talking about only men. What he said was true of both men and women.
 
-.. warning:: Sometimes masculine words are used specifically to refer to men. Do not use words that would lead people to think that they include women. The underlined words below are specifically about men.
+**Caution**: Sometimes masculine words are used specifically to refer to men. Do not use words that would lead people to think that they include women. The underlined words below are specifically about men.
 
-Caution: Sometimes masculine words are used specifically to refer to men. Do not use words that would lead people to think that they include women. The underlined words below are specifically about men.
-
-Moses said, 'If a man dies, having no children, his brother must marry his wife and have a child for his brother.' (Matthew 22:24 ULB)
+  *Moses said, 'If a man dies, having no children, his brother must marry his wife and have a child for his brother.'* (Matthew 22:24 ULB)
 
 Translation Strategies
+----------------------
 
 If people would understand that that masculine words like "man," "brother," and "he" can include women, then consider using them. Otherwise, here are some ways for translating those words when they include women.
 
-Use a noun that can be used for both men and women.
-
-Use a word that refers to men and a word that refers to women.
-
-Use pronouns that can be used for both men and women.
-
-Examples of Translation Strategies Applied
-
-1. Use nouns that can be used for both men and women.
-
-The wise man dies just like the fool dies. (Ecclesiastes 2:16 ULB)
-
-"The wise person dies just like the fool dies."
-
-"Wise people die just like fools die."
+1. Use a noun that can be used for both men and women.
 
 2. Use a word that refers to men and a word that refers to women.
 
-For we do not want you to be ignorant, brothers, about the troubles we had in Asia (2 Corinthians 1:8) - Paul was writing this letter to both men and women.
+3. Use pronouns that can be used for both men and women.
 
-"For we do not want you to be ignorant, brothers and sisters, about the troubles we had in Asia" (2 Corinthians 1:8)
+Examples of Translation Strategies Applied
+---------------------------------------------
+
+1. Use nouns that can be used for both men and women.
+
+  *The wise man dies just like the fool dies.* (Ecclesiastes 2:16 ULB)
+
+    "The wise person dies just like the fool dies."
+
+    "Wise people die just like fools die."
+
+2. Use a word that refers to men and a word that refers to women.
+
+  *For we do not want you to be ignorant, brothers, about the troubles we had in Asia* (2 Corinthians 1:8) - Paul was writing this letter to both men and women.
+
+  "For we do not want you to be ignorant, brothers and sisters, about the troubles we had in Asia" (2 Corinthians 1:8)
 
 3. Use pronouns that can be used for both men and women.
 
-If anyone wants to follow me, he must deny himself, take up his cross, and follow me." (Matthew 16:24 ULB) - English speakers can change the singular pronouns "he" "himself" and "his" to plural pronouns "they" "themselves" and "their" in order to show that it applies to all people, not just men.
+  *If anyone wants to follow me, he must deny himself, take up his cross, and follow me."* (Matthew 16:24 ULB) - English speakers can change the singular pronouns "he" "himself" and "his" to plural pronouns "they" "themselves" and "their" in order to show that it applies to all people, not just men.
 
-"If people want to follow me, they must deny themselves, take up their cross, and follow me."
+  "If people want to follow me, they must deny themselves, take up their cross, and follow me."
