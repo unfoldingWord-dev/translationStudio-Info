@@ -46,4 +46,4 @@ Watch the video for computer (see http://youtu.be/PrMC2jdqY0A ) or tablet/phone 
 
 Next we recommend you learn about:
 
-`Exclusive "We" <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ExclusiveWe.rstd>d`_
+`Exclusive "We" <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ExclusiveWe.rstd>`__
