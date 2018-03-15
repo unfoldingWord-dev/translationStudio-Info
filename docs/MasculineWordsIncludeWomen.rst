@@ -7,7 +7,7 @@ In order to understand this topic, it would be good to read:
 
 `Pronouns <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Pronouns.rst>`_
 
-Generic Noun Phrases
+`Generic Noun Phrases <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/GenericNounPhrases.rst>`_
 
 In some parts of the Bible, the words "men," "brothers" and "sons" refer only to men. In other parts of the Bible, those words include both men and women. When the writer meant both men and women, translators need to translate it in a way that does not limit the meaning to men.
 
