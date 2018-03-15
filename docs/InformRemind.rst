@@ -5,7 +5,7 @@ This answers the question: When phrases are used with nouns, what are phrases th
 
 In order to understand this topic, it would be good to read:
 
-`Distinguishing versus Informing or Reminding<https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Distinguishing.rst>`_
+`Distinguishing versus Informing or Reminding <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Distinguishing.rst>`_
 
 `Parts of Speech <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/PartsOfSpeech.rst>`_
 
