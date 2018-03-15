@@ -44,4 +44,4 @@ Examples from the Bible
 
 Next we recommend you learn about:
 
-Inclusive "We"
+`Inclusive "We" <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/InclusiveWe.rst>`_
