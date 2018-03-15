@@ -9,7 +9,7 @@ In order to understand this topic, it would be good to read:
 
 `Forms of 'You' - Singular <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/FormsYouSingular.rst>`_
 
-Pronouns
+`Pronouns <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Pronouns.rst>`_
 
 The Bible was written in Hebrew, Aramaic and Greek. These languages have a singular form of "you" for when the word "you" refers to just one person, and a plural form for when the word "you" refers to more than one person. However sometimes speakers in the Bible used the singular form of "you" even though they were speaking to a group of people.
 
