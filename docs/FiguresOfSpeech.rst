@@ -33,7 +33,7 @@ Merism - Merism is a figure of speech in which a person refers to something by l
 
 `Metaphor <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Metaphor.rst>`_ - A metaphor occurs when someone speaks of something as if it were something else because there is something that they have in common. That is, in some way one thing is like the other.
 
-Metonymy - Metonymy is a figure of speech in which a thing or idea is called not by its own name, but by the name of something closely associated with it. A metonym is a word or phrase used as a substitute for something it is associated with.
+`Metonymy <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Metonymy.rst>`_ - Metonymy is a figure of speech in which a thing or idea is called not by its own name, but by the name of something closely associated with it. A metonym is a word or phrase used as a substitute for something it is associated with.
 
 Parallelism - In parallelism two phrases or clauses that are similar in structure or idea are used together. It is found throughout the whole of the Hebrew Bible, most commonly in the books of Psalms and Proverbs.
 
