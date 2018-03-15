@@ -1,12 +1,17 @@
 Exclusive "We"
+===============
+
 This answers the question: What is exclusive "we"?
 
 In order to understand this topic, it would be good to read:
 
-Pronouns
+`Pronouns <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Pronouns.rst>`_
+
 Some languages have more than one form of "we": an inclusive form that means "I and you" and an exclusive form that means "I and someone else but not you." Translators whose language has separate exclusive and inclusive forms for "we" will need to understand what the speaker meant so they can decide which form of "we" to use.
 
 Description
+------------
+
 Some languages have more than one form of "we": an inclusive form that means "I and you" and an exclusive form that means "I and someone else but not you." The exclusive form excludes the person being spoken to. This is also true for "us," "our," "ours," and "ourselves." Some languages have inclusive forms and exclusive forms for each of these.
 
 See the pictures. The people on the right are the people that the speaker is talking to. The yellow highlight shows who the inclusive "we" and the exclusive "we" refer to. we_us_inclusive.jpg we_us_exclusive.jpg
