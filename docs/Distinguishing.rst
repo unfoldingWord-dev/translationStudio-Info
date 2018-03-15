@@ -7,7 +7,7 @@ In order to understand this topic, it would be good to read:
 
 `Parts of Speech <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/PartsOfSpeech.rst>`_
 
-Sentences
+`Sentence Structure <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/SentenceStructure.rst>`_
 
 In some languages, phrases can be used with a noun for two different things. They can either distinguish one item from another or they can give more information or a reminder about an item. Other languages use phrases with a noun only for distinguishing. When people who speak these languages hear a phrase with a noun, they assume that its function is to distinguish one item from another.
 
