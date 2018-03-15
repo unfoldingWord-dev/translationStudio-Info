@@ -53,9 +53,9 @@ Examples from the Bible
 Translation Strategies
 -----------------------
 
-If your language uses words or phrases with a noun only to distinguish one item from another, see `Phrases that Inform or Remind <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/InformRemind.rst`_ for translation strategies.
+If your language uses words or phrases with a noun only to distinguish one item from another, see `Phrases that Inform or Remind <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/InformRemind.rst>`_ for translation strategies.
 
 Examples of Translation Strategies Applied
 ------------------------------------------
 
-See `Phrases that Inform or Remind <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/InformRemind.rst`_ for how to translate phrases that inform or remind.
+See `Phrases that Inform or Remind <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/InformRemind.rst>`_ for how to translate phrases that inform or remind.
