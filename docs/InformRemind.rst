@@ -79,15 +79,17 @@ Examples of Translation Strategies Applied
   
     "for your judgments are good **because** they are righteous.
   
-  *Can Sarah,* **who is ninety years old,** *bear a son?* (Genesis 17:17-18 ULB) - 
+  *Can Sarah,* **who is ninety years old,** *bear a son?* (Genesis 17:17-18 ULB) 
   
     The phrase "who is ninety years old" is a reminder of Sarah's age. It tells why Abraham was asking the question. He did not expect that a woman who was that old could bear a child. 
       
       "Can Sarah bear a son **even when** she is ninety years old?"
     
-  *I will call on Yahweh,* **who is worthy to be praised** (2 Samuel 22:4 ULB) - There is only one Yahweh. The phrase "who is worthy to be praised" gives a reason for calling on Yahweh.
+  *I will call on Yahweh,* **who is worthy to be praised** (2 Samuel 22:4 ULB)
     
-    "I will call on Yahweh, **because** he is worthy to be praised"
+    There is only one Yahweh. The phrase "who is worthy to be praised" gives a reason for calling on Yahweh.
+    
+      "I will call on Yahweh, **because** he is worthy to be praised"
 
 2. Use one of your language's ways for expressing information in a weak way.
 
