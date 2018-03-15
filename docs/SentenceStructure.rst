@@ -29,39 +29,62 @@ When the sentence is a command, it usually does not have a subject pronoun. Peop
 
 *Predicate*
 
-The predicate is the part of a sentence that tells something about the subject. It usually has a verb. (See: Verbs) In the sentences below, the subjects are "the man" and "he." The predicates are in italics and the verbs are in italics.
+The predicate is the part of a sentence that tells something about the subject. It usually has a verb. (See: Verbs) In the sentences below, the subjects are "the man" and "he."
 
-  The man * **is** strong *.
+  The man is strong.
+    Predicate: is strong     
+    Verb: is
 
   He worked hard.
+    Predicate: worked hard    
+    Verb: worked
 
   He made a garden.
+    Predicate: made a garden  
+    Verb: made
 
-Compound Sentences
+**Compound Sentences**
+
 A sentence can be made up of more than one sentence. Each of the two lines below has a subject and a predicate and is a full sentence.
 
-He planted the yams.
-His wife planted the corn.
+  He planted the yams.
+
+  His wife planted the corn.
+
 The compound sentence below has the two sentences above. In English, compound sentences are joined with a conjunction such as "and," "but," or "or".
 
-He planted the yams and his wife planted the corn.
-Clauses
-Sentences can also have clauses and other phrases. Clauses are like sentences because they have a subject and a predicate, but they do not normally occur by themselves. Here are some examples of clauses. The subjects are in bold, and the predicates are underlined.
+  He planted the yams and his wife planted the corn.
 
-when the corn was ready
-after she picked it
-because it tasted so good
-Clauses are usually only part of a sentence. The clauses are underlined in the sentences below.
+**Clauses**
 
-When the corn was ready, she picked it.
-After she picked it, she carried it home and cooked it.
-Then she and her husband ate it all, because it tasted so good.
+Sentences can also have clauses and other phrases. Clauses are like sentences because they have a subject and a predicate, but they do not normally occur by themselves. Here are some examples of clauses. 
+
+  when the corn was ready
+      Subject: the corn
+    Predicate: was ready
+
+  after she picked it
+      Subject: she
+    Predicate: picked it
+ 
+  because it tasted so good
+      Subject: it
+    Predicate: tasted so good
+
+Clauses are usually only part of a sentence. The clauses in the sentences below are in bold type.
+
+**When the corn was ready**, she picked it.
+
+**After she picked it**, she carried it home and cooked it.
+
+Then she and her husband ate it all, **because it tasted so good**.
+
 The following phrases can be a whole sentence.
+  She picked it.
+  She carried it home and cooked it.
+  Then she and her husband ate it all.
 
-She picked it.
-She carried it home and cooked it.
-Then she and her husband ate it all.
-Note: We are using the word clause for 'dependent clause' and sentence for 'independent clause.'
+.. note::  We are using the word clause for 'dependent clause' and sentence for 'independent clause.'
 
 Relative Clauses
 In some languages, clauses can be used with a noun that is part of a sentence. These are called relative clauses.
