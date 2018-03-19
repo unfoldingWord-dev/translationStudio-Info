@@ -80,9 +80,9 @@ Examples of Translation Strategies Applied
 
   *Ah, Lord Yahweh! For I have seen the angel of Yahweh face to face!* (Judges 6:22 ULB)
 
-    * Lord Yahweh, **what will happen to me?** For I have seen the angel of Yahweh face to face!"
+  * Lord Yahweh, **what will happen to me?** For I have seen the angel of Yahweh face to face!"
 
-    * **Help**, Lord Yahweh! For I have seen the angel of Yahweh face to face!
+  * **Help**, Lord Yahweh! For I have seen the angel of Yahweh face to face!
 
 4. Use a word that emphasizes the part of the sentence that brings about the strong feeling.
 
