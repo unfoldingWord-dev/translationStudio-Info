@@ -79,4 +79,4 @@ Examples of Translation Strategies Applied
 
 Next we recommend you learn about:
 
-Quotes within Quotes
+`Quotes within Quotes <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/QuotesWithinQuotes.rst>`_
