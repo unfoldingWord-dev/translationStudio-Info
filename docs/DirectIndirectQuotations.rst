@@ -9,7 +9,7 @@ In order to understand this topic, it would be good to read:
 
 `Verbs <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Verbs.rst>`_
 
-Quotations and Quote Margins
+`Quotations and Quote Margins <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/QuoteMargins.rst>`_
 
 There are two kinds of quotations: direct quotation and indirect quotation.
 
