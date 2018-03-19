@@ -5,7 +5,7 @@ This answers the question: How can quotes be marked, especially when there are q
 
 In order to understand this topic, it would be good to read:
 
-Direct and Indirect Quotations
+`Direct and Indirect Quotations <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DirectIndirectQuotations.rst>`_
 
 Some languages use quotation marks to mark off direct quotations from the rest of the text. When a quotation is very long, or when a quotation has many layers of quotes within quotes, some languages indent the main quote.
 
