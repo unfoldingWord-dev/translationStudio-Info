@@ -28,7 +28,7 @@ In some languages, reported speech can be expressed by direct or indirect quotat
 
 A **direct quotation** occurs when someone reports what another person said from the viewpoint of that original speaker. People usually expect that this kind of quotation will represent the original speaker's exact words. In the example below, John would have said "I" when referring to himself, so the narrator, who is telling about John John saying this, uses the word in the quotation "I" to refer to John.
 
-John said, "I do not know at what time I will arrive."
+  John said, "I do not know at what time I will arrive."
 
 An **indirect quotation** occurs when a speaker reports what someone else said, but in this case, the speaker is reporting it from his own point of view instead of from the original person's point of view. This kind of quotation usually features changes in pronouns, and it often features changes in time, in word choices, and in length. In the example below, the narrator refers to John as "he" in the quotation and uses the word "would," which is the past tense of "will."
 
