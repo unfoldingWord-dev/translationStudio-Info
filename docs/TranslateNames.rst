@@ -123,4 +123,4 @@ For example, you could write "Saul" where the source text has "Saul" and "Paul" 
 
 Next we recommend you learn about:
 
-Copy or Borrow Words
+`Copy or Borrow Words <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/CopyBorrowWords.rst>`_
