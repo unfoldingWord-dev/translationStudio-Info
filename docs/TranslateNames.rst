@@ -97,9 +97,9 @@ For example, Paul is called "Saul" before Acts 13 and "Paul" after Acts 13. You 
 
   *  *a young man named* **Saul** (`Acts 7:58 ULB <https://dw.door43.org/en/bible/notes/act/07/57>`_)
 
-    "a young man named **Paul**"(1) The footnote would look like:
+      "a young man named **Paul**"(1) The footnote would look like:
 
-    [1]Most versions say Saul here, but most of the time in the Bible he is called Paul.
+        [1]Most versions say Saul here, but most of the time in the Bible he is called Paul.
 
   * *But Saul, who is also called Paul, was filled with the Holy Spirit;* (`Acts 13:9 ULB <https://dw.door43.org/en/bible/notes/act/13/09>`_) 
 
@@ -113,7 +113,7 @@ For example, you could write "Saul" where the source text has "Saul" and "Paul" 
 
     "a young man named Saul"
 
-  * *But __Saul__, who is also called Paul, was filled with the Holy Spirit;* (`Acts 13:9 ULB <https://dw.door43.org/en/bible/notes/act/13/09>`_) 
+  * *But Saul, who is also called Paul, was filled with the Holy Spirit;* (`Acts 13:9 ULB <https://dw.door43.org/en/bible/notes/act/13/09>`_) 
 
   * "It came about in Iconium that Paul(1) and Barnabas entered together into the synagogue" (Acts 14:1 ULB) 
   
