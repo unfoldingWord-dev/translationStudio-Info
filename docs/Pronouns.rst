@@ -24,9 +24,9 @@ Person
 
 * First Person - The speaker and possibly others (I, we)
 
-  * Inclusive "We"
+  * `Inclusive "We" <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/InclusiveWe.rst>`_
 
-  * Exclusive "We"
+  * `Exclusive "We" <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ExclusiveWe.rst>`_
 
 * Second Person - The person or people that the speaker is talking to and possibly others (you)
 
