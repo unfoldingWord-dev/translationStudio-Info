@@ -90,4 +90,4 @@ Examples of Quote Marking Strategies Applied
       A man came to meet us who said to us, "Go back to the king who sent you, and say to him, 'Yahweh says this: "Is it because there is no God in Israel that you sent men to consult with Baal Zebub, the god of Ekron? Therefore you will not come down from the bed to which you have gone up; instead, you will certainly die." ' "
 Next we recommend you learn about:
 
-Quotes within Quotes
+`Quotes within Quotes<https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/QuotesWithinQuotes.rst>`_
