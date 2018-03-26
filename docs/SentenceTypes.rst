@@ -110,10 +110,10 @@ Use your language's ways of showing that a sentence has a particular function.
 
 When a sentence in the Bible has a sentence type that your language would not use for the sentence's function, see the pages below for translation strategies.
 
-Statements - Other Uses
+`Statements - Other Uses <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/StatementsOtherUses.rst>`_
 
-Rhetorical Question
+`Rhetorical Question <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Rhetorical.rst>`_
 
-Imperatives - Other Uses
+`Imperatives - Other Uses <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ImperativesOtherUses.rst>`_
 
-Exclamations
+`Exclamations <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Exclamations.rstd>`_
