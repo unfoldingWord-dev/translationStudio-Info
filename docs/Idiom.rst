@@ -22,7 +22,7 @@ Description
 
 An idiom is a phrase that has a special meaning to the people of the language or culture that uses it. Its meaning may be different from what a person would understand from the meanings of the individual words that form the phrase.
 
-  *he resolutely* **set his face** *to go to Jerusalem.* (`Luke 9:51 <https://dw.door43.org/en/bible/notes/luk/09/51>`) ULB)
+  *he resolutely* **set his face** *to go to Jerusalem.* (`Luke 9:51 <https://dw.door43.org/en/bible/notes/luk/09/51>`_ ULB)
 
     The words "set his face" is an idiom that means "decided."
 
