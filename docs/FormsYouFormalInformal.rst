@@ -5,7 +5,7 @@ This answers the question: What are formal and informal forms of "you"?
 
 In order to understand this topic, it would be good to read:
 
-Forms of You
+`Forms of You <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/FormsYou.rst>`_
 
 Pronouns
 
@@ -79,6 +79,6 @@ English does not have formal and informal forms of "you", so we cannot show in E
 
 Next we recommend you learn about:
 
-Forms of 'You' - Dual/Plural
+`Forms of 'You' - Dual/Plural <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/FormsYouDualPlural.rst>`_
 
-Forms of 'You' - Singular
+`Forms of 'You' - Singular <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/FormsYouSingular.rst>`_
