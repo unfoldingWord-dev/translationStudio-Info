@@ -7,7 +7,7 @@ In order to understand this topic, it would be good to read:
 
 `Forms of You <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/FormsYou.rst>`_
 
-Pronouns
+`Pronouns <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Pronouns.rst>`_
 
 Watch the video for the computer (see http://youtu.be/MwbYo9dZUDc ) or the tablet/phone (see http://youtu.be/XfgVYqbugYE ).
 
