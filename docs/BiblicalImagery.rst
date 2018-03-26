@@ -35,12 +35,16 @@ In metonymy, a thing or idea is called not by its own name, but by the name of s
 See `Biblical Imagery - Common Metonymies <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryMetonymies.rst>`_ for a list of some common metonymies in the Bible.
 
 Cultural Models
+---------------
+
 Cultural models are mental pictures of parts of life or behavior. These pictures help us imagine and talk about these things. For example, Americans often think of marriage and friendship as if they were machines. Americans might say "His marriage is breaking down" or "Their friendship is going full speed ahead."
 
 The Bible often speak of God as if he were a shepherd and his people were sheep. This is a cultural model.
 
-Yahweh is my shepherd; I will lack nothing. (Psalm 23:1 ULB)
-He led his own people out like sheep and guided them through the wilderness like a flock. (Psalm 78:52 ULB)
+  *Yahweh is my shepherd; I will lack nothing.* (Psalm 23:1 ULB)
+
+  *He led his own people out like sheep and guided them through the wilderness like a flock.* (Psalm 78:52 ULB)
+
 Some of the cultural models in the Bible were used much by the cultures in the Ancient Near East, and not only by the Israelites.
 
 See: `Biblical Imagery - Cultural Models <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryCultural.rst>`_ for a list of cultural models in the Bible.
