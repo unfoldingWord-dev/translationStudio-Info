@@ -62,4 +62,4 @@ D. `Biblical Imagery - Natural Phenomena <https://github.com/unfoldingWord-dev/t
 
 E. `Biblical Imagery - Man-made Objects <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryManmade.rst>`_
 
-F. Biblical Imagery - Animals
+F. `Biblical Imagery - Animals <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryAnimals.rst>`_
