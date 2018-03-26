@@ -51,7 +51,7 @@ Examples from the Bible
 4. The second says something that contrasts with the first.
 
   *For Yahweh approves of the way of the righteous, but the way of the wicked will perish.* (Psalm 1:6 ULB)
-T
+
     This contrasts what happens to righteous people with what happens to wicked people.
 
   *A gentle answer turns away wrath, but a harsh word stirs up anger.* (Proverbs 15:1 ULB)
