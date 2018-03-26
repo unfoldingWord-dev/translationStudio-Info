@@ -43,8 +43,8 @@ Parallelism - In parallelism two phrases or clauses that are similar in structur
 
 Predictive Past - The predictive past tense uses that past tense to refer to things that will happen in the future. This is sometimes done in prophecy to show that the event will certainly happen.
 
-`Rhetorical Question < - A rhetorical question is a question that is used for something other than getting information. Often it indicates the speaker's attitude toward the topic or the listener. Often it is used for rebuking or scolding, but some languages have other purposes as well.
 `Rhetorical Question <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Rhetorical.rst>`_ - A rhetorical question is a question that is used for something other than getting information. Often it indicates the speaker's attitude toward the topic or the listener. Often it is used for rebuking or scolding, but some languages have other purposes as well.
 
 `Simile <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Simile.rst>`_ - A simile is a comparison of two things that are not normally thought to be similar. It focuses on a particular trait the two items have in common, and it includes the words "like," "as" or "than."
+
 Synecdoche - Synecdoche is a figure of speech in which 1) the name of a part of something is used to refer to the whole thing, or 2) the name of a whole thing is used to refer to just one part of it.
