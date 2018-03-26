@@ -19,7 +19,7 @@ The predictive past is a figure of speech that uses the past tense to refer to t
 In the example above, the people of Israel had not yet gone into captivity, but God spoke of their going into captivity as if it had already happened because he had decided that they certainly would go into captivity.
 
 Reason this is a translation issue
------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Readers who are not aware of the past tense being used in prophecy to refer to future events may find it confusing.
 
