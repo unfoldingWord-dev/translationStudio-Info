@@ -7,9 +7,9 @@ In order to understand this topic, it would be good to read:
 
 `Parts of Speech <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/PartsOfSpeech.rst>`_
 
-Forms of You
+`Forms of You <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/FormsYou.rst>`_
 
-Pronouns
+`Pronouns <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Pronouns.rstd>`_
 
 Some languages have a singular form of "you" for when the word "you" refers to just one person, and a plural form for when the word "you" refers to more than one person. Translators who speak one of these languages will always need to know what the speaker meant so they can choose the right word for "you" in their language.
 
