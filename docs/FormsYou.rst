@@ -5,9 +5,9 @@ This answers the question: What are the different forms of "you"?
 
 In order to understand this topic, it would be good to read:
 
-Forms of 'You' - Singular
+`Forms of 'You' - Singular <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/FormsYouSingular.rst>`_
 
-Forms of 'You' - Dual/Plural
+`Forms of 'You' - Dual/Plural <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/FormsYouDualPlural.rst>`_
 
 Singular, Dual, and Plural
 --------------------------
@@ -25,4 +25,4 @@ Formal and Informal
 
 Some languages have more than one form of "you" based on the relationship between the speaker and the person he is talking to. People use the formal form of "you" when speaking to someone who is older, or has higher authority, or is someone they do not know very well. People use the informal form when speaking to someone who is not older, or does not have higher authority, or is a family member or close friend. Watch the video on Formal and Informal 'You' on the computer or on the tablet/phone. For help with translating these, we suggest you read:
 
-Forms of "You" - Formal or Informal
+`Forms of "You" - Formal or Informal <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/FormsYouFormalInformal.rst>`_
