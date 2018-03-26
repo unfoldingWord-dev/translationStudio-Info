@@ -5,9 +5,11 @@ This answers the question: What are some examples things people make that are us
 
 In order to understand this topic, it would be good to read:
 
-Biblical Imagery - Common Patterns
-Metaphor
-Metonymy
+`Biblical Imagery - Common Patterns <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryCommon.rst>`_
+
+`Metaphor <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Metaphor.rst>`_
+
+`Metonymy <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Metonymy.rst>`_
 
 Some images from the Bible involving man-made objects are listed below in alphabetical order. The word in all capital letters represents an image. The word does not necessarily appear in every verse that has the image, but the idea that the word represents does.
 
