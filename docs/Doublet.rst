@@ -6,7 +6,7 @@ This answers the question: What are doublets and how can I translate them?
 
 In order to understand this topic, it would be good to read:
 
-Figures of Speech
+`Figures of Speech <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/FiguresOfSpeech.rst>`_
 
 A doublet is a pair of words used together that mean nearly the same nearly thing. In some languages people do not use doublets, or they may use them only in certain situations. Translators may need to find some other way to express the meaning.
 
