@@ -45,7 +45,7 @@ Examples from the Bible
     James wrote this letter to many people, so the word "you" refers to many people. If the target language has a **plural** form of "you," it would be appropriate to use it here.
 
 Strategies for finding out how many people "you" refers to
------------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Look at the notes to see if they tell whether "you" refers to one person or more than one person.
 
