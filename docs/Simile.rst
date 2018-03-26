@@ -82,7 +82,7 @@ Examples of Translation Strategies Applied
 
     "See, I send you out **as chickens in the midst of wild dogs**,"
     
-  *How often did I long to gather your children together, just as a hen gathers her chickens under her wings, but you did not agree!* (`Matthew 23:37​<https://dw.door43.org/en/bible/notes/mat/23/37>`_ ULB)
+  *How often did I long to gather your children together, just as a hen gathers her chickens under her wings, but you did not agree!* (`Matthew 23:37 <https://dw.door43.org/en/bible/notes/mat/23/37>`_ ULB)
 
     How often I wanted to gather your children together, as a mother closely watches over her infants, but you refused!
 
