@@ -11,7 +11,7 @@ Grammar has two main parts: words and structure. Structure involves how we put w
 * Sentences can have more than one clause. (See: `Sentence Structure <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/SentenceStructure.rstA>`_)
 * Some languages have both active and passive sentences (See: `Active or Passive <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ActiveOrPassive.rst>`_)
 
-**Possession** - This shows that there is a relationship between two nouns. In English it is marked with "of" as in "the love of God," or with "'s" as in "God's love," or with a possessive pronoun as in "his love." (See Possession)
+**Possession** - This shows that there is a relationship between two nouns. In English it is marked with "of" as in "the love of God," or with "'s" as in "God's love," or with a possessive pronoun as in "his love." (See `Possession <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Possession.rst>`_)
 
 **Quotations** - A quotation is a report of what someone else has said. 
 
