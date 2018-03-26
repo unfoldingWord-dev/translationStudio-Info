@@ -32,8 +32,7 @@ Examples from the Bible
   
     People worshiped idols as if their idols had any knowledge or power, and Yahweh was angry at them for doing that. So he used irony and challenged their idols to tell what would happen in the future. He knew that the idols could not even speak, but he did this to mock the idols and rebuke the people for worshiping them.
 
-  *Can you lead light and darkness to their places of work? Can you find the way back to their houses for them?
-Undoubtedly you know, for you were born then; "the number of your days is so large!"* (Job 38:20, 21 ULB)
+  *Can you lead light and darkness to their places of work? Can you find the way back to their houses for them? Undoubtedly you know, for you were born then; "the number of your days is so large!"* (Job 38:20, 21 ULB)
 
     Job thought that he was wise. Yahweh used irony to show Job that he was not so wise. The two underlined phrase above emphasize that Job could not possibly answer God's questions about the creation of light because Job was not born until many many years later.
 
