@@ -88,6 +88,6 @@ Examples of Translation Strategies Applied
 
     "All you have done is lie to me."
 
-*  Yahweh sees everything a person does and watches all the paths he takes.* (Proverbs 5:21 ULB)
+  *Yahweh sees everything a person does and watches all the paths he takes.* (Proverbs 5:21 ULB)
 
     "Yahweh sees absolutely everything that a person does."
