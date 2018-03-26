@@ -127,11 +127,11 @@ M
 
     A son of wickedness is a wicked person.
 
-  *May the groans of the prisoners come before you; with the greatness of your power keep the children of death alive.* (Psalm 79:11 ULB)
+  *May the groans of the prisoners come before you; with the greatness of your power keep the* **children of death** *alive.* (Psalm 79:11 ULB)
 
     Children of death here are people that others plan to kill.
 
-  *We all were once among these unbelievers and acted according to the evil desires of our flesh, doing the will of the flesh and of the mind, and we were by nature children of wrath like the others.* (Ephesians 2:3 ULB)
+  *We all were once among these unbelievers and acted according to the evil desires of our flesh, doing the will of the flesh and of the mind, and we were by nature* **children of wrath** *like the others.* (Ephesians 2:3 ULB)
     
     Children of wrath here are people with whom God is very angry.
 
