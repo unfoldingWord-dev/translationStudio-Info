@@ -71,7 +71,7 @@ Some images from the Bible involving body parts and human qualities are listed b
 
   *No one can serve two masters, for either he will hate the one and love the other, or else he will be devoted to one and despise the other. You cannot serve God and wealth. (Matthew 6:24 ULB)
 
-  To serve God is to be motivated by God. To serve money is to be motivated by money.
+    To serve God is to be motivated by God. To serve money is to be motivated by money.
 
 **A NAME represents the person who has that name**
 M
