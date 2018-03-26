@@ -21,7 +21,7 @@ Listed below are different types of Figures of Speech. If you would like additio
 
 `Euphemism <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Euphemism.rst>`_ - A euphemism is a mild or polite way of referring to something that is unpleasant or embarrassing. Its purpose is to avoid offending the people who hear or read it.
 
-Hendiadys - In hendiadys a single idea is expressed with two words connected with "and," when one word could be used to modify the other.
+`Hendiadys <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Hendiadys.rst>`_ - In hendiadys a single idea is expressed with two words connected with "and," when one word could be used to modify the other.
 
 Hyperbole - A hyperbole is a deliberate exaggeration used to indicate the speaker's feeling or opinion about something.
 
