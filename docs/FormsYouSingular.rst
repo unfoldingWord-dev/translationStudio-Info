@@ -45,7 +45,7 @@ Examples from the Bible
     Paul wrote this letter to one person, Titus. Most of the time the word "you" in this letter refers only to Titus.
 
 Strategies for finding out how many people "you" refers to
-----------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Look at the notes to see if they tell whether "you" refers to one person or more than one person.
 
@@ -59,4 +59,4 @@ Also watch the video for computer (see http://youtu.be/cPtjzJ2Advk) or tablet/ph
 
 Next we recommend you learn about:
 
-Forms of 'You' - Dual/Plural
+`Forms of 'You' - Dual/Plural <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/FormsYouDualPlural.rstd>`_
