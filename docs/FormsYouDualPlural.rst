@@ -5,9 +5,9 @@ This answers the question: How do I know if the word 'you' is dual or plural?
 
 In order to understand this topic, it would be good to read:
 
-Forms of You
+`Forms of You <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/FormsYou.rst>`_
 
-Pronouns
+`Pronouns <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Pronouns.rst>`_
 
 `Parts of Speech <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/PartsOfSpeech.rst>`_
 
@@ -58,4 +58,4 @@ Also watch the video for computer (see http://youtu.be/cPtjzJ2Advk ) or the tabl
 
 Next we recommend you learn about:
 
-Forms of 'You' - Singular
+`Forms of 'You' - Singular <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/FormsYouSingular.rst>`_
