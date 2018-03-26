@@ -74,8 +74,8 @@ Some images from the Bible involving body parts and human qualities are listed b
     To serve God is to be motivated by God. To serve money is to be motivated by money.
 
 **A NAME represents the person who has that name**
-M
-  *ay your God make the name of Solomon better than your name, and make his throne greater than your throne."* 1 Kings 1:47 (ULB)
+
+  *May your God make the name of Solomon better than your name, and make his throne greater than your throne."* 1 Kings 1:47 (ULB)
 
   *See, I have sworn by my great name—says Yahweh. My name will no longer be called upon by the mouths of any of the men of Judah in all the land of Egypt…."* (Jeremiah 44:26 ULB)
 
