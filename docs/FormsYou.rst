@@ -18,7 +18,7 @@ Watch the video for Singular, Dual, and Plural "you" for computer (see http://yo
 
 Sometimes in the Bible a speaker uses a singular form of "you" even though he is speaking to a crowd.
 
-Forms of 'You' - Singular to a Crowd
+`Forms of 'You' - Singular to a Crowd <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/FormsYouSingularCrowd.rst>`_
 
 Formal and Informal
 -------------------
