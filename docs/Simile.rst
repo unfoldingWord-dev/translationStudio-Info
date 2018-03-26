@@ -78,7 +78,7 @@ Examples of Translation Strategies Applied
 
 2. If people are not familiar with the item that something is compared to, use an item from your own culture. Be sure that it is one that could have been used in the cultures of the Bible.
 
-  *See, I send you out* **as sheep in the midst of wolves**, (`Matthew 10:16 <https://dw.door43.org/en/bible/notes/mat/10/16>`) ULB) - If people do not know what sheep and wolves are, or that wolves kill and eat sheep, you could use some other animal that kills another.
+  *See, I send you out* **as sheep in the midst of wolves**, (`Matthew 10:16 <https://dw.door43.org/en/bible/notes/mat/10/16>`_) ULB) - If people do not know what sheep and wolves are, or that wolves kill and eat sheep, you could use some other animal that kills another.
 
     "See, I send you out **as chickens in the midst of wild dogs**,"
     
