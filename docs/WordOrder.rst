@@ -5,11 +5,11 @@ This answers the question: What does "word order" mean?
 
 In order to understand this topic, it would be good to read:
 
-  Grammar Topics
+  `Grammar Topics <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/GrammarTopics.rst>`_
 
-  Parts of Speech
+  `Parts of Speech <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/PartsOfSpeech.rst>`_
 
-  Sentences
+  `Sentence Structure <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/SentenceStructure.rst>`_
   
 Description
 -----------
