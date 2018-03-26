@@ -56,7 +56,7 @@ The following pages have lists of some of the ideas that represent others in the
 
 * `Biblical Imagery - Human Behavior <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryHumanBehavior.rst>`_ - Includes both physical and non-physical actions, condition and experiences.
 
-* `Biblical Imagery - Plants <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryPlants>`_
+* `Biblical Imagery - Plants <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryPlants.rst>`_
 
 * `Biblical Imagery - Natural Phenomena <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryNatural.rst>`_
 
