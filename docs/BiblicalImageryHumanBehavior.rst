@@ -188,7 +188,7 @@ An **HEIR** is someone who permanently possesses something
   *Therefore I vowed in my anger that they would never enter into my resting place.* (Psalm 95:11 ULB)
 
   *This is my resting place forever; I will live here, for I desire her* [Zion]. (Psalm 132:14 ULB)
-T
+
   *The nations will seek him out, and his resting place will be glorious.* (Isaiah 11:10 ULB)
 
 **RISING, STANDING UP represents acting**
