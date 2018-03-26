@@ -13,7 +13,7 @@ Figures of speech are ways of saying things that use words in non-literal ways. 
 Types
 ------
 
-Listed below are different types of Figures of Speech. If you would like additional information simply click the green word to be directed to a page containing definitions, examples and videos.
+Listed below are different types of Figures of Speech. If you would like additional information simply click the link to be directed to a page containing definitions, examples and videos.
 
 `Apostrophe <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Apostrophe.rst>`_ - In apostrophe, a speaker turns his attention from the people he is speaking to and makes an exclamation to someone who is not there with them.
 
