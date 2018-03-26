@@ -25,7 +25,7 @@ In some languages, phrases can be used with a noun for two different things. The
     This same phrase can be used to inform us about how Mary's sister responded when Mary gave her the food. In this case it does not distinguish one sister from another.
 
 Reasons this is a translation issue
------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Some languages use phrases with a noun only for distinguishing on item from another. When translating a phrase that is used for giving more information, people who speak these languages will need to separate the phrase from the noun. Otherwise people who read it or hear it will think that the phrase is meant to distinguish one item from other possible items.
 Examples from the Bible
