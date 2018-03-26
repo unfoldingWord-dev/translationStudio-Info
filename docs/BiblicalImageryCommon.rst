@@ -52,14 +52,14 @@ Links to Lists of Images in the Bible
 
 The following pages have lists of some of the ideas that represent others in the Bible, together with examples from the Bible. They are organized according to the kinds of image:
 
-A. `Biblical Imagery - Body Parts and Human Qualities <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryBodyParts.rstd>`_
+* `Biblical Imagery - Body Parts and Human Qualities <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryBodyParts.rstd>`_
 
-B. `Biblical Imagery - Human Behavior <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryHumanBehavior.rst>`_ - Includes both physical and non-physical actions, condition and experiences.
+* `Biblical Imagery - Human Behavior <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryHumanBehavior.rst>`_ - Includes both physical and non-physical actions, condition and experiences.
 
-C. `Biblical Imagery - Plants <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryPlants>`_
+* `Biblical Imagery - Plants <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryPlants>`_
 
-D. `Biblical Imagery - Natural Phenomena <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryNatural.rst>`_
+* `Biblical Imagery - Natural Phenomena <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryNatural.rst>`_
 
-E. `Biblical Imagery - Man-made Objects <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryManmade.rst>`_
+* `Biblical Imagery - Man-made Objects <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryManmade.rst>`_
 
-F. `Biblical Imagery - Animals <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryAnimals.rst>`_
+* `Biblical Imagery - Animals <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryAnimals.rst>`_
