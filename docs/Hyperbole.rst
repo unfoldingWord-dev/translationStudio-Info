@@ -57,7 +57,8 @@ Examples of Generalization
     The disciples told Jesus that everyone was looking looking for him. They probably did not mean that everyone in the city was looking for him, but that many people were looking for him, or that all of Jesus closest friends there were looking for him.
 
   *But as his anointing teaches you about* **all things** *and is true and is not a lie, and even as it has taught you, remain in him.* (1 John 2:27 ULB)
-This is a generalization. God's Spirit teaches us about all things that we need to know.
+
+    This is a generalization. God's Spirit teaches us about all things that we need to know.
 
 Caution
 ^^^^^^^^
