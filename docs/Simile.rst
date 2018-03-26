@@ -96,7 +96,7 @@ Examples of Translation Strategies Applied
 
     "See, I send you out and people will want to harm you."
 
-  *How often did I long to gather your children together, just as a hen gathers her chickens under her wings, but you did not agree!* (`Matthew 23:37 <https://dw.door43.org/en/bible/notes/mat/23/37>`_​ ULB)
+  *How often did I long to gather your children together, just as a hen gathers her chickens under her wings, but you did not agree!* (`Matthew 23:37 <https://dw.door43.org/en/bible/notes/mat/23/37>`_ ULB)
 
     "How often I wanted to protect you, but you refused!"
 
@@ -104,4 +104,4 @@ Next we recommend you learn about:
 
 `Metaphor <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Metaphor.rst>`_
 
-`Biblical Imagery - Common Patterns<https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryCommon.rst>`_
+`Biblical Imagery - Common Patterns <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/BiblicalImageryCommon.rst>`_
