@@ -15,16 +15,15 @@ Some images from the Bible involving human behavior are listed below in alphabet
 
 **BEING BENT OVER represents being discouraged**
 
-Yahweh supports all who are falling and raises up all those who are bent over. (Psalm 145:14 ULB)
+  *Yahweh supports all who are falling and raises up all those who are bent over.* (Psalm 145:14 ULB)
 
 **BIRTH PAINS represent the suffering that is necessary to achieve a new condition**
 
-Be in pain and labor to give birth, daughter of Zion, like a woman in labor.
-For now you will go out of the city, live in the field, and go to Babylon.
-There you will be rescued.
-There Yahweh will rescue you from the hand of your enemies. (Micah 4:10 ULB)
-For nation will rise against nation, and kingdom against kingdom. There will be famines and earthquakes in various places. But all these things are only the beginning of birth pains. (Matthew 24:7-8 ULB)​
-My little children, I am suffering labor pains for you again, until Christ will have been formed in you! (Galatians 4:19 ULB)
+  *Be in pain and labor to give birth, daughter of Zion, like a woman in labor. For now you will go out of the city, live in the field, and go to Babylon. There you will be rescued. There Yahweh will rescue you from the hand of your enemies.* (Micah 4:10 ULB)
+
+  *For nation will rise against nation, and kingdom against kingdom. There will be famines and earthquakes in various places. But all these things are only the beginning of birth pains.* (Matthew 24:7-8 ULB)​
+  
+  *My little children, I am suffering labor pains for you again, until Christ will have been formed in you!* (Galatians 4:19 ULB)
 
 **BEING CALLED SOMETHING represents being that**
 
