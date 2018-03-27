@@ -21,7 +21,6 @@ Contents:
    tUpload
    tSettings
    desktop
-   dInstall
    dStart
    dNavigate
    dUpload
