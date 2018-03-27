@@ -74,7 +74,7 @@ Examples from the Bible
   
 **Part of a group** - In the example below, the whole group is "us" and "each one" refers to the individual members.
 
-  To * *each one of us* * has been given a gift* (Ephesians 4:7 ULB)
+  To * *each one of us* * has been given a gift (Ephesians 4:7 ULB)
 
 Events and Possession
 ^^^^^^^^^^^^^^^^^^^^^
@@ -83,23 +83,23 @@ Sometimes one or both of the nouns is an abstract noun that refers to an event o
 
 **Subject** - Sometimes the word after "of" tells who would do the action named by the first noun. In the example below, John baptized people.
 
-  The `baptism of John <abc>`_, was it from heaven or from men? Answer me." (Mark 11:30)
+  The * **baptism** *of John* * was it from heaven or from men? Answer me." (Mark 11:30)
 
 In the example below, Christ loves us.
 
-  Who will separate us from the love of Christ? (Romans 8:35)
+  Who will separate us from * *the* **love** *of Christ?* * (Romans 8:35)
 
 **Object** - Sometimes the word after "of" tells who or what something would happen to. In the example below, people love money.
 
-  For the love of money is a root of all kinds of evil. (1 Timothy 6:10 ULB)
+ For * *the* **love** *of money* * is a root of all kinds of evil. (1 Timothy 6:10 ULB)
 
 **Instrument** - Sometimes the word after "of" tells how something would happen. In the example below, God would punish people by sending enemies to attack them with swords.
 
-  then be afraid of the sword, because wrath brings the punishment of the sword (Job 19:29 ULB)
+  then be afraid of the sword, because wrath brings * *the* **punishment** *of the sword* * (Job 19:29 ULB)
 
 **Representation** - In the example below, John was baptizing people who were repenting of their sins. They were being baptized to show that they were repenting. Their baptism represented their repentance.
 
-  As John came, he was baptizing in the wilderness and was preaching a baptism of repentance for the forgiveness of sins. (Mark 1:4 ULB)
+  As John came, he was baptizing in the wilderness and was preaching * *a* **baptism** *of repentance* * for the forgiveness of sins. (Mark 1:4 ULB)
 
 Strategies for learning what the relationship is between the two nouns
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
