@@ -152,8 +152,6 @@ Note: At any time you can view the License Agreement, Statement of Faith, Transl
 
 4.	The program opens to the *Your Translation Projects* screen (which is the home screen). The first time you use the program you have no existing projects, so the home screen displays a welcome message.
 
-.. _gateway_setup:
-
 How do I set up to work on a Gateway Language translation?
 ----------------------------------------------------------
 
