@@ -1,70 +1,87 @@
-Introduction to the translationStudio-Desktop Program
-The translationStudio-Desktop program enables translators to do offline translating of the Bible or of Bible resources. Its main purpose is for Gateway language translators to translate Bible resources from English to a gateway language. 
-You can download the program here: https://github.com/unfoldingWord-dev/ts-desktop/releases. 
-It contains the content that needs to be translated as well as translationHelps (See: How to Use the translationHelps in translationStudio). You can share information directly from device to device, and you can upload finished content to Door43 where it can be digitally published.
+Introduction to translationStudio for the Desktop
+=================================================
+
+.. image:: ../images/tSforDesktop.gif
+    :width: 305px
+    :align: center
+    :height: 245px
+    :alt: translationStudio for the Desktop
+    
+The translationStudio for the Desktop program enables translators to do offline translating of the Bible or of Bible resources. It can be used for two purposes:
+
+* For translators to translate the Bible (or Open Bible Stories) from English to a gateway language, or from a gateway language to a mother tongue
+
+* For Gateway language translators to translate Bible resources from English to a gateway language
+
+The program contains the content that needs to be translated as well as translationHelps (See: How to Use the translationHelps in translationStudio). You can share information directly from device to device, and you can upload finished content to Door43 where it can be digitally published.
+
 How do I install translationStudio on a Desktop Computer? 
+---------------------------------------------------------
 
-Note: This process requires an Internet connection.
-•	 Go to: https://github.com/unfoldingWord-dev/ts-desktop/releases
+.. note:: This process requires an Internet connection.
 
-•	 Click the appropriate file for your computer:
-o	The file with “linux” in the name is for a Linux operating system.
-o	The file with “osx” in the name is for an Apple Macintosh operating system.
-o	The file with “win_x32” in the name is for a 32-bit Windows operating system.
-o	The file with “win_x64” in the name is for a 64-bit Windows operating system.
+  1. Go to: https://github.com/unfoldingWord-dev/ts-desktop/releases
+
+  2. Click the appropriate file for your computer:
+
+    * The file with “linux” in the name is for a Linux operating system.
+
+    * The file with “osx” in the name is for an Apple Macintosh operating system.
+
+    * The file with “win_x32” in the name is for a 32-bit Windows operating system.
+
+    * The file with “win_x64” in the name is for a 64-bit Windows operating system.
  
 
-Note: To determine if your Windows PC is a 32-bit or a 64-bit operating system, open the Control Panel and click System.
+.. note:: To determine if your Windows PC is a 32-bit or a 64-bit operating system, open the Control Panel and click System.
 
-•	Designate where you want to save the file.
+  3.	Designate where you want to save the file.
  
+  4. 	Allow the file to download to the computer. 
 
-•	Allow the file to download to the computer. 
-•	 Double-click the file name to start the install.
+  5. Double-click the file name to start the install.
  
-
-•	Click Run or Yes on the Warning message window and any other warning messages. 
+  6.	Click Run or Yes on the Warning message window and any other warning messages. 
  
-•	Choose the language that will be used during the installation from the dropdown menu.
+  7.	Choose the language that will be used during the installation from the dropdown menu.
  
-
-•	Click Next on the 'Welcome to the translationStudio Setup Wizard' window.
+  8.	Click Next on the 'Welcome to the translationStudio Setup Wizard' window.
  
-
-•	Select the I accept the agreement radio button for the software license. Click Next.
+  9.	Select the I accept the agreement radio button for the software license. Click Next.
  
-
-•	Select the choice to 'create a desktop icon' if you wish. Click Next.
+  10. Select the choice to 'create a desktop icon' if you wish. Click Next.
  
-
-•	Click Install. 
+  11. Click Install. 
  
-
-•	Please wait for the program to be installed.  This may take several minutes. The installer installs translationStudio and Git, which is a version control system.
+  12. Please wait for the program to be installed.  This may take several minutes. The installer installs translationStudio and Git, which is a version control system.
  
-
-•	At the Completing the translationStudio Setup Wizard window, click Finish to complete the installation.
-How do I open translationStudio?
-•	Open translationStudio by double-clicking the desktop icon (if you chose to create one during the setup process).
- 
-•	If you did not choose to create a desktop icon you will need to find the program:
-o	Click the "start" icon   on your computer or press the Windows key   on your keyboard.
-
-o	Find translationStudio in the list of programs and click to open it.
- 
+  13. At the *Completing the translationStudio Setup Wizard* window, click Finish to complete the installation.
+  
 How do I use translationStudio for the first time?
+---------------------------------------------------
 
 Complete these steps to use translationStudio for the first time: 
 
-1.	If translationStudio is open, skip to step 2. If it is not open, see How do I open translationStudio?
+1. Open translationStudio
+
+  *	If you chose to create a desktop icon during installation, double-click the desktop icon.
+ 
+  *	If you did not choose to create a desktop icon you will need to find the program:
+
+    * Click the "start" icon on your computer or press the Windows key on your keyboard.
+
+    * Find translationStudio in the list of programs and click to open it.
 
 2.	Create or login to your account. See translationStudio-Android - Login Options for more information.
 translationStudio – Login Options
 The welcome screen displays a request to create or log in to a user account.
  
 
-NOTE: You may use a pseudonym instead of your real name. A pseudonym is a name that cannot be traced back to you. You may wish to use a pseudonym if you are working in a sensitive part of the world.
+.. note:: You may use a pseudonym instead of your real name. A pseudonym is a name that cannot be traced back to you. You may wish to use a pseudonym if you are working in a sensitive part of the world.
+
 Which Type of Account Do I Want to Use?
+---------------------------------------
+
 Offline Account – user does not need to be connected to the internet, but has full use of the program except for uploading to Door43. You may want to start with an offline account and then switch to a Door43 account later when you want to upload your work (the work is attached to the device, not to the account). If you want to use an offline account, skip to the Local Login or Offline Account section. 
 Door43 Account – user has full use of the program and can upload to Door43 (requires Internet connection.)
 Existing Door43 Account
