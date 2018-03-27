@@ -1,15 +1,15 @@
-tS for Android™: Modifying Program Settings 
+tS for Desktop: Modifying Program Settings 
 ==========================================================
 
-.. image:: ../images/tSForAndroidWithAttr.gif
+.. image:: ../images/tSForDesktop.gif
     :width: 205px
     :align: center
     :height: 165px
     :alt: translationStudio for Desktop
 
-There are several settings for the translationStudio program that you can view or modify. To open the settings window, tap the 3-dot icon at the bottom left of the screen and tap Settings on the menu.
+There are several settings for the translationStudio program that you can view or modify. To open the settings window, click the 3-dot icon at the bottom left of the screen and click Settings on the menu.
 
-Tap the Back Arrow at the top left of the screen to exit the settings window.
+Click the Back Arrow at the top left of the screen to exit the settings window.
 
 The Settings window is the same regardless of whether you invoke it from the home screen or from a project screen. 
 
@@ -26,7 +26,7 @@ The Settings window enables personalization of the program. It also displays use
 General Settings
 -----------------
 
-Tap General to view or change general settings.
+Click General to view or change general settings.
 
 The General settings are as follows:
 
@@ -70,7 +70,7 @@ The General settings are as follows:
 
 8.	**Version**: The version of the translationStudio program is displayed.
 
-9.	**Check for updates**: Tap to check for updates to translationStudio. This uses an internet connection.
+9.	**Check for updates**: Click to check for updates to translationStudio. This uses an internet connection.
 
 Server Settings
 ---------------
