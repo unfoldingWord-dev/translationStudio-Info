@@ -114,8 +114,9 @@ In the sentence below "his mother, who was very annoyed" is part of the predicat
 
 Languages have different orders for the parts of a sentence.
 
-Some languages do not have relative clauses, or they use them in a limited way. (See: Distinguishing versus Informing or Reminding)
+Some languages do not have relative clauses, or they use them in a limited way. (See: `Distinguishing versus Informing or Reminding <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Distinguishing.rst>`_)
 Next we suggest you read
 
-Word Order
-Distinguishing versus Informing or Reminding
+`Word Order <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/WordOrder.rst>`
+
+`Distinguishing versus Informing or Reminding <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Distinguishing.rst>`
