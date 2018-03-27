@@ -35,9 +35,9 @@ To write the translation in your language:
 
 2.	The screen is arranged to appear like two sheets of paper, one behind the other, with the Chapter or Story view initially on top. In this view, read the source text.
 
- ``*`` The app is organized to work with blind drafting. 
+  * The app is organized to work with blind drafting. 
   
-  * You may want to read MAST Core Concepts to understand the steps of blind drafting translation.
+  * You may want to read `MAST Core Concepts <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/MAST.rst>`_ to understand the steps of blind drafting translation.
 
 3.	When you are ready to begin translating, tap the “piece of paper” that is behind the one you have been reading.
  
