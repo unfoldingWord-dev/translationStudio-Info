@@ -145,6 +145,6 @@ If people would understand the metaphor in the same way that the original reader
       
       * "Yahweh lives; may he be praised because like a huge rock, he shields me from my enemies. May the God of my salvation be exalted."
       
-  *Saul, Saul, why do you persecute me? It is hard for you to kick a goad.* (`Acts 26:14 ULB <https://dw.door43.org/en/bible/notes/act/26/12`_)
+  *Saul, Saul, why do you persecute me? It is hard for you to kick a goad.* (`Acts 26:14 ULB <https://dw.door43.org/en/bible/notes/act/26/12>`_)
   
     * "Saul, Saul, why do you persecute me? You fight against me and hurt yourself like an ox that kicks against its owner's pointed stick."
