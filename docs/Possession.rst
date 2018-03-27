@@ -58,23 +58,23 @@ Examples from the Bible
 
 **Social Relationship** - In the example below, the disciples were people who learned from John.
 
-  *Then* **the disciples of John** *came to him …,* (Matthew 9:14 ULB)
+  Then * *the disciples of John* * came to him …, (Matthew 9:14 ULB)
 
 **Material** - In the example below, the material used to make the crowns was gold.
 
-  *On their heads were something like* **crowns of gold** (Revelation 9:7)
+  On their heads were something like * *crowns of gold* * (Revelation 9:7)
 
 **Contents** - In the example below, the cup has water in it.
 
-  *Whoever gives you* **a cup of water** *to drink … will not lose his reward.* (Mark 9:41 ULB)
+  Whoever gives you * *a cup of water* * to drink … will not lose his reward. (Mark 9:41 ULB)
 
 **Part of a whole** - In the example below, the door was a part of the palace.
 
-  *But Uriah slept at* **the door of the king's palace** (2 Samuel 11:9 ULB)
+  But Uriah slept at * *the door of the king's palace* * (2 Samuel 11:9 ULB)
   
 **Part of a group** - In the example below, the whole group is "us" and "each one" refers to the individual members.
 
-  *To* **each one of us** *has been given a gift* (Ephesians 4:7 ULB)
+  To * *each one of us* * has been given a gift* (Ephesians 4:7 ULB)
 
 Events and Possession
 ^^^^^^^^^^^^^^^^^^^^^
