@@ -15,7 +15,7 @@ Parts of speech are categories of words. All languages have parts of speech, and
 
 **PRONOUNS** take the place of nouns and include such words as he, she, it, they and we. More detailed pages on pronouns can be found on `Pronouns <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Pronouns.rst>`_.
 
-**CONJUNCTIONS** are words that join phrases or sentences. Examples include: and, or, but, for, yet, nor. Some conjunctions are used in pairs: both/and; either/or; neither/nor; not only/but also. More information about these can be found on `Connecting Words <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ConnectingWords.rst>_`
+**CONJUNCTIONS** are words that join phrases or sentences. Examples include: and, or, but, for, yet, nor. Some conjunctions are used in pairs: both/and; either/or; neither/nor; not only/but also. More information about these can be found on `Connecting Words <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ConnectingWords.rst>`_.
 
 **PREPOSITIONS** are words that begin phrases which connect a noun or verb with more detail. For example, "The boat was off the shore." Here the phrase with the preposition "off" tells the location of the boat in relations to the shore. Another example is "The crowd around Jesus grew in numbers." The phrase with the preposition "around" tells the location of the people in relation to Jesus. Some examples of prepositions are: to, from, in, out, on, off, with, without, above, below, before, after, behind, in front of, among, through, beyond, among.
 
