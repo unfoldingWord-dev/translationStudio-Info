@@ -72,7 +72,7 @@ Reword the sentence with a phrase that expresses the meaning of the abstract nou
 
     "But we **benefit** greatly when we **honor and obey God** and when we are **happy with what we have**.
 
-  *Today **salvation** has come to this house, because he too is a son of Abraham.* (Luke 19:9 ULB)
+  *Today* **salvation** *has come to this house, because he too is a son of Abraham.* (Luke 19:9 ULB)
 
     "Today the people in this house **have been saved…**"
 
