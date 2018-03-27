@@ -36,4 +36,4 @@ Checking Steps
 
   * The facilitator should ask the translator to provide a definition of each key word in the text and compare it to an already developed list of contextual definitions. These definitions should match. If they do not, the translation team needs to discuss which word is the best to use for the key term in this context.
 
-4.	Verse-by-Verse Check - a facilitator should examine each verse of the newly translated chapter and compare it to the source text to make sure that it accurately communicates the same message as the source and to verify with the translator that the verses flow naturally in the target language.
+4.	**Verse-by-Verse Check** - a facilitator should examine each verse of the newly translated chapter and compare it to the source text to make sure that it accurately communicates the same message as the source and to verify with the translator that the verses flow naturally in the target language.
