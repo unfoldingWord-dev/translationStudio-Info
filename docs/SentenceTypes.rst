@@ -17,7 +17,7 @@ A sentence is a group of words that expresses a complete thought. The basic type
 * **Exclamations** - These are mainly used to express a strong feeling. *'Ouch, that hurt!'*
 
 Reasons this is a translation issue
------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Languages have different ways of showing that a sentence has a particular function.
 
