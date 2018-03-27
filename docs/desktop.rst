@@ -23,7 +23,7 @@ How do I install translationStudio on a Desktop Computer?
 
   1. Go to: https://github.com/unfoldingWord-dev/ts-desktop/releases
 
-  2. Click the appropriate file for your computer:
+  2. Click the appropriate file for your computer:*
 
     * The file with “linux” in the name is for a Linux operating system.
 
@@ -32,10 +32,6 @@ How do I install translationStudio on a Desktop Computer?
     * The file with “win_x32” in the name is for a 32-bit Windows operating system.
 
     * The file with “win_x64” in the name is for a 64-bit Windows operating system.
- 
-
-.. note:: To determine if your Windows PC is a 32-bit or a 64-bit operating system, open the Control Panel and click System.
-
 
   3.	Designate where you want to save the file.
  
@@ -58,6 +54,8 @@ How do I install translationStudio on a Desktop Computer?
   12. Please wait for the program to be installed.  This may take several minutes. The installer installs translationStudio and Git, which is a version control system.
  
   13. At the *Completing the translationStudio Setup Wizard* window, click Finish to complete the installation.
+  
+*  .. note:: To determine if your Windows PC is a 32-bit or a 64-bit operating system, open the Control Panel and click System.
   
 How do I use translationStudio for the first time?
 ---------------------------------------------------
