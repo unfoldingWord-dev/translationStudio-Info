@@ -2,9 +2,9 @@ Introduction to translationStudio for the Desktop
 =================================================
 
 .. image:: ../images/tSforDesktop.gif
-    :width: 305px
+    :width: 205px
     :align: center
-    :height: 245px
+    :height: 130px
     :alt: translationStudio for the Desktop
     
 The translationStudio for the Desktop program enables translators to do offline translating of the Bible or of Bible resources. It can be used for two purposes:
@@ -20,6 +20,7 @@ How do I install translationStudio on a Desktop Computer?
 
 .. note:: This process requires an Internet connection.
 
+
   1. Go to: https://github.com/unfoldingWord-dev/ts-desktop/releases
 
   2. Click the appropriate file for your computer:
@@ -34,6 +35,7 @@ How do I install translationStudio on a Desktop Computer?
  
 
 .. note:: To determine if your Windows PC is a 32-bit or a 64-bit operating system, open the Control Panel and click System.
+
 
   3.	Designate where you want to save the file.
  
