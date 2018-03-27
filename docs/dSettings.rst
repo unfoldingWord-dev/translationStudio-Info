@@ -1,7 +1,7 @@
 tS for Desktop: Modifying Program Settings 
 ==========================================================
 
-.. image:: ../images/tSForDesktop.gif
+.. image:: ../images/tSforDesktop.gif
     :width: 205px
     :align: center
     :height: 165px
