@@ -148,12 +148,12 @@ Examples of Translation Strategies Applied
 
   * Notice that I am not speaking to your children, who have not known or seen* *the punishment of Yahweh your God,* * (Deuteronomy 11:2 ULB)
 
-    "Notice that I am not speaking to your children who have not known or seen * *how Yahweh your God* **punished** *the people of Egypt.* *"
+      "Notice that I am not speaking to your children who have not known or seen * *how Yahweh your God* **punished** *the people of Egypt.* *"
 
   * You will only observe and see the * *punishment of the wicked.* * (Psalms 91:8 ULB)
 
-    You will only observe and see * *how Yahweh **punishes** the wicked.* *
+      You will only observe and see * *how Yahweh* **punishes** *the wicked.* *
 
   * you will receive the * *gift of the Holy Spirit.* * (Acts 2:38 ULB)
 
-    "you will receive the * *Holy Spirit, whom God* **will give** *to you.* *"
+      "you will receive the * *Holy Spirit, whom God* **will give** *to you.* *"
