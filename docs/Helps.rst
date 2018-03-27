@@ -297,13 +297,13 @@ In order to translate the meaning, you need to be able to recognize the figure o
 
   *Many will come in my name and say, 'I am he,' and they will lead many astray. (Mark 13:6 ULB)*
 
-    * **Many will come in my name** - The word "name" represents the authority of Jesus. AT: "Many will come, claiming my authority and permission." (See: `Metonymy <https://dw.door43.org/en/ta/vol2/translate/figs_metonymy>`_)
+    * **Many will come in my name** - The word "name" represents the authority of Jesus. AT: "Many will come, claiming my authority and permission." (See: `Metonymy <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Metonymy.rst>`_)
 
       The figure of speech in this note is metonymy. The note explains the metonymy in this passage and gives an alternate translation. After that, there is a link to the tA page about metonymy. Click on the link to learn about metonymy and general strategies for translating metonymys.
 
   *You offspring of poisonous snakes, who warned you to flee from the wrath that is coming? (Luke 3:7 ULB)*
 
-    * **You offspring of poisonous snakes** - This is a word picture. Poisonous snakes are dangerous and represent evil. AT: "You evil poisonous snakes!" or "You are evil like poisonous snakes." (See: `Metaphor <https://dw.door43.org/en/ta/vol1/translate/figs_metaphor>`_)
+    * **You offspring of poisonous snakes** - This is a word picture. Poisonous snakes are dangerous and represent evil. AT: "You evil poisonous snakes!" or "You are evil like poisonous snakes." (See: `Metaphor <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Metaphor.rst>`_)
 
       The figure of speech in this note is metaphor. The note explains the metaphor and gives two alternate translations. After that, there is a link to the tA page about metaphors. Click on the link to learn about metaphors and general strategies for translating them.
 
@@ -312,7 +312,7 @@ Notes That Identify Indirect and Direct Quotes
 
 **Description**
 
-There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation. (See: `Direct and Indirect Quotations <https://dw.door43.org/en/ta/vol2/translate/figs_quotations>`_)
+There are two kinds of quotations: direct quotation and indirect quotation. When translating a quotation, translators need to decide whether to translate it as a direct quotation or an indirect quotation. (See: `Direct and Indirect Quotations <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DirectIndirectQuotations.rst>`_)
 
 When there is a direct or indirect quote in the ULB, the notes may have an option for translating it as the other kind of quote. The translation suggestion may start with "It can be translated as a direct quote:" or "It can be translated as an indirect quote:" and it will be followed by that kind of quote. This may be followed by a link to the information page called "Direct and Indirect Quotations."
 
@@ -322,13 +322,13 @@ There is a likely to be a note about direct and indirect quotes when a quote has
 
   *He instructed him to tell no one (Luke 5:14 ULB)*
 
-    * **to tell no one** - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: `Direct and Indirect Quotations <https://dw.door43.org/en/ta/vol2/translate/figs_quotations>`_)
+    * **to tell no one** - This can be translated as a direct quote: "Do not tell anyone." The implied information is "that you have been healed." (See: `Direct and Indirect Quotations <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DirectIndirectQuotations.rst>`_)
 
       Here the translation suggestion is to change the indirect quote to a direct quote.
 
   *At the time of the harvest I will say to the reapers, "First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn."'" (Matthew 13:30 ULB)*
 
-    * **I will say to the reapers,** "First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn" - You can translate this as an indirect quote: "I will tell the reapers to first gather up the weeds and tie them in bundles to burn them, then gather the wheat into my barn." (See: `Direct and Indirect Quotations <https://dw.door43.org/en/ta/vol2/translate/figs_quotations>`_)
+    * **I will say to the reapers,** "First pull out the weeds and tie them in bundles to burn them, but gather the wheat into my barn" - You can translate this as an indirect quote: "I will tell the reapers to first gather up the weeds and tie them in bundles to burn them, then gather the wheat into my barn." (See: `Direct and Indirect Quotations <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DirectIndirectQuotations.rst>`_)
 
       Here the translation suggestion is to change the direct quote to an indirect quote.
 
@@ -343,9 +343,9 @@ Sometimes there are notes for a phrase and separate notes for portions of that p
 
   *But it is to the extent of your hardness and unrepentant heart that you are storing up for yourself wrath in the day of wrath (Romans 2:5 ULB)*
 
-    * **But it is to the extent of your hardness and unrepentant heart** - Paul compares a person who refuses to listen and obey God to something hard, like a stone. The heart represents the whole person. AT: "It is because you refuse to listen and repent" (See:  `Metaphor <https://dw.door43.org/en/ta/vol1/translate/figs_metaphor>`_ and `Metonymy <https://dw.door43.org/en/ta/vol2/translate/figs_metonymy>`_)
+    * **But it is to the extent of your hardness and unrepentant heart** - Paul compares a person who refuses to listen and obey God to something hard, like a stone. The heart represents the whole person. AT: "It is because you refuse to listen and repent" (See:  `Metaphor <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Metaphor.rst>`_ and `Metonymy <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Metonymy.rst>`_)
 
-    * **hardness and unrepentant heart** - The phrase "unrepentant heart" explains the word "hardness" (See: `Doublet <https://dw.door43.org/en/ta/vol2/translate/figs_doublet>`_)
+    * **hardness and unrepentant heart** - The phrase "unrepentant heart" explains the word "hardness" (See: `Doublet <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Doublet.rst>`_)
 
       In this example the first note explains the the metaphor and metonymy, and the second explains the doublet in the same passage.
 
