@@ -117,6 +117,6 @@ Languages have different orders for the parts of a sentence.
 Some languages do not have relative clauses, or they use them in a limited way. (See: `Distinguishing versus Informing or Reminding <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Distinguishing.rst>`_)
 Next we suggest you read
 
-`Word Order <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/WordOrder.rst>`
+`Word Order <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/WordOrder.rst>`_
 
-`Distinguishing versus Informing or Reminding <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Distinguishing.rst>`
+`Distinguishing versus Informing or Reminding <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Distinguishing.rst>`_
