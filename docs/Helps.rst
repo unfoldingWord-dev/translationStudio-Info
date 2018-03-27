@@ -201,7 +201,7 @@ The "AT:" indicates that this is an alternate translation. Some examples are:
 
   *Saul, Saul, why are you persecuting me? (Acts 9:4 ULB)**
 
-    * **why are you persecuting me?** - The Lord used this question to rebuke Saul. In some languages a statement would be more clear. AT: "You are persecuting me!" (See: `Rhetorical Question <https://dw.door43.org/en/ta/vol1/translate/figs_rquestion>`_)
+    * **why are you persecuting me?** - The Lord used this question to rebuke Saul. In some languages a statement would be more clear. AT: "You are persecuting me!" (See: `Rhetorical Question <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Rhetorical.rst>`_)
 
 Notes That Include a Quote from the UDB
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
