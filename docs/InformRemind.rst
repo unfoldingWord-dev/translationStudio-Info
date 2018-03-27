@@ -68,6 +68,7 @@ If people would understand the purpose of a phrase with a noun, then consider ke
 2. Use one of your language's ways for expressing information in a weak way. It may be by adding a small word, or by changing the way the voice sounds. Sometimes changes in the voice can be shown with punctuation marks, such as parentheses or commas.
 
 Examples of Translation Strategies Applied
+------------------------------------------
 
 1. Put the information in another part of the sentence and add words that show its purpose.
 
