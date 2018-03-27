@@ -5,7 +5,7 @@ This answers the question: What are the parts of a sentence?
 
 In order to understand this topic, it would be good to read:
 
-Parts of Speech
+`Parts of Speech <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/PartsOfSpeech.rst>`_
 
 **Description**
 
