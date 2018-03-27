@@ -94,4 +94,5 @@ Conclusion
 -------------
 
 Ultimately, the church needs to decide what they want to translate, and in what order. But because translation is a skill that improves with use, and because the translation and checking teams can learn so much about translating the Bible by translating Open Bible Stories, and because of the immense value that the translated Open Bible Stories gives to the local church, we highly recommend starting your translation project with Open Bible Stories.
+
 After translating Open Bible Stories, the church will need to decide if it would be more beneficial to start with how everything began (Genesis, Exodus) or with Jesus (New Testament gospels). In either case, we recommend starting Bible translation with some of the Difficulty Level 2 and 3 books (like Genesis, Ruth, and Mark). Finally, after the translation team has a lot of experience, then they can start translating Difficulty Level 4 and 5 books (like John, Hebrews, and Psalms). If the translation team follows this schedule, they will make better translations with far fewer mistakes.
