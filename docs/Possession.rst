@@ -52,6 +52,8 @@ Reasons this is a translation issue
 Examples from the Bible
 -----------------------
 
+In the Bible passages below, the possessive phrase is in italics and is separated from the rest of the sentence by a pair of asterisks.
+
 **Ownership** - In the example below, the son owned the money.
 
   … the younger son … wasted * *his money* * with wildly extravagant living. (Luke 15:13)
@@ -104,32 +106,54 @@ In the example below, Christ loves us.
 Strategies for learning what the relationship is between the two nouns
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Read the surrounding verses to see if they help you to understand the relationship between the two nouns.
-Read the verse in the UDB. Sometimes it shows the relationship clearly.
-See what the notes say about it.
+* Read the surrounding verses to see if they help you to understand the relationship between the two nouns.
+
+* Read the verse in the UDB. Sometimes it shows the relationship clearly.
+
+* See what the notes say about it.
+
 Translation Strategies
+----------------------
+
 If possession would be a natural way to show a particular relationship between two nouns, consider using it. If it would be strange or hard to understand, consider these.
 
-Use an adjective to show that one describes the other.
-Use a verb to show how the two are related.
-If one of the nouns refers to an event, translate it as a verb.
+1. Use an adjective to show that one describes the other.
+
+2. Use a verb to show how the two are related.
+
+3. If one of the nouns refers to an event, translate it as a verb.
+
 Examples of Translation Strategies Applied
+--------------------------------------------
+
 1. Use an adjective to show that one describes the other. The adjective below is in bold print.
 
-On their heads were something like crowns of gold (Revelation 9:7)
-"On their heads were gold crowns"
+  On their heads were something like * *crowns of gold* * (Revelation 9:7)
+
+    "On their heads were * **gold** *crowns* *"
+
 2. Use a verb to show how the two are related. In the example below, the added verb is in bold.
 
-Whoever gives you a cup of water to drink … will not lose his reward. (Mark 9:41 ULB)
-"Whoever gives you a cup that has water in it to drink … will not lose his reward.
-Wealth is worthless on the day of wrath (Proverbs 11:4 ULB)
-Wealth is worthless on the day when God shows his wrath"
-Wealth is worthless on the day when God punishes people because of his wrath.
+  Whoever gives you * *a cup of water* * to drink … will not lose his reward. (Mark 9:41 ULB)
+
+    "Whoever gives you * *a cup that* **has** *water in it* * to drink … will not lose his reward.
+
+  Wealth is worthless on * *the day of wrath* * (Proverbs 11:4 ULB)
+  
+  * Wealth is worthless on * *the day when God* **shows** *his wrath* *"
+
+  * Wealth is worthless on * *the day when God* **punishes** *people because of his wrath.* *
+
 3. If one of the nouns refers to an event, translate it as a verb. In the example below, that verb is in bold.
 
-Notice that I am not speaking to your children, who have not known or seen the punishment of Yahweh your God, (Deuteronomy 11:2 ULB)
-"Notice that I am not speaking to your children who have not known or seen how Yahweh your God punished the people of Egypt."
-You will only observe and see the punishment of the wicked. (Psalms 91:8 ULB)
-You will only observe and see the how Yahweh punishes the wicked.
-you will receive the gift of the Holy Spirit. (Acts 2:38 ULB)
-"you will receive the Holy Spirit, whom God will give to you."
+  * Notice that I am not speaking to your children, who have not known or seen* *the punishment of Yahweh your God,* * (Deuteronomy 11:2 ULB)
+
+    "Notice that I am not speaking to your children who have not known or seen * *how Yahweh your God* **punished** *the people of Egypt.* *"
+
+  * You will only observe and see the * *punishment of the wicked.* * (Psalms 91:8 ULB)
+
+    You will only observe and see * *how Yahweh **punishes** the wicked.* *
+
+  * you will receive the * *gift of the Holy Spirit.* * (Acts 2:38 ULB)
+
+    "you will receive the * *Holy Spirit, whom God* **will give** *to you.* *"
