@@ -88,7 +88,7 @@ Complete these steps to use translationStudio for the first time:
 
 1.	If translationStudio is open, skip to step 3. If it is not open, tap the translationStudio icon   on the tablet (this icon may not be on the main screen; you may need to scroll to a different screen to find it.)
  
-2.	Create or login to your account. See translationStudio-Android - Login Options for more information.
+2.	Create or login to your account. See `Login Options`_ for more information.
 
 3.	Read and agree with each of the statements in the Terms of Use by performing the following steps:
 
