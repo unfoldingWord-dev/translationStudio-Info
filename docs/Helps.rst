@@ -113,7 +113,7 @@ Simple definitions of words or phrases are added without quotes or sentence form
 
 **Translation Strategies**
 
-See `Translate Unknowns`_ for more information on translating words or phrases that are not known in your language.
+See `Translate Unknowns <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/TranslateUnkowns.rst>`_ for more information on translating words or phrases that are not known in your language.
 
 Notes that Explain
 ^^^^^^^^^^^^^^^^^^
