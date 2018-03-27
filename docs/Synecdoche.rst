@@ -10,7 +10,7 @@ In order to understand this topic, it would be good to read:
 Synecdoche is when a speaker uses a part of something to refer to the whole or uses the whole to refer to a part.
 
 Description
-===========
+------------
 
 Synecdoche is when a speaker uses a part of something to refer to the whole or uses the whole to refer to a part.
 
