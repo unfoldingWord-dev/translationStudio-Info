@@ -30,7 +30,7 @@ Click General to view or change general settings.
 
 The General settings are as follows:
 
-1. **Gateway Language Mode**: Select this setting if you are working to translate Bible resources into a gateway language. See ref:gateway_setup.
+1. **Gateway Language Mode**: Select this setting if you are working to translate Bible resources into a gateway language. See :ref:`gateway_setup`.
   
 2. **Blind Edit Mode**: Select this setting to enable the Blind Edit view for a text project. See `Blind Edit Mode`_.
 
