@@ -30,7 +30,7 @@ Click General to view or change general settings.
 
 The General settings are as follows:
 
-1. **Gateway Language Mode**: Select this setting if you are working to translate Bible resources into a gateway language. See `How do I set up to work on a Gateway Language translation?`_
+1. **Gateway Language Mode**: Select this setting if you are working to translate Bible resources into a gateway language. See `How do I set up to work on a Gateway Language translation? <https://github.com/unfoldingWord-dev/translationStudio-Info/edit/master/docs/desktop.rst#How do I set up to work on a Gateway Language translation?`_
   
 2. **Blind Edit Mode**: Select this setting to enable the Blind Edit view for a text project. See `Blind Edit Mode`_.
 
