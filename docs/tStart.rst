@@ -83,7 +83,7 @@ After you have selected your target language, the next screen(s) enable you to s
 
 2.	If you choose either the Old or New Testament, you next choose a book for the project.
  
-3.	The new translation project opens showing the Chapter or Story view. If you choose an Open Bible Stories project, it opens to the first paragraph of The Creation
+3.	The new translation project opens showing the Chapter or Story view. If you choose an Open Bible Stories project, it opens to the first paragraph of The Creation.
 
 How do I select or change the source text? 
 -----------------------------------------------------
