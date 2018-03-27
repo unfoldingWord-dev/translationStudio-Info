@@ -8,6 +8,14 @@ tS for Android™: Starting a Translation Project
     :height: 245px
     :alt: translationStudio for Android
 
+How do I select what to work on?
+--------------------------------
+
+We recommend that you begin by translating Open Bible Stories. You can work your way through the Stories however you want, but we have found that Story #31 (see https://door43.org/en/obs/31) is a good first story to translate since it is short and easy to understand. For more information read `Choosing What to Translate <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ChoosingWhatToTranslate.rst>`_.
+
+What is a translation project?
+------------------------------
+
 The definition of a translation project consists of:
 
 1. Spedifying the **target language** - the language *into which* you will be translating
