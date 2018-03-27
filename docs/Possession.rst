@@ -54,7 +54,7 @@ Examples from the Bible
 
 **Ownership** - In the example below, the son owned the money.
 
-  *… the younger son … wasted* **his money** *with wildly extravagant living.* (Luke 15:13)
+  … the younger son … wasted* *his money* *with wildly extravagant living. (Luke 15:13)
 
 **Social Relationship** - In the example below, the disciples were people who learned from John.
 
