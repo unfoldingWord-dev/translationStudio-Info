@@ -13,7 +13,7 @@ The translationStudio for the Desktop program enables translators to do offline 
 
 * For Gateway language translators to translate Bible resources from English to a gateway language
 
-The program contains the content that needs to be translated as well as translationHelps (See: How to Use the translationHelps in translationStudio). You can share information directly from device to device, and you can upload finished content to Door43 where it can be digitally published.
+The program contains the content that needs to be translated as well as translationHelps (See: `Using the translationHelps (Resources) <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Helps.rst>`_). You can share information directly from device to device, and you can upload finished content to Door43 where it can be digitally published.
 
 Installation
 -------------
