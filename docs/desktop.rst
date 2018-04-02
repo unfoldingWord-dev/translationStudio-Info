@@ -152,8 +152,24 @@ Note: At any time you can view the License Agreement, Statement of Faith, Transl
 
 4.	The program opens to the *Your Translation Projects* screen (which is the home screen). The first time you use the program you have no existing projects, so the home screen displays a welcome message.
 
-How do I set up to work on a Gateway Language translation?
-----------------------------------------------------------
+Setup Steps
+-----------
+
+How do I set up to translate the Bible or Open Bible Stories?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+If you are using translationStudio to translate the Bible or Open Bible Stories, you need to enable Blind Edit Mode. You can enable Blind Edit Mode at any time for existing projects or for new projects that are doing this type of translation.
+
+To enable Blind Edit Mode, perform the following steps:
+
+1.	Click the three dots at the lower left of the window to open the Options menu and select Settings. 
+ 
+2.	Select the checkbox next to Blind Edit Mode to enable it.
+ 
+3.	In the breadcrumbs at the top left of the screen, click Home to return to the home screen. 
+
+How do I set up to translate Bible resources?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 If you are using translationStudio to translate Bible resources (translationNotes , translationQuestions, or translationWords) from English into a Gateway language, there is a setup step that you need to perform prior to starting a project.
 
