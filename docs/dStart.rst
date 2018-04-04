@@ -88,7 +88,7 @@ To designate what to work on for this project, complete the following steps:
  
       * If you are in Gateway Language Mode, you then also must select the type of translation – will you be translating text of either the ULB or UDB, or will you be translating Notes or Questions? (If translating Notes or Questions, you must first create a text project for the same target language/Bible book and then create a project for Notes or Questions.)
 
-  *	If you chose Other, you next choose to translate either Open Bible Stories, translationWords (these are from the Bible), or translationWords OBS (these are from Open Bible Stories). The last two types are available only in Gateway Language Mode (See *How do I set up to translate Bible resources?* in `translationStudio for the Desktop `<https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/desktop.rst>`_.)
+  *	If you chose Other, you next choose to translate either Open Bible Stories, translationWords (these are from the Bible), or translationWords OBS (these are from Open Bible Stories). The last two types are available only in Gateway Language Mode (See *How do I set up to translate Bible resources?* in `translationStudio for the Desktop <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/desktop.rst>`_.)
 
 How do I select or change the source text? 
 -----------------------------------------------------
