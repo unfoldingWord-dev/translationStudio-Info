@@ -1,4 +1,4 @@
-tS for Android™: Performing Navigation 
+tS for Desktop: Performing Navigation 
 ========================================
 
 .. image:: ../images/tSforDesktop.gif
