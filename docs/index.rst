@@ -23,8 +23,8 @@ Contents:
    desktop
    dStart
    dNavigate
+   dTranslate
    dUpload
-   dHelps
    dSettings
    Helps
    Choosing
