@@ -164,7 +164,7 @@ To enable Blind Edit Mode, perform the following steps:
 
 1.	Click the three dots at the lower left of the window to open the Options menu and select Settings. 
  
-2.	Select the checkbox next to Blind Edit Mode to enable it.
+2.	In the Settings window select the checkbox next to Blind Edit Mode to enable it.
  
 3.	In the breadcrumbs at the top left of the screen, click Home to return to the home screen. 
 
@@ -179,7 +179,7 @@ To use Gateway Language Mode for new projects, perform the following steps:
 
 1.	Click the three dots at the lower left of the window to open the Options menu and select Settings. 
  
-2.	Select the checkbox next to Gateway Language Mode to enable it.
+2.	In the Settings window select the checkbox next to Gateway Language Mode to enable it.
  
 3.	In the breadcrumbs at the top left of the screen, click Home to return to the home screen.
  
