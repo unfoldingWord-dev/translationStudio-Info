@@ -2,7 +2,7 @@ tS for Android™: Starting a Translation Project
 =================================================
 
 
-.. image:: ../images/tSForDesktop.gif
+.. image:: ../images/tSforDesktop.gif
     :width: 305px
     :align: center
     :height: 245px
