@@ -1,4 +1,4 @@
-tS for Android™: Starting a Translation Project 
+tS for Desktop: Starting a Translation Project 
 =================================================
 
 
