@@ -18,7 +18,7 @@ How do I start a translation project?
 
 The definition of a translation project consists of:
 
-1. Spedifying the **target language** - the language *into which* you will be translating
+1. Specifying the **target language** - the language *into which* you will be translating
 
 2. Selecting a **project category** - *what* you will be translating, such as Open Bible Stories or a book of the Bible
 
