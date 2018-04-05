@@ -22,6 +22,7 @@ Columns
 **HINT**: You might want to move the rows of cards so that the row being worked on is placed at the top of the window.
  
 To work in the 3rd column:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1.      To create a new card - click the plus sign located on the top bar on the right side. Notice that the first card can be created by clicking on the plus sign in the middle of the gray space in the row.
 
@@ -49,27 +50,27 @@ The information about the scripture quote (words in black font) are translated o
 Process:
 ^^^^^^^^^
 
-Click on the ‘Notes’ (default view) tab in the 4th column.
+1. Click on the ‘Notes’ (default view) tab in the 4th column.
 
-Click the plus sign in the 3rd column to create a new card.
+2. Click the plus sign in the 3rd column to create a new card.
 
-Choose a note to translate:
+3. Choose a note to translate:
 
-Note that the words in blue (snippet) that you are looking at should be a direct quote from the English ULB.
+  * Note that the words in blue (snippet) that you are looking at should be a direct quote from the English ULB.
 
-Find the corresponding section of text in the Gateway Language ULB text (in the 2nd column).
+  * Find the corresponding section of text in the Gateway Language ULB text (in the 2nd column).
 
-Select the words, copy and paste in the space above the thin red line - over the words ‘reference text.’ (Copy and paste by using key strokes or by clicking and dragging.)
+  ( Select the words, copy and paste in the space above the thin red line - over the words ‘reference text.’ (Copy and paste by using key strokes or by clicking and dragging.)
 
-Click on the note (blue words) to see the helpful information on how to translate the text
+4. Click on the note (blue words) to see the helpful information on how to translate the text
 
-Translate the note content on the 3rd column card under the thin red line.
+5. Translate the note content on the 3rd column card under the thin red line.
 
-If there is a parenthesis (a Translation Academy link), copy and paste the entire parenthesis at the end of the translation on the card.
+6. If there is a parenthesis (a Translation Academy link), copy and paste the entire parenthesis at the end of the translation on the card.
 
-You may translate only the word ‘see’ that is inside the parenthesis.
+  * You may translate only the word ‘see’ that is inside the parenthesis.
 
-Leave all the other words or characters in English.
+  * Leave all the other words or characters in English.
  
 **HINT**: for chunks/rows that have a long list of notes or questions - you might want to start at the bottom note or question and work upwards on the list. Each new notecard will need to be moved up above the previous card. This process will keep the source text, English note content and the translated work on the same horizontal plane.
  
@@ -93,9 +94,10 @@ For the same reason, sometimes you will realize that the Other Language translat
 Remember that speakers of many different languages will be using these Gateway Language translationNotes to help them translate the Bible. There will be many things that you will understand about the Bible in the Gateway Language that the OL translator may not understand. For that reason, if you think that there is something difficult to understand in the GL ULB, write a translationNote that can help the OL translator to understand it. There will probably be many Other Language translators who will benefit from reading the translationNote and who will make a better translation because of it.
 
 Formatting the translated Notes:
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------------
 
-&&How to work with links in the notes:**
+How to work with links in the notes:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 There are two types of links in the translationNotes: links to a translationAcademy topic page and links for repeated words or phrases within the same book.
 
@@ -111,7 +113,8 @@ Sometimes a phrase is used multiple times in one book. When this happens, there 
 
 It is important to copy and paste the parenthesis and the information inside of the parenthesis to the note card in column 3. To do this, highlight the entire parenthesis and left-click-hold-drag it to the card. 
 
-**Formatting the reference text (the snippet):**
+Formatting the reference text (the snippet):
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The reference text should be the exact same text as displayed in the Gateway Language translation note. Occasionally the snippet in the English notes will have ellipsis (three dots) between words or phrases. There are several reasons for this:
 
@@ -119,29 +122,29 @@ The reference text should be the exact same text as displayed in the Gateway Lan
 
     The text states:
 
-      The clans of the Libnites and the Shimeites come from Gershon. These are the clans of the Gershonites.
+    *The clans of the Libnites and the Shimeites come from Gershon. These are the clans of the Gershonites.*
 
-      The note has information only about the names in the passage so states:
+    The note has information only about the names in the passage so states:
 
-        Libnites ... Shimeites ... Gershonites - "Libnites" and "Shimeites" are the name of clans, named after the head of their family. The "Gershonites" is the name of people who descended from Gershon. (See: How to Translate Names)
+      **Libnites ... Shimeites ... Gershonites** - "Libnites" and "Shimeites" are the name of clans, named after the head of their family. The "Gershonites" is the name of people who descended from Gershon. (See: How to Translate Names)
 
     The text states:
 
-      God put all things under Christ's feet and gave him to the church as head over all things. The church is his body, the fullness of him who fills all in all.
+    * God put all things under Christ's feet and gave him to the church as head over all things. The church is his body, the fullness of him who fills all in all.*
 
-  The note has information only about the head and body so states:
+    The note has information only about the head and body so states:
 
-    head ... his body - Just as with a human body, the head rules all things pertaining to its body, so Christ is the head of the church body. (See: Metaphor)
+      **head ... his body** - Just as with a human body, the head rules all things pertaining to its body, so Christ is the head of the church body. (See: Metaphor)
 
 2. The snippet could be very long so the words in the middle are removed.
 
   The text states:
  
-    Paul, an apostle of Christ Jesus through the will of God, to God's holy people in Ephesus
+    *Paul, an apostle of Christ Jesus through the will of God, to God's holy people in Ephesus*
 
   The note states:
 
-    Paul, an apostle ... to God's holy people in Ephesus - Your language may have a particular way of introducing the author of a letter and its intended audience. AT: "I, Paul, an apostle ... write this letter to you, God's holy people in Ephesus" 
+    **Paul, an apostle ... to God's holy people in Ephesus** - Your language may have a particular way of introducing the author of a letter and its intended audience. AT: "I, Paul, an apostle ... write this letter to you, God's holy people in Ephesus" 
 
-How to format snippets with ellipsis: You, the Gateway Language translator, should understand the purpose of the ellipsis and then decide to format the snippet accordingly. If you prefer to not make the decision on what text to omit, then keep all the text in the snippet.
+**How to format snippets with ellipsis**: You, the Gateway Language translator, should understand the purpose of the ellipsis and then decide to format the snippet accordingly. If you prefer to not make the decision on what text to omit, then keep all the text in the snippet.
 
