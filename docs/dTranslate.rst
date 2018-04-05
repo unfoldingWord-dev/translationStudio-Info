@@ -62,7 +62,7 @@ Translate
 
 When you use translationStudio, your work is saved automatically every five minutes.
 
-Chack and Edit Translated Text
+Check and Edit Translated Text
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Use the Edit-Review view to edit existing work that you or another translator created. To enter the Edit-Review view, click the Edit-Review view icon, which looks like 3 vertical lines, at the left of the page.
