@@ -107,6 +107,8 @@ See `Translating translationNotes for Gateway Languages Using translationStudio 
 Translating translationWords
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+See `Translating translationWords for Gateway Languages Using translationStudio – Desktop v11.1 <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/translationWords.rst>`_
+
 Translating translationQuestions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
