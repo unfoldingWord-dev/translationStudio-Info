@@ -1,6 +1,8 @@
 Translating translationNotes for Gateway Languages Using translationStudio – Desktop v11.1
 ==========================================================================================
 
+**NOTE**: These instructions assume that the Bible ULB project has been previously set-up and that the Gateway Language check box is checked in Settings.
+
 Workspace
 ------------
 
