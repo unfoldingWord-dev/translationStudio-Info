@@ -6,6 +6,25 @@ Workspace
 
 The white square or rectangle boxes are known as cards. Each of the cards in a row contains the information pertaining to the same chunk, or part of, the chapter.
 
+Navigation
+^^^^^^^^^^^^
+
+On the left in the green bar are the navigation tools. Here is the action when each is used:
+
+* Top up-arrow against line –  go to the beginning of the book
+
+* Open up-arrow (chevron) – back one chapter in the book (the navigation is up or before in the book)
+
+* Closed up-arrow – back one chunk in the book (or before in the book than the top chunk shown)
+
+* White box – type in the chapter number, press enter, to go directly to that chapter.
+
+* Closed down-arrow – forward one chunk in the book (or after in the book than the top chunk shown)
+
+* Open down-arrow (chevron) – forward one chapter in the book (the navigation is down or later in the book)
+
+* Top down-arrow against line – go to the end of the book
+
 Columns
 ^^^^^^^
 
@@ -19,7 +38,7 @@ Columns
  
 **HINT**: You might want to arrange the window so that the right 2 columns are visible at the same time.
 
-**HINT**: You might want to move the rows of cards so that the row being worked on is placed at the top of the window.
+**HINT**: You might want to scroll the rows of cards so that the row being worked on is placed at the top of the window.
  
 To work in the 3rd column:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
