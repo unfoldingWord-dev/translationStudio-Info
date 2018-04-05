@@ -1,5 +1,5 @@
-Translating translationNotes
-============================
+Translating translationNotes for Gateway Languages Using translationStudio – Desktop v11.1
+==========================================================================================
 
 Workspace
 ------------
