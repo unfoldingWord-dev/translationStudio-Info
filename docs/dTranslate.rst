@@ -102,6 +102,8 @@ If you are translating resources (translationNotes, translationWords, or transla
 Translating translationNotes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+See `Translating translationNotes <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/translationNotes.rst>`_
+
 Translating translationWords
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
