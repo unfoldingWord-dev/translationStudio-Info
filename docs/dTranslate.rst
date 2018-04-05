@@ -102,7 +102,7 @@ If you are translating resources (translationNotes, translationWords, or transla
 Translating translationNotes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-See `Translating translationNotes <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/translationNotes.rst>`_
+See `Translating translationNotes for Gateway Languages Using translationStudio – Desktop v11.1 <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/translationNotes.rst>`_
 
 Translating translationWords
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
