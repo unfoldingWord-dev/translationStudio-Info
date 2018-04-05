@@ -42,6 +42,7 @@ Translate
 5.	Verbally retell what you have read to another person, preferably using the target language.
 
 6.	When you are ready to begin translating, click the Blind Edit icon.
+
 **Note**: This icon is available only if you are using Blind Edit Mode.
 
 7.	The Blind Edit view appears and displays the text divided into chunks, which are sections that you should be able to retell without looking. Read a chunk over until you can remember what it says. 
@@ -54,7 +55,7 @@ Translate
  
   *	Write everything that you remember about that chunk. 
 
-*	Do not look back at the source text for this chunk until you begin the editing steps. 
+  *	Do not look back at the source text for this chunk until you begin the editing steps. 
 
 10.	When you are finished working, navigate to the next chunk.
 
