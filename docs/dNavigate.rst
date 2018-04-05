@@ -124,7 +124,7 @@ The Slider icon is a quick way to move through a story or book of the Bible.
 * Numbers may appear on the line that represent the chapter of the book at that location of the slider.
    
 Resources
-^^^^^^^^^
+---------
 
 **Note**: Currently the resources are attached to the English ULB, so they are available in translationStudio only when the English ULB is used as the souce text.
 
@@ -134,15 +134,24 @@ The Resources pane is divided into four tabs: Notes, Words, Questions, and UDB. 
 
 If there are no existing resources for a particular chunk, the resources pane is blank. If there are no resources of one of the types, then that tab does not exist on the resources pane. For example, if there are no Words for a chunk, then you would see only the Notes and Questions tabs on the Resources pane for that chunk.
 
-Click the **Notes tab** for the translationNotes.
+translationNotes
+^^^^^^^^^^^^^^^^
+
+Click the Notes tab for the translationNotes.
   
 The words or phrases are listed as they appear in the story or in the ULB. Click the phrase for help in understanding how to translate into the target language. See Using the translationNotes for more information.
 
-Click the **Words tab** for the translationWords. 
+translationWords
+^^^^^^^^^^^^^^^^
+
+Click the Words tab for the translationWords. 
   
 The words are listed as they appear in the story on in the ULB. Click the word or phrase for help in understanding how to translate the word into the target language.
 
-Click the **Questions tab** for the translationQuestions. 
+translationQuestions
+^^^^^^^^^^^^^^^^^^^^
+
+Click the Questions tab for the translationQuestions. 
  
 The questions are about information as it appears in the story on in the ULB. Read the question and answer it according to the translated text. Click the question for the expected answer. If the given answer and the expected answer are the same then the translation might be clear and accurate.
  
