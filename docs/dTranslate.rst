@@ -1,4 +1,4 @@
-tS for Android™: Performing Translation 
+tS for Desktop: Performing Translation 
 ==========================================================
 
 .. image:: ../images/tSforDesktop.gif
