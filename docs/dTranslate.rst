@@ -112,7 +112,7 @@ See `Translating translationWords for Gateway Languages Using translationStudio 
 Translating translationQuestions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-See ~Translating translationQuestions for Gateway Languages Using translationStudio – Desktop v11.1 <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/translationQuestions.rst>`_
+See `Translating translationQuestions for Gateway Languages Using translationStudio – Desktop v11.1 <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/translationQuestions.rst>`_
 
 Recover Deleted Translation Text
 --------------------------------
