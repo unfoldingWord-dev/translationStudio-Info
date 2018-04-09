@@ -1,7 +1,7 @@
-Translating translationQuestions for
-Gateway Languages Using translationStudio – Desktop v11.1
+Translating translationQuestions for Gateway Languages Using translationStudio – Desktop v11.1
+===============================================================================================
 
-NOTE: These instructions assume that the Bible ULB text project and the Bible ULB Questions project have been previously set-up and that the Gateway Language check box is checked in Settings.
+**NOTE**: These instructions assume that the Bible ULB text project and the Bible ULB Questions project have been previously set-up and that the Gateway Language check box is checked in Settings.
 
 Workspace
 ---------
