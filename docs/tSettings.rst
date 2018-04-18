@@ -32,7 +32,7 @@ The General settings are as follows:
 
 1.	**Device name**
 
-  * Naming the tablet is helpful when sharing with a friend. See `Uploading or Exporting Your Work <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/tUpload.rst>`_ for more information.
+  * Naming the tablet is helpful when sharing with a friend. See `Uploading or Exporting Your Work <http://ts-info.readthedocs.io/en/latest/tUpload.html>`_ for more information.
   
   * Tap **Device name** to name the tablet. A pop-up window opens where you can enter a name for your tablet. 
   
