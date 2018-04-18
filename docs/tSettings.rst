@@ -10,6 +10,7 @@ tS for Android™: Modifying Program Settings
     :alt: translationStudio for Android
 
 There are several settings for the translationStudio app that you can view or modify. To open the settings window, tap the 3-dot icon at the bottom left (or right) of the screen and tap Settings on the menu.
+
 Tap the Back Arrow at the top left of the screen to exit the settings window.
 
 The Settings window enables personalization of the program. It also displays useful information. Settings are divided into four categories:
@@ -31,7 +32,7 @@ The General settings are as follows:
 
 1.	**Device name**
 
-  * Naming the tablet is helpful when sharing with a friend. See Backup and Share Your Work for more information.
+  * Naming the tablet is helpful when sharing with a friend. See `Uploading or Exporting Your Work <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/tUpload.rst>`_ for more information.
   
   * Tap **Device name** to name the tablet. A pop-up window opens where you can enter a name for your tablet. 
   
