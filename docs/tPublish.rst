@@ -1,7 +1,7 @@
 tS for Desktop: Publish Content 
 ==========================================================
 
-.. image:: ../images/tSForAndroid.gif
+.. image:: ../images/tSForAndroidWithAttr.gif
     :width: 305px
     :align: center
     :height: 245px
