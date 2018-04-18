@@ -48,13 +48,13 @@ You can use translationStudio to ensure that the project is complete and that al
 
 2.	Click the 3-dot icon to access the options menu.
 
-3.	Tap Project Review (the double check marks icon).
+3.	Click Project Review (the double check marks icon).
 
     *	Click the Project tab -- Review sections of the book for final review. 
 
       1.	We suggest that you review any chunk that has a review button. These are chunks that are not marked done.
 
-      2.	Tap the Review button to finish translating, or set the verse markers and then slide the 'done' toggle.
+      2.	Click the Review button to finish translating, or set the verse markers and then slide the 'done' toggle.
 
     *	Click the Contributors tab -- This is where you enter who translated the work. Remember that the names will be publicly available.
 
@@ -67,7 +67,7 @@ You can use translationStudio to ensure that the project is complete and that al
       4. When you have finished adding contributors, click Next to continue.
 
 
-    •	When you either tap Next in the step above, or tap the Upload/Export tab, you are presented with Upload/Export Options. 
+    •	When you either click Next in the step above, or click the Upload/Export tab, you are presented with Upload/Export Options. 
 
       1.	Select Upload to Door43 (requires an Internet connection). 
 
