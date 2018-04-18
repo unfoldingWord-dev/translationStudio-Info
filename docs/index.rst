@@ -20,12 +20,14 @@ Contents:
    tNavigate
    tTranslate
    tUpload
+   tPublish
    tSettings
    desktop
    dStart
    dNavigate
    dTranslate
    dUpload
+   dPublish
    dSettings
    Helps
    Choosing
