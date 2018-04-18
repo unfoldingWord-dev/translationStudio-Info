@@ -60,7 +60,7 @@ You can use translationStudio to ensure that the project is complete and that al
 
       1.	Click the Name or Pseudonym line and enter a contributor’s name. 
  
-      2.	ii)	Click the check box to indicate that this person has agreed to the terms of use.
+      2.	Click the check box to indicate that this person has agreed to the terms of use.
       
       3.  Click Add Contributor to add the translator.
  
