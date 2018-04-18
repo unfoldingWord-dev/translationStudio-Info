@@ -105,7 +105,7 @@ If you are not in blind edit mode, there are two views for a text project:
 
 **Blind Edit Mode**
 
-To use Blind Edit Mode, see *How do I set up to translate the Bible or Open Bible Stories?* in `translationStudio for the Desktop <ts-info.readthedocs.io/en/latest/desktop.html>`_
+To use Blind Edit Mode, see *How do I set up to translate the Bible or Open Bible Stories?* in `translationStudio for the Desktop <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/desktop.rst>`_
 
 If you change the settings to Blind Edit Mode, a third view is available for text projects. You access this Blind Edit view by clicking the icon that looks like two sheets of paper. 
 
