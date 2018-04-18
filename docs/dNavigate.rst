@@ -105,7 +105,7 @@ If you are not in blind edit mode, there are two views for a text project:
 
 **Blind Edit Mode**
 
-To use Blind Edit Mode, see *How do I set up to translate the Bible or Open Bible Stories?* in `translationStudio for the Desktop <ts-info.readthedocs.io/en/latest/desktop.rst>`_
+To use Blind Edit Mode, see *How do I set up to translate the Bible or Open Bible Stories?* in `translationStudio for the Desktop <ts-info.readthedocs.io/en/latest/desktop.html>`_
 
 If you change the settings to Blind Edit Mode, a third view is available for text projects. You access this Blind Edit view by clicking the icon that looks like two sheets of paper. 
 
@@ -177,7 +177,7 @@ Tap the three dots icon at the bottom left (or right) of the screen to open the 
    
   * **Log Out**: Log out of the app so you can log in as a different user
    
-  * **Settings**: Adjust translationStudio settings; view license agreement, statement of faith, or translation guidelines  (See `Settings <ts-info.readthedocs.io/en/latest/tSettings.rst>`_)
+  * **Settings**: Adjust translationStudio settings; view license agreement, statement of faith, or translation guidelines  (See `Settings <ts-info.readthedocs.io/en/latest/tSettings.html>`_)
 
 * On the Project screen the options menu includes: 
 
