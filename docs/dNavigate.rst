@@ -73,10 +73,15 @@ A Questions project has the same four panes as a Notes project, except that the 
  
 
 To translate the questions:
+
 1.	You first click the Questions tab in the Resources pane at the far right to see the questions. 
+
 2.	You click each question to see the question and answer. 
+
 3.	Then in the Working pane you click the plus sign to add a notecard for the question. 
+
 4.	You translate the question above the red line and the answer below the red line. 
+
 5.	For each chunk that has questions, create a notecard for each question and translate each question.
        
 
