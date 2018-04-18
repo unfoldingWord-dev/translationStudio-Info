@@ -1,4 +1,4 @@
-tS for Desktop: Publish Content 
+tS for Android™: Publish Content 
 ==========================================================
 
 .. image:: ../images/tSForAndroidWithAttr.gif
