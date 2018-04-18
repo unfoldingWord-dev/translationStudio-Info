@@ -60,10 +60,11 @@ You can use translationStudio to ensure that the project is complete and that al
 
       1.	Click the Name or Pseudonym line and enter a contributor’s name. 
  
-      2.	i)	Click the Name or Pseudonym line and enter a contributor’s name. 
-ii)	Click the Name or Pseudonym line and enter a contributor’s name. Click Add Contributor to add the translator.
+      2.	ii)	Click the check box to indicate that this person has agreed to the terms of use.
+      
+      3.  Click Add Contributor to add the translator.
  
-iii)	When you have finished adding contributors, click the Next to continue.
+      4. When you have finished adding contributors, click Next to continue.
 
 
     •	When you either tap Next in the step above, or tap the Upload/Export tab, you are presented with Upload/Export Options. 
@@ -72,7 +73,7 @@ iii)	When you have finished adding contributors, click the Next to continue.
 
       2.	A pop-up message appears after a successful upload. This pop-up message includes the repository that the translation is in on the Door43 server. 
 
-      3.	Tap the link to view the repository.
+      3.	Click the link to view the repository.
 
 Source Text Request Form
 ^^^^^^^^^^^^^^^^^^^^^^^^
