@@ -10,8 +10,10 @@ tS for Desktop: Publish Content
 Self-Publishing
 ---------------
 
-When you upload your work to Door43 it is automatically available online under your user account. This is referred to as self-publishing. You can upload to Door43 as often as you wish to create a backup of your work. (See Backup and Share Your Work.) 
+When you upload your work to Door43 it is automatically available online under your user account. This is referred to as self-publishing. You can upload to Door43 as often as you wish to create a backup of your work. (See `Upload/Expoprt Your Work <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/dUpload.rst>`_.) 
+
 You can access a web version of your project at http://door43.org/u/user_name/project_name (where user_name is your user name and project_name is your translation project). The translationStudio app gives you the correct link when you upload. You can also browse all works on http://door43.org.
+
 From your Door43 project page you can:
 
 *	See the web version of your project with default formatting
