@@ -46,31 +46,25 @@ You can use translationStudio to ensure that the project is complete and that al
 
 1.	In translationStudio, load your project.
 
-2.	Tap the 3-dot icon    to access the options menu.
+2.	Click the 3-dot icon to access the options menu.
 
 3.	Tap Project Review (the double check marks icon).
 
-    *	Tap the Project tab -- Review sections of the book for final review. 
+    *	Click the Project tab -- Review sections of the book for final review. 
 
       1.	We suggest that you review any chunk that has a review button. These are chunks that are not marked done.
 
       2.	Tap the Review button to finish translating, or set the verse markers and then slide the 'done' toggle.
 
-    •	Tap the Contributors tab -- This is where you enter who translated the work. Remember that the names will be publicly available.
+    *	Click the Contributors tab -- This is where you enter who translated the work. Remember that the names will be publicly available.
 
-      1.	Tap Add Contributor.
+      1.	Click the Name or Pseudonym line and enter a contributor’s name. 
  
-      2.	In the Add Contributor pop-up window:
-
-        *	Tap the Name or Pseudonym line and enter the contributor’s name or pseudonym.
-
-        *	Tap the check box to indicate that this person has agreed to the terms of use.
-        
-        *	Tap Save to add the translator.
+      2.	i)	Click the Name or Pseudonym line and enter a contributor’s name. 
+ii)	Click the Name or Pseudonym line and enter a contributor’s name. Click Add Contributor to add the translator.
  
-      3.	Repeat steps 1 and 2 above for each contributor you want to add. 
+iii)	When you have finished adding contributors, click the Next to continue.
 
-      4.	When you have finished adding contributors, tap Next to continue, or tap the Upload/Export tab.
 
     •	When you either tap Next in the step above, or tap the Upload/Export tab, you are presented with Upload/Export Options. 
 
