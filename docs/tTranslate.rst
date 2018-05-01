@@ -64,7 +64,7 @@ Check and Edit Translated Text
 
 When you use translationStudio, you can create and change text. Your work is saved automatically every five minutes.
 
-Chack and Edit Translated Text
+Check and Edit Translated Text
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Use the Check view to edit existing work that you or another translator created. 
