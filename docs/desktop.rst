@@ -1,5 +1,5 @@
-translationStudio for the Desktop
-=================================================
+translationStudio for the Desktop: Getting Started
+====================================================
 
 .. image:: ../images/tSforDesktop.gif
     :width: 205px
