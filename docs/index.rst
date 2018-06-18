@@ -31,5 +31,6 @@ Contents:
    dSettings
    Helps
    Choosing
+   Appendix
 
 
