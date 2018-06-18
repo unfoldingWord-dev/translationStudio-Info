@@ -29,7 +29,7 @@ Sign up for the playlist from the YouTube channel! Go here: (https://www.youtube
 Power Point Presentations (with PDFs)
 ----
 
-**Installing translationRecorder 1.2.4** - 
+**Installing translationStudio for Android** - 
  * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Installing_v1.2.4.pptx) 
  * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Installing_v1.2.4.pdf)
 
