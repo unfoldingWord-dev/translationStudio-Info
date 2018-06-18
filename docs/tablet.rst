@@ -1,5 +1,5 @@
-translationStudio for Android™ 
-================================
+translationStudio for Android™: Getting Started
+===============================================
 
 .. image:: ../images/tSForAndroidWithAttr.gif
     :width: 305px
