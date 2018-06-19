@@ -28,7 +28,9 @@ Sign up for the playlist from the YouTube channel! Go here: (https://www.youtube
 
 Power Point Presentations (with PDFs)
 -------------------------------------
+
 **For the Power Point Presentations, click** *Download*
+
 +------------+--------------+-------------+
 |            | For Android  | For Desktop |
 +============+============+===============+
