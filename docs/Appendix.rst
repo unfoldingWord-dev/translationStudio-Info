@@ -31,17 +31,17 @@ Power Point Presentations (with PDFs)
 
 **For the Power Point Presentations, click** *Download*
 
-+------------+--------------+-------------+
-|            | For Android  | For Desktop |
-+============+============+===============+
-| Getting Started | column 2   | column 3  |
-+------------+------------+-----------+
-| body row 2 | Cells may span columns.|
-+------------+------------+-----------+
-| body row 3 | Cells may  | - Cells   |
-+------------+ span rows. | - contain |
-| body row 4 |            | - blocks. |
-+------------+------------+-----------+
++-----------------+--------------+-------------+
+|                 | For Android  | For Desktop |
++============+============+====================+
+| Getting Started | column 2     | column 3    |
++-----------------+--------------+-------------+
+| body row 2      | Cells may span columns.    |
++-----------------+--------------+-------------+
+| body row 3      | Cells may    | - Cells     |
++-----------------+ span rows.   | - contain   |
+| body row 4      |              | - blocks.   |
++-----------------+--------------+-------------+
 
 **Getting Started with translationStudio**
 
