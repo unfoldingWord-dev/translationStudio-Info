@@ -65,9 +65,14 @@ Power Point Presentations (with PDFs)
   
 .. *For Desktop*
 
-.. **Editing Oral Language Recordings 1.2.4**
-..  * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Editing_Recording-Oral_Language%20v1.2.4.pptx)
-..  * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Editing_Recording-Oral_Language%20v1.2.4.pdf)
+**Modifying Program Settings**
+
+*For Android*
+
+ * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ChangeSettings.pptx>`_- (**Click** *Download*) 
+ * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ChangeSettings.pdf>`_
+
+.. *For Desktop*
 
 .. **Editing Audio Recordings 1.2.4** 
 ..  * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Editing_Recording-Audio_Recording_v1.2.4.pptx)
