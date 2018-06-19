@@ -31,25 +31,12 @@ Power Point Presentations (with PDFs)
 
 **For the Power Point Presentations, click** *Download*
 
-.. htmlonly:: Powerpoints and PDFs
-+-----------------+--------------+-------------+
-|  Doc Type       | For Android  | For Desktop |
-+============+============+====================+
-| Getting Started | column 2     | column 3    |
-+-----------------+--------------+-------------+
-| body row 2      | Cells may span columns.    |
-+-----------------+--------------+-------------+
-| body row 3      | Cells may    | - Cells     |
-+-----------------+ span rows.   | - contain   |
-| body row 4      |              | - blocks.   |
-+-----------------+--------------+-------------+
-
 **Getting Started with translationStudio**
 
 *For Android*
 
- * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/GetStarted.pptx) 
- * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/GetStarted.pdf)
+ * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/GetStarted.pptx>`_- (use the 'download' button to download from here) 
+ * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/GetStarted.pdf>`_
 
 *For Desktop*
 
@@ -57,7 +44,7 @@ Power Point Presentations (with PDFs)
 
 *For Android*
 
- * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Starting_a_New_Project%20v1.2.4.pptx) 
+ * `Power Point <https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Starting_a_New_Project%20v1.2.4.pptx>`_- use the 'download' button to download from here: () 
  * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Starting_a_New_Project%20v1.2.4.pdf)
  
 *For Desktop*
