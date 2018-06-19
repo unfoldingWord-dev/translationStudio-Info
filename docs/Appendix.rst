@@ -38,39 +38,39 @@ Power Point Presentations (with PDFs)
  * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/GetStarted.pptx>`_- (**Click** *Download*) 
  * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/GetStarted.pdf>`_
 
-*For Desktop*
+.. *For Desktop*
 
-**Starting a New Project**
+.. **Starting a New Project**
 
-*For Android*
+.. *For Android*
 
- * `Power Point <https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Starting_a_New_Project%20v1.2.4.pptx>`_- use the 'download' button to download from here: () 
- * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Starting_a_New_Project%20v1.2.4.pdf)
+..  * `Power Point <https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Starting_a_New_Project%20v1.2.4.pptx>`_- use the 'download' button to download from here: () 
+..  * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Starting_a_New_Project%20v1.2.4.pdf)
  
-*For Desktop*
+.. *For Desktop*
 
-**Performing Navigation**
+.. **Performing Navigation**
 
-*For Android*
+.. *For Android*
 
- * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Recording_from_PM-Oral_Languages_%20v1.2.4.pptx)
+..  * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Recording_from_PM-Oral_Languages_%20v1.2.4.pptx)
  * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Recording_from_PM-Oral_Languages_%20v1.2.4.pdf)
  
-*For Desktop*
+.. *For Desktop*
 
-**Performing Translation**
+.. **Performing Translation**
 
-*For Android*
+.. *For Android*
 
-* Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Recording_from_PM-Audio_Recordings_%20v1.2.4.pptx)
- * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Recording_from_PM-Audio_Recordings_%20v1.2.4.pdf)
+.. * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Recording_from_PM-Audio_Recordings_%20v1.2.4.pptx)
+..  * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Recording_from_PM-Audio_Recordings_%20v1.2.4.pdf)
   
-*For Desktop*
+.. *For Desktop*
 
-**Editing Oral Language Recordings 1.2.4**
- * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Editing_Recording-Oral_Language%20v1.2.4.pptx)
- * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Editing_Recording-Oral_Language%20v1.2.4.pdf)
+.. **Editing Oral Language Recordings 1.2.4**
+..  * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Editing_Recording-Oral_Language%20v1.2.4.pptx)
+..  * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Editing_Recording-Oral_Language%20v1.2.4.pdf)
 
-**Editing Audio Recordings 1.2.4** 
- * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Editing_Recording-Audio_Recording_v1.2.4.pptx)
- * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Editing_Recording-Audio_Recording_v1.2.4.pdf)
+.. **Editing Audio Recordings 1.2.4** 
+..  * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Editing_Recording-Audio_Recording_v1.2.4.pptx)
+..  * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Editing_Recording-Audio_Recording_v1.2.4.pdf)
