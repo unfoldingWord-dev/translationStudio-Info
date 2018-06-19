@@ -1,23 +1,23 @@
 Appendices
 =====
 
-Translator Handouts
+.. Translator Handouts
 -----
-Use these files to give to the oral-only translators. They might help them remember the steps.
+.. Use these files to give to the oral-only translators. They might help them remember the steps.
 
-**tR Recording Process from the Project Manager** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/RecordingProcess_ProjectManager_MTT.pdf)
+.. **tR Recording Process from the Project Manager** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/RecordingProcess_ProjectManager_MTT.pdf)
 
-**tR Recording Process from the Recording Section** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/EditingRecordings_MTT.pdf)
+.. **tR Recording Process from the Recording Section** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/EditingRecordings_MTT.pdf)
 
-**tR Editing Audio Recordings** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/EditingRecordings_MTT.pdf)
+.. **tR Editing Audio Recordings** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/EditingRecordings_MTT.pdf)
 
-**Icons on the Target Language Checking Screen**
+.. **Icons on the Target Language Checking Screen**
 
-**Good Bad Not Usable Recordings**
+.. **Good Bad Not Usable Recordings**
 
-**Verse Tagging**
+.. **Verse Tagging**
 
-**Stitching the Audio Together**
+.. **Stitching the Audio Together**
 
 
 Videos
