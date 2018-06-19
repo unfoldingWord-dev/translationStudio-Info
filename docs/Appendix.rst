@@ -29,8 +29,6 @@ Sign up for the `playlist from the YouTube channel <https://www.youtube.com/play
 Power Point Presentations (with PDFs)
 -------------------------------------
 
-**For the Power Point Presentations, click** *Download*
-
 **Getting Started with translationStudio**
 
 *For Android*
