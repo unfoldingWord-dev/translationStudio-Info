@@ -31,6 +31,7 @@ Power Point Presentations (with PDFs)
 
 **For the Power Point Presentations, click** *Download*
 
+.. htmlonly:: Powerpoints and PDFs
 +-----------------+--------------+-------------+
 |                 | For Android  | For Desktop |
 +============+============+====================+
