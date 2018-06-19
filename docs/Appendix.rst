@@ -23,7 +23,7 @@ Appendices
 Videos
 -------
 
-Sign up for the `playlist from the YouTube channel <>`_! 
+Sign up for the `playlist from the YouTube channel <https://www.youtube.com/playlist?list=PLN-c0nJYW1QhJ7Oweb9eLxuidGPycJxiA>`_! 
 
 
 Power Point Presentations (with PDFs)
