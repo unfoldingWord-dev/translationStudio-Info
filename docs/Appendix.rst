@@ -35,7 +35,7 @@ Power Point Presentations (with PDFs)
 
 *For Android*
 
- * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/GetStarted.pptx>`_- (use the 'download' button to download from here) 
+ * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/GetStarted.pptx>`_- (**Click** *Download*) 
  * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/GetStarted.pdf>`_
 
 *For Desktop*
