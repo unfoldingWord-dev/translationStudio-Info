@@ -2,7 +2,7 @@ Appendices
 =====
 
 .. Translator Handouts
------
+.. -----
 .. Use these files to give to the oral-only translators. They might help them remember the steps.
 
 .. **tR Recording Process from the Project Manager** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/RecordingProcess_ProjectManager_MTT.pdf)
