@@ -33,7 +33,7 @@ Power Point Presentations (with PDFs)
 
 .. htmlonly:: Powerpoints and PDFs
 +-----------------+--------------+-------------+
-|                 | For Android  | For Desktop |
+|  Doc Type       | For Android  | For Desktop |
 +============+============+====================+
 | Getting Started | column 2     | column 3    |
 +-----------------+--------------+-------------+
