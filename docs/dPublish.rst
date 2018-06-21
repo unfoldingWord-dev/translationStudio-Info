@@ -1,4 +1,4 @@
-tS for Desktop: Publish Content 
+tS for Desktop: Publishing Content 
 ==========================================================
 
 .. image:: ../images/tSforDesktop.gif
