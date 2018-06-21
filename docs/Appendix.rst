@@ -74,6 +74,4 @@ Power Point Presentations (with PDFs)
 
 .. *For Desktop*
 
-.. **Editing Audio Recordings 1.2.4** 
-..  * Power Point - use the 'download' button to download from here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Editing_Recording-Audio_Recording_v1.2.4.pptx)
-..  * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Editing_Recording-Audio_Recording_v1.2.4.pdf)
+
