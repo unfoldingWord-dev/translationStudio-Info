@@ -1,4 +1,4 @@
-tS for Android™: Publish Content 
+tS for Android™: Publishing Content 
 ==========================================================
 
 .. image:: ../images/tSForAndroidWithAttr.gif
