@@ -1,4 +1,4 @@
-tS for Desktop: Upload/Export Your Work 
+tS for Desktop: Uploading or Exporting Your Work 
 ==========================================================
 
 .. image:: ../images/tSforDesktop.gif
