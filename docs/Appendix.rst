@@ -38,12 +38,12 @@ Power Point Presentations (with PDFs)
 
 .. *For Desktop*
 
-.. **Starting a New Project**
+.**Starting a New Project**
 
-.. *For Android*
+*For Android*
 
-..  * `Power Point <https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Starting_a_New_Project%20v1.2.4.pptx>`_- use the 'download' button to download from here: () 
-..  * PDF - view the file here: (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/presentations/translationRecorder_Starting_a_New_Project%20v1.2.4.pdf)
+* `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/NewProject.pptx`_- (**Click** *Download*)  
+* `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/NewProject.pdf>`_ 
  
 .. *For Desktop*
 
