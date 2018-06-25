@@ -33,16 +33,16 @@ Power Point Presentations (with PDFs)
 
 *For Android*
 
- * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/GetStarted.pptx>`_- (**Click** *Download*) 
+ * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/GetStarted.pptx>`_ - (**Click** *Download*) 
  * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/GetStarted.pdf>`_
 
 .. *For Desktop*
 
-.**Starting a New Project**
+**Starting a New Project**
 
 *For Android*
 
-* `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/NewProject.pptx`_- (**Click** *Download*)  
+* `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/NewProject.pptx>`_ - (**Click** *Download*)  
 * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/NewProject.pdf>`_ 
  
 .. *For Desktop*
