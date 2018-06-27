@@ -98,7 +98,7 @@ Complete these steps to use translationStudio for the first time:
 
    *	Tap Close for each statement.
 
-   *	When you have read all statements, tap I Agree. (At any time you can view the License Agreement, Statement of Faith, Translation Guidelines and the Software Licenses information from the `Settings Menu <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/tSettings.rst>)`_
+   *	When you have read all statements, tap I Agree. (At any time you can view the License Agreement, Statement of Faith, Translation Guidelines and the Software Licenses information from the `Settings Menu <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/tSettings.rst>`_)
 
 4.	The program opens to the Your Translation Projects screen (which is the home screen). 
 
