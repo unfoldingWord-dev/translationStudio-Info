@@ -56,7 +56,7 @@ Power Point Presentations (with PDFs)
 
 .. *For Desktop*
 
-.. **Performing Translation**
+**Performing Translation**
 
 *For Android*
 
