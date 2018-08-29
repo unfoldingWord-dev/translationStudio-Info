@@ -62,6 +62,7 @@ There are six Upload/Export options.
 
 4.	Tap **Export Project File** to create a copy of the entire project file. The steps are the same as exporting to a PDF above.
 
+
 5.	Tap **Send to Friend** to export the file to another device.
 
   * You are asked to specify a name for your device. Enter a name and then tap Confirm.
