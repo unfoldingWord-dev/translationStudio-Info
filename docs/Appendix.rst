@@ -65,12 +65,12 @@ Power Point Presentations (with PDFs)
   
 .. *For Desktop*
 
-.. **Uploading or Exporting a Project**
+**Uploading or Exporting a Project**
 
-.. *For Android*
+*For Android*
 
-.. * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Upload.pptx>`_- (**Click** *Download*) 
-.. * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Upload.pdf>`_
+* `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Upload.pptx>`_- (**Click** *Download*) 
+* `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Upload.pdf>`_
 
 .. *For Desktop*.. 
 
