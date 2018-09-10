@@ -4,7 +4,7 @@ translationStudio for the Desktop: Getting Started
 .. image:: ../images/tSforDesktop.gif
     :width: 205px
     :align: center
-    :height: 130px
+    :height: 230px
     :alt: translationStudio for the Desktop
     
 The translationStudio for the Desktop program enables translators to do offline translating of the Bible or of Bible resources. It can be used for two purposes:
