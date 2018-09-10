@@ -38,7 +38,7 @@ Power Point Presentations (with PDFs)
 
  *For Desktop*
   * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DGetStarted.pptx>`_ - (**Click** *Download*) 
- * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DGetStarted.pdf>`_
+  * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DGetStarted.pdf>`_
 
 **Starting a New Project**
 
