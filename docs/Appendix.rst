@@ -33,19 +33,19 @@ Power Point Presentations (with PDFs)
 
 *For Android*
 
- * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/GetStarted.pptx>`_ - (**Click** *Download*) 
- * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/GetStarted.pdf>`_
+ * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AGetStarted.pptx>`_ - (**Click** *Download*) 
+ * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AGetStarted.pdf>`_
 
  *For Desktop*
-  * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/GetStarted.pptx>`_ - (**Click** *Download*) 
- * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/GetStarted.pdf>`_
+  * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DGetStarted.pptx>`_ - (**Click** *Download*) 
+ * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DGetStarted.pdf>`_
 
 **Starting a New Project**
 
 *For Android*
 
-* `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/NewProject.pptx>`_ - (**Click** *Download*)  
-* `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/NewProject.pdf>`_ 
+* `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ANewProject.pptx>`_ - (**Click** *Download*)  
+* `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ANewProject.pdf>`_ 
  
 .. *For Desktop*
 
@@ -53,8 +53,8 @@ Power Point Presentations (with PDFs)
 
 *For Android*
 
-* `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Navigation.pptx>`_ - (**Click** *Download*)  
-* `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Navigation.pdf>`_ 
+* `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ANavigation.pptx>`_ - (**Click** *Download*)  
+* `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ANavigation.pdf>`_ 
 
 .. *For Desktop*
 
@@ -62,8 +62,8 @@ Power Point Presentations (with PDFs)
 
 *For Android*
 
-* `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Translate.pptx>`_ - (**Click** *Download*)  
-* `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Translate.pdf>`_
+* `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ATranslate.pptx>`_ - (**Click** *Download*)  
+* `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ATranslate.pdf>`_
   
 .. *For Desktop*
 
@@ -71,8 +71,8 @@ Power Point Presentations (with PDFs)
 
 *For Android*
 
-* `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Upload.pptx>`_- (**Click** *Download*) 
-* `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Upload.pdf>`_
+* `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AUpload.pptx>`_- (**Click** *Download*) 
+* `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AUpload.pdf>`_
 
 .. *For Desktop*.. 
 
@@ -80,8 +80,8 @@ Power Point Presentations (with PDFs)
 
 .. *For Android*
 
-.. * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Publish.pptx>`_- (**Click** *Download*) 
-.. * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/Publish.pdf>`_
+.. * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/APublish.pptx>`_- (**Click** *Download*) 
+.. * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/APublish.pdf>`_
 
 .. *For Desktop*
 
@@ -89,8 +89,8 @@ Power Point Presentations (with PDFs)
 
 *For Android*
 
- * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ChangeSettings.pptx>`_- (**Click** *Download*) 
- * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ChangeSettings.pdf>`_
+ * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AChangeSettings.pptx>`_- (**Click** *Download*) 
+ * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AChangeSettings.pdf>`_
 
 .. *For Desktop*
 
