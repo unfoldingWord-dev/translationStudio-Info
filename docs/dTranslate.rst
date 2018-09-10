@@ -4,7 +4,7 @@ tS for Desktop: Performing Translation
 .. image:: ../images/tSforDesktop.gif
     :width: 305px
     :align: center
-    :height: 245px
+    :height: 345px
     :alt: translationStudio for Desktop
 
 A basic translation process for any unfoldingWord project is explained here.
