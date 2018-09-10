@@ -44,8 +44,8 @@ Power Point Presentations (with PDFs)
 
 *For Android*
 
-* `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ANewProject.pptx>`_ - (**Click** *Download*)  
-* `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ANewProject.pdf>`_ 
+ * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ANewProject.pptx>`_ - (**Click** *Download*)  
+ * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ANewProject.pdf>`_ 
  
 .. *For Desktop*
 
@@ -53,8 +53,8 @@ Power Point Presentations (with PDFs)
 
 *For Android*
 
-* `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ANavigation.pptx>`_ - (**Click** *Download*)  
-* `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ANavigation.pdf>`_ 
+ * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ANavigation.pptx>`_ - (**Click** *Download*)  
+ * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ANavigation.pdf>`_ 
 
 .. *For Desktop*
 
@@ -62,8 +62,8 @@ Power Point Presentations (with PDFs)
 
 *For Android*
 
-* `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ATranslate.pptx>`_ - (**Click** *Download*)  
-* `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ATranslate.pdf>`_
+ * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ATranslate.pptx>`_ - (**Click** *Download*)  
+ * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ATranslate.pdf>`_
   
 .. *For Desktop*
 
@@ -71,8 +71,8 @@ Power Point Presentations (with PDFs)
 
 *For Android*
 
-* `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AUpload.pptx>`_- (**Click** *Download*) 
-* `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AUpload.pdf>`_
+ * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AUpload.pptx>`_- (**Click** *Download*) 
+ * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AUpload.pdf>`_
 
 .. *For Desktop*.. 
 
