@@ -65,7 +65,7 @@ Power Point Presentations (with PDFs)
   
 .. *For Desktop*
 
-**Uploading or Exporting a Project**
+**Uploading, Exporting, and Importing a Project**
 
 *For Android*
 
