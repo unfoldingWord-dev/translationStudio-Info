@@ -67,6 +67,18 @@ Power Point Presentations (with PDFs)
   
 .. *For Desktop*
 
+**Adding Footnotes**
+
+.. *For Android*
+
+.. * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ATranslate.pptx>`_ - (**Click** *Download*)  
+.. * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ATranslate.pdf>`_
+  
+*For Desktop*
+
+ * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DFootnote.pptx>`_ - (**Click** *Download*)  
+ * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DFootnote.pdf>`_
+
 **Uploading, Exporting, and Importing a Project**
 
 *For Android*
