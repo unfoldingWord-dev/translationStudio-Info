@@ -60,8 +60,11 @@ Power Point Presentations (with PDFs)
  * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ANavigation.pptx>`_ - (**Click** *Download*)  
  * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ANavigation.pdf>`_ 
 
-.. *For Desktop*
+ *For Desktop*
 
+ * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DNavigation.pptx>`_ - (**Click** *Download*)  
+ * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DNavigation.pdf>`_
+ 
 **Performing Translation**
 
 *For Android*
