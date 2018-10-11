@@ -50,7 +50,7 @@ Power Point Presentations (with PDFs)
  
 *For Desktop*
 
-* `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DNewProject.pptx>`_ - (**Click** *Download*)  
+ * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DNewProject.pptx>`_ - (**Click** *Download*)  
  * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DNewProject.pdf>`_ 
 
 **Performing Navigation**
