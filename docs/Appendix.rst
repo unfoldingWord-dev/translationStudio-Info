@@ -72,7 +72,13 @@ Power Point Presentations (with PDFs)
  * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ATranslate.pptx>`_ - (**Click** *Download*)  
  * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ATranslate.pdf>`_
   
-.. *For Desktop*
+ *For Desktop*
+ 
+   * For mother tongue translation project:
+   
+      * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DTranslate.pptx>`_ - (**Click** *Download*)  
+      * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DTranslate.pdf>`_
+   
 
 **Adding Footnotes**
 
