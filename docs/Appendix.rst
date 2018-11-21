@@ -60,7 +60,7 @@ Power Point Presentations (with PDFs)
  * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ANavigation.pptx>`_ - (**Click** *Download*)  
  * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ANavigation.pdf>`_ 
 
- *For Desktop*
+*For Desktop*
 
  * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DNavigation.pptx>`_ - (**Click** *Download*)  
  * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DNavigation.pdf>`_
@@ -72,7 +72,7 @@ Power Point Presentations (with PDFs)
  * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ATranslate.pptx>`_ - (**Click** *Download*)  
  * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ATranslate.pdf>`_
   
- *For Desktop*
+*For Desktop*
  
    * For mother tongue translation project:
    
