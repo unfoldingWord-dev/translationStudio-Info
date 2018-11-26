@@ -80,6 +80,11 @@ Power Point Presentations (with PDFs)
       * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DTranslate.pdf>`_
    
 
+   * For Bible resources translation project:
+   
+      * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DTranslateResources.pptx>`_ - (**Click** *Download*)  
+      * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DTranslateResources.pdf>`_
+
 **Adding Footnotes**
 
 .. *For Android*
