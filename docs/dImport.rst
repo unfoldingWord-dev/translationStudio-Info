@@ -96,12 +96,17 @@ Importing Duplicate Projects
 If you are importing a project that is the same as a project already in the local program, you will receive a warning message that states: 
 
 * For a USFM file: 
+
   Overwrite? 
+  
   This target translation already exists. 
+  
   Overwrite? 
   
 * For a project file: 
+
   Project Already Exists 
+  
   This project already exists locally. How would you like to proceed? 
   
 The possible actions for dealing with importing duplicate projects are: 
@@ -118,7 +123,7 @@ The possible actions for dealing with importing duplicate projects are:
   
   * If the imported translation has recent changes, they now show in the text. 
 
-*Overwrite Project 
+* Overwrite Project 
   
   * **Warning**: Choosing to overwrite the project removes all information on the computer related to the previous local project and substitutes it with the information from the imported project.
  
