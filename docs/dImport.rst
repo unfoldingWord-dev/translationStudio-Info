@@ -27,7 +27,7 @@ You could also search for another user's project:
 
 1. Remove your user name from the left search field.
 
-2. Type in the Door43 User Name of the user whose project you want to import.
+2. Type in the Door43 user name of the user whose project you want to import.
 
 Another possibility is to search for a project by the book name or language: 
 
