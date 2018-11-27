@@ -88,9 +88,43 @@ Import Source Text
 
 If you have a file containing source text that you want to use for a project, you can select this option to do so. Refer to the information on `<http://resource-container.readthedocs.io/en/latest/index.html>`_ to create your own source text file that can be imported into the translationStudio program. 
 
-Making the choice to import source text opens the File Manager. Navigate to the desired source text file, click the file name, and click Open to import it.
+Making the choice to import source text opens the File Manager. Navigate to the desired source text file, click the file name, and click **Open** to import it.
 
+Importing Duplicate Projects
+-----------------------------
 
+If you are importing a project that is the same as a project already in the local program, you will receive a warning message that states: 
+
+* For a USFM file: 
+  Overwrite? 
+  This target translation already exists. 
+  Overwrite? 
+  
+* For a project file: 
+  Project Already Exists 
+  This project already exists locally. How would you like to proceed? 
+  
+The possible actions for dealing with importing duplicate projects are: 
+
+* Cancel: Clicking Cancel closes the message and the project does not get imported. 
+
+* Merge Projects
+  
+  * The importing process continues. 
+  
+  * When the message that the import is complete shows, click **Close**. 
+  
+  * Open the project. 
+  
+  * If the imported translation has recent changes, they now show in the text. 
+
+*Overwrite Project 
+  
+  * **Warning**: Choosing to overwrite the project removes all information on the computer related to the previous local project and substitutes it with the information from the imported project.
+ 
+  * We recommend that you do not choose this option if you have previously uploaded the project to Door43.
+ 
+  * If you run into difficulty you can always contact help@door43.org for help or submit a ticket using the following link: `<http://help.door43.org/en/topics/new>`_.
 
 
   
