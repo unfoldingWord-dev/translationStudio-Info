@@ -17,7 +17,7 @@ The translationStudio program enables you to import a project from various sourc
 There are four options to choose from when importing to translationStudio.
  
 Import from Door43
-----------------
+-------------------
 
 This requires an Internet connection.
 
@@ -37,109 +37,62 @@ Another possibility is to search for a project by the book name or language:
 
 3. Optional: type in a user's account in the User Name field to filter by the User.
 
-Follow this process to upload to Door43:
+Once you have located the project you wish to import:
 
-1.	When you are in a project, click the 3-dot menu.
+1. Click the desired file to import it, or click **CANCEL** to close the option and return to the Import Options menu.
 
-2.	Click the bar Upload to Door43.
+2. If you import the file, you receive a success message. Click **CLOSE** to close the window.
+
+Import Project File
+--------------------
+
+This process imports into the program a translationStudio project from a file on the computer. These are files that have an extension of tstudio.
+
+Follow this process to import a tstudio file:
+
+1.	Click **Import Project File** to import a project from the hard drive of the computer. 
  
-3.	Wait while the upload process takes place.
+2.	The program opens the file manager to the directory of the translationStudio backups. Either choose one of the backup projects or navigate to the desired file. Hint: you will be able to view only the files that have an extension of tstudio. 
  
-4.	If you are connected to the Internet and signed into a Door43 Account, you will receive an "Upload Complete" message. 
+3.	Click to select the desired .tstudio file, and then click **Open**. 
  
-  *	The message displays a link to the online repository of the file.
+4.	The import begins; when the import is completed a window displays a success message. Click **CLOSE** to close the window.
 
-  * Click the link to open the repository, OR click Close to close the window.
-
-5.	If you are NOT connected to the Internet, you will receive be an "Upload Failed" message. 
- 
-  *	Click Close to close the window.
-
-  * When you can be connected to the Internet, start the upload process again.
-
-Export to USFM File
+Import USFM File
 -------------------
 
-This creates a file of your project with a usfm extension. United Standard Format Marker (USFM) is the international standard of Biblical text. 
+This process imports a file that is formatted as a USFM document. United Standard Format Marker (USFM) is the international standard of Biblical text. 
 
-Follow this process to export, or save, the project to a usfm file:
+Follow this process to import a usfm file:
 
-1.	Click the bar Export to USFM File. 
+1.	Click **Import USFM File** to import a file from the hard drive of the computer. 
  
-2.	The computer's File Explorer window opens to the translationStudio folder. Using the file manager, navigate to the desired location on the computer to save the file. 
- 
-3.	Rename the file if desired. 
+2.	The program opens the file explorer to the translationStudio backups folder. Navigate to find the desired file. **Hint**: you will be able to view only the files that have an extension of txt or usfm.
 
-4.	Click Save. A window shows a 'Project Exported' message. 
- 
-5)	Click Close to close the window.
+3.	Click to select the desired file, and then click **Open**. 
 
-Export to PDF File
+4.	Click to select the target language on the 'Choose a Target Language' screen. You can search for a language by typing the first few letters of the language in the search field. 
+ 
+5.	The remaining screens depend on what information is contained in the USFM file. 
+
+    a. You may be asked to choose a category. Click the desired category to select it. 
+    
+    b. You may be asked to choose a book name. Click the desired book name to select it. 
+    
+    c. You may be asked to choose the project type. Click the desired type to select it.
+    
+6.  The import begins, and when the import is completed a window displays a success message. Click **CLOSE** to close the window.
+
+Import Source Text
 --------------------
 
-This creates a pdf file of your project. Portable Document Format (PDF) is an international standard for sharing documents.
+If you have a file containing source text that you want to use for a project, you can select this option to do so. Refer to the information on `<http://resource-container.readthedocs.io/en/latest/index.html>`_ to create your own source text file that can be imported into the translationStudio program. 
 
-Follow this process to export, or save, the project to a pdf file:
+Making the choice to import source text opens the File Manager. Navigate to the desired source text file, click the file name, and click Open to import it.
 
-1.	Click the bar Export to PDF File. 
- 
-2.	Choose the options from the menu. You may choose any number of the options.
- 
-  * Include incomplete chunks - these are chunks in the translation that have not been marked 'done.'
 
-  * Double space text - this adds an extra empty line between each line of text.
 
-  * Fully justify text - this creates a document where the text is all the way to the beginning and the end of each line of text.
 
-  * New page for each chapter - this creates a document where the start of each chapter is on a new page.
+  
 
-3.	Click Create Preview. Wait for the document to be created. 
 
-4.	Scroll through the preview to see what the document looks like. 
-
-5.	If changes are needed ...
-
-  *	To the content - return to the Project.
-
-    *	Click on Project at the left edge of the top green bar.
-
-    *	Make changes to the content.
-
-  *	To the formatting of the document - return to the Project.
-
-    *	Click on Project at the left edge of the top green bar.
-
-    *	Click the 3-dot icon to invoke the Options menu.
-
-    *	Choose Upload/Export on the menu.
-
-    *	Repeat steps 1 -5 above.
-
-6.	To save the document: 
-
-  * Click Save to PDF on the top bar.
- 
-  * The computer's File Explorer window opens.
- 
-  * Using the file manager, navigate to the desired location on the computer to save the file.
-
-  * Click Save.
-
-7.	A window displays a 'PDF Created' message. 
- 
-8.	Click Close to close the window.  
-
-Export Project File
---------------------
-
-This creates a file of your project with a tstudio extension. This can be used in any other translationStudio version 11 program for either Desktop or Android.
-
-Follow this process to export, or save, the project to a tstudio file:
-
-1.	Click the bar Export Project File. 
- 
-2.	The computer's File Explorer window opens to the backup folder for translationStudio. Using the file manager, navigate to the desired location on the computer to save the file. 
- 
-3.	Click Save. A window displays a 'Project File Complete' message. 
- 
-4.	Click Close to close the window.
