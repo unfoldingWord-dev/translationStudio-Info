@@ -130,6 +130,37 @@ The possible actions for dealing with importing duplicate projects are:
   * We recommend that you do not choose this option if you have previously uploaded the project to Door43.
  
   * If you run into difficulty you can always contact help@door43.org for help or submit a ticket using the following link: `<http://help.door43.org/en/topics/new>`_.
+  
+Merge Conflicts 
+---------------
+
+Occasionally, there may be differences between the information in the program and the information that is in the imported project. This is known as a conflict. When this happens, you see this message:
+
+Import Complete 
+
+Your project has been successfully imported. There are 2 chunks that contain new conflicts that need your attention. 
+
+Resolve the differences by following these steps: 
+
+* Click **Close** to close the message window. 
+
+* Open the project. 
+
+* Observe that there is a triangle icon in the left column. Click the triangle icon to view only the chunks with a conflict.
+
+  * The text that was in the translation before the import is in a green box. 
+  
+  * The text that is new is in the blue box. 
+  
+  * Choose the text that has the preferred translation by clicking on that box. 
+  
+  * Click **Confirm** to use the selected text. Click **Cancel** to not select the text. 
+  
+  * The text that you did not select disappears. 
+  
+Repeat all the above steps until all the conflicts have been resolved by choosing the desired translations. 
+
+**NOTE**: resolve all conflicts before doing another export or import of the project.
 
 
   
