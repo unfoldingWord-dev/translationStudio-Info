@@ -97,17 +97,17 @@ If you are importing a project that is the same as a project already in the loca
 
 * For a USFM file: 
 
-  Overwrite? 
+  *Overwrite?* 
   
-  This target translation already exists. 
+  *This target translation already exists.* 
   
-  Overwrite? 
+  *Overwrite?* 
   
 * For a project file: 
 
-  Project Already Exists 
+  *Project Already Exists*
   
-  This project already exists locally. How would you like to proceed? 
+  *This project already exists locally. How would you like to proceed?*
   
 The possible actions for dealing with importing duplicate projects are: 
 
