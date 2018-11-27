@@ -10,14 +10,32 @@ tS for Desktop: Importing a Project
 
 The translationStudio program enables you to import a project from various sources. To import a project, start from the Home page:
  
-There are four options to choose from when exporting from translationStudio.
+1. Click on the 3-dot icon at the bottom left of the window. 
+
+2. Select Import from the menu. 
+
+There are four options to choose from when importing to translationStudio.
  
-Upload to Door43
+Import from Door43
 ----------------
 
 This requires an Internet connection.
 
-This option copies your work to the online Door43 server, making it available to be downloaded by other translators, merged with other projects, or used as an online backup. You can upload to Door43 only if you have an internet connection and are logged in to a Door43 account.
+If you are logged into translationStudio with a Door43 account; choosing this option opens a screen with a list of all your Door43 online projects.
+
+You could also search for another user's project:
+
+1. Remove your user name from the left search field.
+
+2. Type in the Door43 User Name of the user whose project you want to import.
+
+Another possibility is to search for a project by the book name or language: 
+
+1. Remove your user name from the left search field. 
+
+2. Type in either the book abbreviation or the language code in the right field, or a combination of both (for example, fr_eph for French Ephesians). 
+
+3. Optional: type in a user's account in the User Name field to filter by the User.
 
 Follow this process to upload to Door43:
 
