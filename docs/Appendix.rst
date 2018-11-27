@@ -104,8 +104,11 @@ Power Point Presentations (with PDFs)
  * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AUpload.pptx>`_- (**Click** *Download*) 
  * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AUpload.pdf>`_
 
-.. *For Desktop*.. 
+ *For Desktop* 
 
+ * `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DUpload.pptx>`_- (**Click** *Download*) 
+ * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DUpload.pdf>`_
+ 
 .. **Publishing a Project**
 
 .. *For Android*
