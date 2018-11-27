@@ -20,6 +20,7 @@ Contents:
    tNavigate
    tTranslate
    tUpload
+   tImport
    tPublish
    tSettings
    desktop
@@ -27,6 +28,7 @@ Contents:
    dNavigate
    dTranslate
    dUpload
+   dImport
    dPublish
    dSettings
    Helps
