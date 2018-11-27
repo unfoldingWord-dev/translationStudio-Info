@@ -75,11 +75,11 @@ Follow this process to import a usfm file:
  
 5.	The remaining screens depend on what information is contained in the USFM file. 
 
-    a. You may be asked to choose a category. Click the desired category to select it. 
+    * You may be asked to choose a category. Click the desired category to select it. 
     
-    b. You may be asked to choose a book name. Click the desired book name to select it. 
+    * You may be asked to choose a book name. Click the desired book name to select it. 
     
-    c. You may be asked to choose the project type. Click the desired type to select it.
+    * You may be asked to choose the project type. Click the desired type to select it.
     
 6.  The import begins, and when the import is completed a window displays a success message. Click **CLOSE** to close the window.
 
