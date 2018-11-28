@@ -50,7 +50,7 @@ Power Point Presentations (with PDFs)
  
    * - **Adding Footnotes**
      - `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DFootnote.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DFootnote.pdf>`_
-     - 
+     - To be done
      
    * - **Uploading, Exporting, and Importing a Project**
      - `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AUpload.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AUpload.pdf>`_
@@ -58,9 +58,15 @@ Power Point Presentations (with PDFs)
 
    * - **Modifying Program Settings**
      - `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AChangeSettings.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AChangeSettings.pdf>`_
-     - 
+     - To be done
 
-..   * - **Publishing a Project**
+   * - **Updating Program Elements** (source files, target languages, the program itself)
+     - To be done
+     - To be done
+
+   * - **Publishing a Project**
+     - To be done
+     - To be done
 ..     - `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/APublish.pptx>`_ pr * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/APublish.pdf>`_
 ..    - 
 
