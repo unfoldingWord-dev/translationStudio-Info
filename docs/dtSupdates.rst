@@ -27,7 +27,7 @@ The program now presents you with choices to download selected source texts. If 
 Downloading Available Source Texts
 ----------------------------------
 
-When you choose to download available source texts, you have a choice to look at the source texts in one of two ways: 
+When you choose **Download Available Source Texts** from the Update menu, you have a choice to look at the source texts in one of two ways: 
 
 * By Language – this choice enables you to download multiple books at once for a single language. If you choose to view by language and select a language, only the books that are available for that language are shown. Other books may become available as more source texts get translated and checked.
  
@@ -70,15 +70,26 @@ When you choose to download available source texts, you have a choice to look at
 Updating List of Available Target Languages
 -------------------------------------------
 
-Select Update List of Available Source Texts from the Update menu to update the list of all the target languages available in the program. 
-A progress window opens. At the end of the process a message shows how many new target languages were added. Click CLOSE to return to the Home screen.
+Select **Update List of Available Source Texts** from the Update menu to update the list of all the target languages available in the program. 
+
+A progress window opens. At the end of the process a message shows how many new target languages were added. Click **CLOSE** to return to the Home screen.
+
 Checking for Updates to translationStudio
-Select Check for Updates to translationStudio from the Update menu to open the Internet web page with the latest translationStudio-Desktop release. If there is a release later than the version you have installed, you may wish to update:
+-----------------------------------------
+
+Select **Check for Updates to translationStudio** from the Update menu to open the Internet web page with the latest translationStudio-Desktop release. If there is a release later than the version you have installed, you may wish to update:
+
 1.	Close translationStudio.
+
 2.	Click the appropriate version for your platform to download the installer:
-•	File ending in “linux_x64.zip” is for Linux
-•	File ending in “osx_x64.zip is for Mac
-•	File ending in “win_x32.exe” is for 32-bit Windows (older machines)
-•	File ending in “win_x64.exe” is for 64-bit Windows
+
+    * File ending in “linux_x64.zip” is for Linux
+
+    * File ending in “osx_x64.zip is for Mac
+
+    * File ending in “win_x32.exe” is for 32-bit Windows (older machines)
+
+    * File ending in “win_x64.exe” is for 64-bit Windows
+    
 3.	Navigate to the downloaded file and double-click to install the program. For more detailed information, see How do I install translationStudio on a Desktop Computer?.
 
