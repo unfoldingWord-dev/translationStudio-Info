@@ -23,6 +23,7 @@ Contents:
    tImport
    tPublish
    tSettings
+   ttSUpdates
    desktop
    dStart
    dNavigate
@@ -31,6 +32,7 @@ Contents:
    dImport
    dPublish
    dSettings
+   dtSUpdates
    Helps
    Choosing
    Appendix
