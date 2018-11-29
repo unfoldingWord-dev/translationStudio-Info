@@ -81,7 +81,7 @@ Select **Check for Updates to translationStudio** from the Update menu to open t
 
 1.	Close translationStudio.
 
-2.	Click the appropriate version for your platform to download the installer:
+2.	On the web page in your browser click the appropriate version for your platform to download the installer:
 
     * File ending in “linux_x64.zip” is for Linux
 
