@@ -91,5 +91,5 @@ Select **Check for Updates to translationStudio** from the Update menu to open t
 
     * File ending in “win_x64.exe” is for 64-bit Windows
     
-3.	Navigate to the downloaded file and double-click to install the program. For more detailed information, see How do I install translationStudio on a Desktop Computer?.
+3.	Navigate to the downloaded file and double-click to install the program. For more detailed information, see `Installation <https://ts-info.readthedocs.io/en/latest/desktop.html#installation>`_.
 
