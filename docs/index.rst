@@ -32,7 +32,7 @@ Contents:
    dImport
    dPublish
    dSettings
-   dtSUpdates
+   dtSupdates
    Helps
    Choosing
    Appendix
