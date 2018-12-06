@@ -1,7 +1,7 @@
 Updating Program Elements
 =========================
 
-The Options menu on the home page gives you the option to update program elements. You must be connected to the internet to exercise any of the update options. The options are:
+The Options menu on the home page gives you options for updating program elements. You must be connected to the internet to exercise any of the update options. The options are:
 
 * Update List of Available Source Texts
 
