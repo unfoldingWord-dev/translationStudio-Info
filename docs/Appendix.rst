@@ -62,7 +62,7 @@ Power Point Presentations (with PDFs)
 
    * - **Updating Program Elements** (source files, target languages, the program itself)
      - To be done
-     - To be done
+     - `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DUpdate.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DUpdate.pdf>`_
 
    * - **Publishing a Project**
      - To be done
