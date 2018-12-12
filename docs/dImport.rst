@@ -136,9 +136,9 @@ Merge Conflicts
 
 Occasionally, there may be differences between the information in the program and the information that is in the imported project. This is known as a conflict. When this happens, you see this message:
 
-Import Complete 
+     Import Complete 
 
-Your project has been successfully imported. There are 2 chunks that contain new conflicts that need your attention. 
+     Your project has been successfully imported. There are 2 chunks that contain new conflicts that need your attention. 
 
 Resolve the differences by following these steps: 
 
