@@ -66,8 +66,8 @@ Power Point Presentations (with PDFs)
 
    * - **Publishing a Project**
      - To be done
-     - `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DPublish.pptx>`_ pr * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DPublish.pdf>`_
-..     - `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/APublish.pptx>`_ pr * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/APublish.pdf>`_
+     - `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DPublish.pptx>`_ or * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DPublish.pdf>`_
+..     - `Power Point <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/APublish.pptx>`_ or * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/APublish.pdf>`_
 ..    - 
 
 
