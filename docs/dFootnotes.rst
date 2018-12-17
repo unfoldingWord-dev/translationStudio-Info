@@ -40,15 +40,23 @@ To translate a footnote:
  
 3)	Add footnote coding. Footnote coding identifies the text as a footnote and separates it from the surrounding text. To add footnote coding:
 
-    * Type the following text at the beginning of the footnote, separated from the urrounding text by spaces: \f + \ft
+    * Type the following text at the beginning of the footnote, separated from the surrounding text by spaces:
 
-    * Type the following text at the end of the footnote, separated from the surrounding text by spaces: \f* 
+            \\f + \\ft
+
+    * Type the following text at the end of the footnote, separated from the surrounding text by spaces: 
+    
+            \\f* 
  
     * If there is a quote within the footnote:
       
-      * Replace the beginning quotation mark with: \fqa and a space
+      * Replace the beginning quotation mark with: 
       
-      *	Replace the ending quotation mark with: a space and \fqb 
+            \\fqa and a space
+      
+      *	Replace the ending quotation mark with: 
+      
+            a space and \\fqb 
  
 4)	Translate the footnote text.
 
