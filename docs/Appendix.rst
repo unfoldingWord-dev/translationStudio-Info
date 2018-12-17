@@ -29,7 +29,9 @@ Sign up for the `playlist from the YouTube channel <https://www.youtube.com/play
 Power Point Presentations (with PDFs)
 -------------------------------------
 
-.. list-table:: **Presentations** (Click *Download* on the linked page to download the PowerPoints)
+.. note:: Click **Download** on the linked page to download the PowerPoints
+
+.. list-table:: **Presentations**
    :widths: 15 10 30
    :header-rows: 1
 
@@ -60,7 +62,8 @@ Power Point Presentations (with PDFs)
      - `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AChangeSettings.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AChangeSettings.pdf>`_
      - `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DChangeSettings.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DChangeSettings.pdf>`_
 
-   * - **Updating Program Elements** (source files, target languages, the program itself)
+   * - **Updating Program Elements** 
+       (source files, target languages, the program itself)
      - To be done
      - `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DUpdate.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DUpdate.pdf>`_
 
