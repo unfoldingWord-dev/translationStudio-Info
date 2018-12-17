@@ -81,7 +81,7 @@ To translate a footnote:
  
     * Mark the chunk as done.
     
-For example, the chunk containing the footnote in 1 Cor. 10:28 looks like this:
+For example, the code for the chunk containing the footnote in 1 Cor. 10:28 looks like this:
 
 ::
 
