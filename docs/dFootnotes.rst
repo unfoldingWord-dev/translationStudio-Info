@@ -23,7 +23,7 @@ To translate a footnote:
 
 1)	Copy the footnote.
 
-    *	Click the footnote icon to open it (for example, in 1 Cor. 10:28)  
+    *	In the source text, click the footnote icon to open it (for example, in 1 Cor. 10:28)  
 
     * Highlight the text of the footnote.
 
