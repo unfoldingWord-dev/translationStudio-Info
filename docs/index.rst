@@ -19,6 +19,7 @@ Contents:
    tStart
    tNavigate
    tTranslate
+   tFootnotes
    tUpload
    tImport
    tPublish
@@ -28,6 +29,7 @@ Contents:
    dStart
    dNavigate
    dTranslate
+   dFootnotes
    dUpload
    dImport
    dPublish
