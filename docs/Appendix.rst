@@ -63,7 +63,7 @@ Power Point Presentations (with PDFs)
      - `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DChangeSettings.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DChangeSettings.pdf>`_
 
    * - **Updating Program Elements** 
-..       (source files, target languages, the program itself)
+
      - To be done
      - `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DUpdate.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DUpdate.pdf>`_
 
