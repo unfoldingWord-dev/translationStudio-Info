@@ -29,7 +29,7 @@ Sign up for the `playlist from the YouTube channel <https://www.youtube.com/play
 Power Point Presentations (with PDFs)
 -------------------------------------
 
-.. note:: Click **Download** on the linked page to download the PowerPoints
+*Click* **Download** *on the linked page to download the PowerPoints.*
 
 .. list-table:: **Presentations**
    :widths: 15 10 30
