@@ -85,9 +85,10 @@ For example, the code for the chunk containing the footnote in 1 Cor. 10:28 look
 
 ::
 
-    \v 28 But if someone says to you, "This food was from a pagan sacrifice," do not eat it. This is for the sake of 
-    the one who informed you, and for the sake of conscience.  \f + \ft Some older copies add, \fqa For the earth and 
-    everything in it belong to the Lord. \fqb But the best copies do not have this. \f* \v 29 I do not mean your own 
-    conscience, but the other person's conscience. For why should my freedom be judged by another's conscience? 
-    \v 30 If I partake of the meal with gratitude, why am I being insulted for that for which I gave thanks?
+    \v 28 But if someone says to you, "This food was from a pagan sacrifice," do not eat it. This is 
+    for the sake of the one who informed you, and for the sake of conscience.  \f + \ft Some older 
+    copies add, \fqa For the earth and everything in it belong to the Lord. \fqb But the best copies 
+    do not have this. \f* \v 29 I do not mean your own conscience, but the other person's conscience. 
+    For why should my freedom be judged by another's conscience? \v 30 If I partake of the meal with 
+    gratitude, why am I being insulted for that for which I gave thanks?
 
