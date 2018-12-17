@@ -51,7 +51,7 @@ Power Point Presentations (with PDFs)
      - `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DNavigation.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DNavigation.pdf>`_
  
    * - **Adding Footnotes**
-     - To be done
+     - `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AFootnote.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AFootnote.pdf>`_
      - `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DFootnote.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DFootnote.pdf>`_  
      
    * - **Uploading, Exporting, and Importing a Project**
