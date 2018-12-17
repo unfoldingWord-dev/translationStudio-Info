@@ -18,7 +18,7 @@ Footnotes can provide further explanation when:
 
 To translate a footnote:
 
-1.	Tap the English footnote to open it. 
+1.	In the source text, tap the footnote to open it. 
      
     *	It’s not possible to copy/paste the footnote text.
 
@@ -34,7 +34,7 @@ To translate a footnote:
  
 4.	Tap the Add Footnote icon at the top left of the translated chunk.
  
-5.	Translate the footnote text into the “Add Footnote” pop-up and tap OK.
+5.	Translate the footnote in the source text into the “Add Footnote” pop-up and tap OK.
  
 6.	The footnote icon now appears inline. Tap the check mark to save the changes.
  
