@@ -8,15 +8,14 @@ Use these handouts to give to the mother-tongue translators. This might help the
 
 .. list-table:: **Translator Handouts**
    :widths: 15 30
-   :header-rows: 1
-
-   * - Title
-     - 
 
    * - **Installing translationStudio**
      - `Android <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AtS_Install_Handout.pdf>`_ 
 
+..   :header-rows: 1
 
+..   * - Title
+..     - 
 
 
 
