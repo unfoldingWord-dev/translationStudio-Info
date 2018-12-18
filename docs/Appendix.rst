@@ -64,7 +64,7 @@ Power Point Presentations (with PDFs)
 
    * - **Updating Program Elements** 
 
-     - To be done
+     - `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AUpdate.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AUpdate.pdf>`_
      - `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DUpdate.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DUpdate.pdf>`_
 
    * - **Publishing a Project**
