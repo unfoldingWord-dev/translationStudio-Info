@@ -1,23 +1,23 @@
 Appendices
 =====
 
-.. Translator Handouts
-.. -----
-.. Use these files to give to the oral-only translators. They might help them remember the steps.
+Translator Handouts
+-------------------
 
-.. **tR Recording Process from the Project Manager** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/RecordingProcess_ProjectManager_MTT.pdf)
+Use these handouts to give to the mother-tongue translators. This might help them remember the steps.
 
-.. **tR Recording Process from the Recording Section** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/EditingRecordings_MTT.pdf)
+.. list-table:: **Translator Handouts**
+   :widths: 15 30
+   :header-rows: 1
 
-.. **tR Editing Audio Recordings** (https://github.com/unfoldingWord-dev/translationRecorder-Info/blob/master/EditingRecordings_MTT.pdf)
+   * - Title
+     - 
 
-.. **Icons on the Target Language Checking Screen**
+   * - **Installing translationStudio**
+     - `Android <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AtS_Install_Handout.pdf>`_ 
 
-.. **Good Bad Not Usable Recordings**
 
-.. **Verse Tagging**
 
-.. **Stitching the Audio Together**
 
 
 Videos
