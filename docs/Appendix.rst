@@ -8,14 +8,15 @@ Use these handouts to give to the mother-tongue translators. This might help the
 
 .. list-table:: 
    :widths: 15 30
+   :header-rows: 1
+   
+   * - Title
+     - Links
 
    * - **Installing translationStudio**
      - `Android <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AtS_Install_Handout.pdf>`_ 
 
-..   :header-rows: 1
 
-..   * - Title
-..     - 
 
 
 
@@ -37,6 +38,7 @@ Power Point Presentations (with PDFs)
    * - Title
      - Android
      - Desktop
+     
    * - **Getting Started with translationStudio**
      - \* `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AGetStarted.pptx>`_ or  `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AGetStarted.pdf>`_
      - \* `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DGetStarted.pptx>`_ or  `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DGetStarted.pdf>`_
