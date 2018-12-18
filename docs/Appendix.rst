@@ -22,6 +22,8 @@ Use these handouts to give to the mother-tongue translators. This might help the
    * - **Starting a New Project**
      - `Android <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AtS_NewProject_Handout.pdf>`_
 
+   * - **Navigating**
+     - `Android <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AtS_Navigate_Handout.pdf>`_
 
 Videos
 -------
