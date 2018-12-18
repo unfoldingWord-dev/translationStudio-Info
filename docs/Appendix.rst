@@ -19,6 +19,8 @@ Use these handouts to give to the mother-tongue translators. This might help the
    * - **Creating a Door43 Login**
      - `Android <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AtS_Login_Handout.pdf>`_ 
 
+   * - **Starting a New Project**
+     - `Android <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/AtS_NewProject_Handout.pdf>`_
 
 
 Videos
