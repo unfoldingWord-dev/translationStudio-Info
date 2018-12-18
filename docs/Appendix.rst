@@ -68,7 +68,7 @@ Power Point Presentations (with PDFs)
      - \* `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DUpdate.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DUpdate.pdf>`_
 
    * - **Publishing a Project**
-     - \* `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/APublish.pptx>`_ or * `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/APublish.pdf>`_
+     - \* `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/APublish.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/APublish.pdf>`_
      - \* `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DPublish.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DPublish.pdf>`_
      
 \* *Click* **Download** *on the linked page to download the PowerPoints.*
