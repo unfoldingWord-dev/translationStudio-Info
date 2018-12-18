@@ -6,7 +6,7 @@ Translator Handouts
 
 Use these handouts to give to the mother-tongue translators. This might help them remember the steps.
 
-.. list-table:: **Translator Handouts**
+.. list-table:: 
    :widths: 15 30
 
    * - **Installing translationStudio**
