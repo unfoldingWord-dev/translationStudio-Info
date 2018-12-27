@@ -59,7 +59,7 @@ Difficulty Level 1 (Easiest to Translate)
 Open Bible Stories
 ^^^^^^^^^^^^^^^^^^
 
-Though Open Bible Stories was not assessed according to this rating system, it should fall under Difficulty Level 1. We recommend that you begin by translating Open Bible Stories. There are many good reasons to start by translating Open Bible Stories:
+Though Open Bible Stories was not assessed according to this rating system, it should fall under Difficulty Level 1. There are many good reasons to start by translating Open Bible Stories:
 
 * Open Bible Stories was designed to be easily translated.
   *	It is largely narrative.
