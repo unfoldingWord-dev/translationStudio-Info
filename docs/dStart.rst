@@ -51,7 +51,7 @@ The best way to submit a request is to send an email to help@door43.org. Another
 
 To use Feedback in the 3-dot options menu to request a new language:
 
-1. From any screen in translationStudio, tap the 3-dot icon on the left or bottom.
+1. From any screen in translationStudio, click the 3-dot icon on the left or bottom.
 
 2. In the list of options, click Feedback.
 
@@ -101,11 +101,11 @@ You can add or change source texts at any time while working in the project. You
 
 In the translation project, complete the following steps to select or change the source text language:
 
-1. Click the rectangular icon with the + and - sign  found at the top right of the project window (or at the top right of a previously-chosen source text).
+1. Click the rectangular icon with the + and - sign  found at the center of the project window (or at the top right of a previously-chosen source text).
  
 2. Click the empty square box next to the desired source text and language. You can scroll down to see additional texts, or search by using the magnifying glass icon at the upper right of the *Choose source translations* box.
 
-3. To save the selection(s), tap **Confirm** at the bottom right of the *Choose source translations* box, OR tap **Cancel** to close without saving the selected language.
+3. To save the selection(s), click **Confirm** at the bottom right of the *Choose source translations* box, OR click **Cancel** to close without saving the selected language.
  
 **Note**: You can choose multiple source texts; those selected are moved to the top portion of the *Choose source translations* box under the *Selected* heading. 
  
