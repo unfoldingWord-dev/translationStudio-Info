@@ -11,7 +11,7 @@ tS for Desktop: Starting a Translation Project
 How do I select what to work on?
 --------------------------------
 
-We recommend that you begin by translating Open Bible Stories. You can work your way through the Stories however you want, but we have found that Story #31 (see https://door43.org/en/obs/31) is a good first story to translate since it is short and easy to understand. For more information read `Choosing What to Translate <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ChoosingWhatToTranslate.rst>`_.
+When choosing what to work on, you need to consider several factors, such as the difficulty of the Bible book and the level of experience of the translators. Ultimately the local church decides what they want to work on. For more information read `Choosing What to Translate <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ChoosingWhatToTranslate.rst>`_.
 
 How do I start a translation project?
 ------------------------------
