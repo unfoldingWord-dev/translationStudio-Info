@@ -100,7 +100,7 @@ If you are not in blind edit mode, there are two views for a text project:
 
 *	*Edit-Review view*: The top icon at the left that looks like three vertical lines takes you to the Edit-Review view, where the source text is in the left pane, the translated text is in the middle pane, and the resources are on tabs in the right pane. The center pane can be edited.  
 
-*	*Read view*: The second icon at the left that looks like 3½ horizontal lines takes you to the Read view, which is a view of the entire chapter. The source text is initially visible, but if you click the “piece of paper behind the source text, you can see the translation. Editing is not available in the Chapter view.
+*	*Read view*: The second icon at the left that looks like 3½ horizontal lines takes you to the Read view, which is a view of the entire chapter. The source text is initially visible, but if you click the “piece of paper behind the source text, you can see the translation. Editing is not available in the Read view.
  
 
 **Blind Edit Mode**
