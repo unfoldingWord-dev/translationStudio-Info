@@ -92,7 +92,7 @@ Navigation in a Questions project is the same as for a Notes project.
 Working in a Text project
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The appearance and function of the text project can be different depending on the setting called Blind Edit Mode. This mode, which applies only to text projects, specifies whether the project allows for blind drafting, which changes the views available for the project. You should always use Blind Edit Mode for the initial translation of source text.
+The appearance and function of the text project can be different depending on the setting called Blind Edit Mode. This setting, which applies only to text projects, specifies whether the project allows for blind drafting, which changes the views available for the project. You should always use Blind Edit Mode for the initial translation of source text.
 
 **Text project layout**
 
