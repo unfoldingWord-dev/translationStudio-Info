@@ -12,7 +12,7 @@ Layout
 
 There are two main screens in the translationStudio program: 
 
-*	The Home screen, or *Your Translation Projects* screen, shows any projects that have been created on the tablet. If there are no projects, the Home screen displays a welcome message. The Home screen also shows the user name and a Log out button.
+*	The Home screen, or *Your Translation Projects* screen, shows any projects that have been created on the computer. If there are no projects, the Home screen displays a welcome message. The Home screen also shows the user name and a Log out button.
 
 *	The *Project* screen shows the source and target texts, and can also display translation resources. The Project screen is where you perform all of the translation work on a single project. It shows the source text and the translated text. Depending on the type of project, the Project screen can display three different views and contains navigation and menu icons to enable you to move around in the program. The navigation and menu icons are on the left of the screen.
 
