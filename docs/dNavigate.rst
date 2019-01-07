@@ -151,7 +151,7 @@ translationWords
 
 Click the Words tab for the translationWords. 
   
-The words are listed as they appear in the story on in the ULB. Click the word or phrase for help in understanding how to translate the word into the target language.
+The words are listed as they appear in the story or in the ULB. Click the word or phrase for help in understanding how to translate the word into the target language.
 
 translationQuestions
 ^^^^^^^^^^^^^^^^^^^^
