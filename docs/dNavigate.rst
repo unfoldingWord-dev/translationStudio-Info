@@ -158,7 +158,7 @@ translationQuestions
 
 Click the Questions tab for the translationQuestions. 
  
-The questions are about information as it appears in the story on in the ULB. Read the question and answer it according to the translated text. Click the question for the expected answer. If the given answer and the expected answer are the same then the translation might be clear and accurate.
+The questions are about information as it appears in the story or in the ULB. Read the question and answer it according to the translated text. Click the question for the expected answer. If the given answer and the expected answer are the same then the translation might be clear and accurate.
  
 Options Menu 
 ------------
