@@ -81,6 +81,20 @@ Server Settings
 
 Keep the settings for the server as determined by the program. There is no need to edit any of the settings unless directed by an unfoldingWord support technician.
 
+To change the location of the online receiving server to the Wycliffe Associates Content Server - make these changes:
+
+1. **Authentication Server**: leave this blank (remove information there)
+
+2. **Authentication Server Port**: leave this blank (remove information there)
+
+3. **Git Server**: git@wacs.bibletranslationtools.org (instead of git@git.door43.org)
+
+4. **Git Server Port**: 22 (instead of 9299)
+
+5. **Git Server API**: https://content.bibletranslationtools.org/api/v1 (instead of https://git.door43.org/api/v1)
+
+6. **Media Server**: https://api.bibletranslationtools.org (instead of https://api.unfoldingword.org)
+
 Legal Settings
 --------------
 
