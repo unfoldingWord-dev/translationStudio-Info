@@ -20,7 +20,7 @@ Installation
 
 This process requires an Internet connection.
 
-  1. Go to: https://github.com/unfoldingWord-dev/ts-desktop/releases
+  1. Go to: https://github.com/unfoldingWord-dev/ts-desktop/releases/tag/11.1
 
   2. Click the appropriate file for your computer:
 
