@@ -56,7 +56,7 @@ Power Point Presentations (with PDFs)
      - \* `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ANavigation.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ANavigation.pdf>`_
      - \* `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DNavigation.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DNavigation.pdf>`_
      
-        * - **Performing Translation**
+   * - **Performing Translation**
      - \* `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ATranslate.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/ATranslate.pdf>`_
      - \* `PowerPoint <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DTranslate.pptx>`_ or `PDF <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/DTranslate.pdf>`_
  
